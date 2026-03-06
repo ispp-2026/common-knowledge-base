@@ -39,7 +39,7 @@ Para la próxima presentación, estos puntos son de cumplimiento  **obligatorio*
 ## 5. Presentación
 
 * **Formato de Diapositivas:** Menos texto y más gráficos/metáforas visuales. Si hay párrafos, deben estar sincronizados con el discurso (leer textualmente para enfatizar).
-* **Killer Opener:** La siguiente presentación debe iniciar con un gancho corto y potente que capte la atención desde el segundo uno. Debe de estar relacionado con el tema de exposición.
+* **Killer Opener:** La siguiente presentación debe iniciar con un gancho corto y potente que capte la atención desde el segundo uno. Debe de estar relacionado con el tema de exposición. Al presenta este debemos ser activos y alegres, transmitir emoción real.
 * **Dinámica:** Mejorar la fluidez en los cambios de ponente y evitar ir demasiado rápido (gestión del tiempo).
 * **Imagen Corporativa:** Mantener la estética, pero incluir eslogan y cuidar la visibilidad de los elementos clave.
 * A nivel general seguir exponiendo como hasta ahora
@@ -161,7 +161,7 @@ Para la próxima presentación, estos puntos son de cumplimiento  **obligatorio*
 * Debemos de dar detalles concretos de aquello que nos diferencia del resto (por ejemplo, X hace esto, pero nosotros hacemos esto mejor)
 
 
-### Semana 3 (26/02), evaluación
+### Semana 3 (26/02)
 
 **Obligatorio para la siguiente clase (05/03) :**
 
@@ -216,4 +216,73 @@ Para la próxima presentación, estos puntos son de cumplimiento  **obligatorio*
 * Definición de características muy superficial. Decir porque nuestra propuesta presenta más variedad con respecto al resto.
 * Detallas que nos da la IA como diferenciador.
 * Se deben de mencionar las personas concretas del grupo y sus roles
-* 
+
+### Semana 3 (26/02), evalución
+
+En general resaltar positivamente que estamos echando cuenta al feedback y que vamos en buena direcciones.
+
+**Obligatorio para la siguiente clase (12/03) :**
+* Documentación de todo lo que no sea pedido explícitamente en un formato concreto (pdf o excel) se debe de hacer en md.
+* Presentación de un tercio del avance hasta el momento.
+* Análisis de retrospectiva del sprint.
+* Trabajo mejor del Open Killer.
+* Stack tecnológico.
+* Demo de los casos core hechos hasta el moemento.
+* Visión de alto nivel de nuestra metodología y del ALM.
+* Revisión plan de desarrollo del sprint.
+* Análisis de rendimiento de los miembros y como medimos rendimiento.
+* Plan de pruebas y como lo gestionamos.
+* Listado explicito usuarios pilotos.
+* Modelo gestion y recogida de feedback.
+* Presentación equipo y estructura.
+* Análisis económico.
+* Comparativa competidores (una sola diapositiva).
+* Commitment agreement en 1 - 2 diapo, ver decicacion temporal por miembro, desde comienzo proyecto y desde el sprint. Además 1 diapositiva más del team building.
+* IMPORTANTE: visión de mejora continua siendo más concreta: análisis problemas encontrados, ver estado de estos problemas, ver las medidas, plan contingencia, lecciones aprendidas, decir como nos estamos asegurando que las medidas tomadas realmente están funcionando. (Ver problemas concretos y medidas concretas)
+
+**Con respecto al Killer Openner**
+* Buen killer oppener pero falta mas energía por parte de los presentadores.
+*  Intentar transmitir alegría para conseguir enganche en la presentación.
+
+**Con respecto al foco diferenciador**
+* Bien presentado (IA, estadísticas) aunque se necesita concretar más con respecto al avance, nos quedamos demasiado en la capa superficial.
+* Ver si el problema a la hora de concretar nuestro foco diferenciador se cebe a un problema de concepto o de presentación.
+* Ver foco diferenciador de las estadísticas
+* Responder a: ¿Cuál es nuestro elemento diferenciador real?
+
+**Con respecto al ciclo de vida**
+*  Da la sensación de que no se tiene en cuenta las iteraciones de los sprint. no se transmite como se va a ir construyendo. 
+*  Es importante la temporalidad en los sprint ya que todos no van a durar lo mismo para saber a qué nos enfrentamos.
+*  Es importante decir como vamos construyendo ese producto poco a poco respecto a cada sprint (incrementalmente).
+*  No se ve el impacto temporal.
+
+**Con respecto al cumplimiento del Sprint**
+* Nos quedamos en la parte superficial ya que no concretamos como mitigar los errores.
+* Hemos dicho lo que ha ido pasando y hemos dicho que lo hemos ido mitigando, pero tenemos que profundizar mas en que estamos haciendo para evitarlo.
+
+**Conjunto de razones de fallo en el sprint2**
+* Existencia de errores del tipo: crash y errores http no tratados.
+* No debe de haber botones sin funcionalidad.
+* No de deben de mandar datos desde formularios que no se hayan validado anteriormente.
+* Todo debe de hacer lo que debe de hacer.
+* No está permitido que por culpa de un error un usuario pueda hacer cosas en la aplicación que en teoría no debería de poder hacer por su rol.
+* Debe de estar desplegado sí os sí.
+
+**Otras anotaciones**
+* Incentivar las entrevistas personales con los usuarios pilotos.
+* Hilo conducto un poco conductor un poco caótico, reestruturar un poco. *
+* Poner algo mas alla en el commitment agremment que el tema de las horas, poner mas cosas. *
+* Poner costes de contratación se situan en copex y opex, en ambos sitios y también se debe de tener en cuenta costes de mantenimiento.
+* Se debe de poner a nivel de miles de euros, 30K x ejemplo.
+* Seguir poniendo el video con las cosas core, no capturas.
+* Responder a la pregunta como sabemos que esta funcionando bien las medidas que estamos implemntando, no solo cuales son, si no, además, si están funcionando.
+
+
+*Feedback no dirigido a nosotros en exclusiva.
+
+
+
+
+
+
+
