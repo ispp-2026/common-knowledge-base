@@ -96,3 +96,14 @@ En esta página se encuentra el feedback recogido por el grupo A - Rooma durante
 - En el análisis de coste tener en cuenta los costos del equipo de soporte en el caso de externalizar la resolución de incidencias
 - En el análisis de coste debe aparecer un análisis según el volumen de usuarios (usar tabla comparativa)
 - En el análisis del commitment agreement usar en vez de horas de una semana exacta, usar las horas totales y la media por semana por integrante
+
+### Semana 5 (05/03)
+
+- Hilo conductor sigue sin ser coherente del todo, no atrae.
+- No presentarnos como estudiantes, somos ingenieros.
+- No usar palabras técnicas que los clientes puedan no entender.
+- Difrenciar entre riesgos y problemas.
+- Poca profundidad en la tecnología.
+- Justificar como estamos intentando solucionar los problemas y si eso esta funcionando.
+- No podemos decir que nuestros elementos diferenciadores se delegan en otros
+- En el análisis económico especificar datos temporales y calcular datos en cuanto a usuarios.
