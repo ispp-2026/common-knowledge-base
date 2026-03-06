@@ -165,3 +165,31 @@ Para la próxima presentación, estos puntos son de cumplimiento  **obligatorio*
 - Es importante diferenciar qué gastos ya son reales y cuáles son estimaciones futuras.
 - El apartado de presupuesto debe estar claramente estructurado y por categorías (CAPEX Y OPEX).
 - Para los costes de personal usar los costes de contratación.
+
+
+### Semana 5 (05/03), evaluación
+**Con respecto a la presentación:**
+- Cuidado con los accesorios que se pone en las diapositiva, están bien, pero pueden quitar el protagonismo del contenido.
+- Trabajar en la energía del comienzo del inicio efectivo.
+
+**Con respecto a los sprints**:
+- Crear una demo en formato video, para comprobar la veracidad de lo que llevamos hecho.
+- Incorporar la gestión de las pruebas.
+- En la visión de la mejora continua, cuando se analizan los problemas, las lecciones aprendidas y el plan de contingencia, aportar las acciones que estamos tomando para cambiarlo y que métricas estamos usando para comprobar que se esta mejorando.
+
+**Con respecto a los usuarios piloto:**
+- En la recogida del feedback es importante estar abierto a cambiar el plan y el foco.
+- Tener en cuenta que nos dice los usuarios pilotos, ya que podemos sacar funcionalidades nuevas que aporten valor a nuestro producto.
+- Incorporar el feedback que hemos obtenido de los usuarios pilotos.
+
+**Con respecto a los CA:**
+- Hacer una checklist con las cosas del commitment agreetment de lo que se está cumplimento.
+- Hacer una comparativa cuando se explica la evolución en hora que ha tenido un compañero por algún caso específico.
+- No centrarnos solo en el cumplmiento del tiempo, sino poner otros datos como si se estan cumpliento las  tareas, etc.
+
+**Con respecto a la Gestión de costes:**
+- Es conveniente poner grandes números no ir al céntimo.
+
+**Otros aspectos:**
+- Incorporar una diapositiva sobre el team building.
+
