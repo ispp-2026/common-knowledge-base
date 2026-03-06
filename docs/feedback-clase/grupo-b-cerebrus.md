@@ -4,7 +4,7 @@ description: Feedback proporcionado al grupo B Cerebrus.
 ---
 En esta página se encuentra el feedback recogido por el grupo B - Cerebrus durante el curso. Este feedback incluye comentarios, sugerencias y recomendaciones proporcionados por el profesor para mejorar el desempeño del grupo en futuras actividades y proyectos.
 
-### Última actualización: 22 de febrero
+### Última actualización: 06 de marzo
 
 ## 1. Definición de Producto
 
