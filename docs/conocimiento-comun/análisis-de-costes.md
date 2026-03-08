@@ -14,3 +14,7 @@ En esta página se recopila el feedback proporcionado por los profesores a los d
 - A la hora de poner un precio a los servicios es interesante plantear a los usuarios pilotos la siguiente pregunta: ¿Cuánto estaríais dispuesto a pagar? y analizar los resultados.
 - Establecer el intervalo temporal al que hace referencia el presupuesto.
 - Diferenciar entre gastos reales y estimaciones futuras.
+
+## Feedback del día 05/03
+- Costes de contratación se situan en copex y opex, en ambos sitios y también se debe de tener en cuenta costes de mantenimiento.
+- En la presentación hablar de miles de euros, 30K x ejemplo.
