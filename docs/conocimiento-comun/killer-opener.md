@@ -35,3 +35,9 @@ En esta página se recopila el conocimiento común y el feedback proporcionado p
 - El impulso del opener genera una actitud positiva en los evaluadores para el resto de la exposición, así que aprovechar esto.
 
 > **Ejemplo de lo que NO se debe hacer:** El grupo *Cerebrus* inició su presentación con un DEP a modo de broma por la ausencia de un compañero. Aunque hizo gracia, no aportaba valor ni estaba relacionado con la aplicación, perdiendo un poco el foco.
+
+## Feedback del día 05/03
+
+- Intentar darle energía y transmitir alegría para enganchar a la audiencia.
+- No usar siempre el mismo tipo de killer opener.
+- Poner fuentes si usamos datos que deben ser impactantes
