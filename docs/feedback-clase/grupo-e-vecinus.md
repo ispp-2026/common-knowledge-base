@@ -207,7 +207,7 @@ Ajustes específicos en diapositivas:
 - Se recomiendo presentar con más calma, ir más lento
 - Se recomienda llevar una vestimenta adecuada
 - Decir más en menos frases -> usar palabras clave.
-- Enfocar la presentación al desarollo.
+- Enfocar la presentación al desarrollo.
 
 **Con respecto a la presentación:**
 
@@ -226,3 +226,26 @@ Ajustes específicos en diapositivas:
 - Debemos ir incluyendo como va el desarrollo de la app en lugar de mockups siempre que sea posible
 - Desbalanceado entre mockups y los análisis de trabajo y Sprint. Hay muchas presentaciones de mockups
 - Análisis de costes teniendo en cuenta GASTOS REALES (licencias, planes, sin tener en cuenta que somos estudiantes, sino como empresa)
+
+### Semana 5 (05/03), Evaluación Sprint 1
+
+**Con respecto a la presentación:**
+
+- Debemos cuadrar el tiempo de la presentación
+- Las transiciones están un poco desorganizadas
+- Demo es una demo(usar un vídeo o algo similar). Además, no quedaba claro qué estaba terminado y qué no
+- Debemos tener y seguir un hilo argumental. Que haya una transición entre los bloques fluidos
+
+**¿Qué debemos de corregir?**
+
+- Debemos dejar más claro la firma digital
+- Para la firma hacer lo de los bancos, quizás sea lo más sencillo
+- No es profesional dar la app gratis (a los usuarios piloto en el futuro). Pensar en la rentabilidad.
+- Dar una solución a modo de producción, y si es limitada gratis. (Explicar bien que todo el despliegue y demás es gratis)
+- Para las pruebas usar el modelado (por ejemplo, los test hacer con mocks y no gastar llamadas a la API) y para los usuarios piloto el real
+- Los gastos son confusos
+- Los gastos operativos no son personas
+- Commitment agreement, debemos decir si se está cumpliendo o si se ha inflingido
+- Para la gestión de incidencias igual ya existe algo hecho, investigar si podemos usarlo a modo de api por ejemplo
+- En las lecciones aprendidas, no usar tapices, sino poner la frase real y completa
+- En cuanto al riesgo y sus magnitudes debemos evaluarlo (alto, medio, bajo) y cúanto podría costar (30% incluido en el coste por ejemplo)

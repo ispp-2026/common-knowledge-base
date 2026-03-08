@@ -63,7 +63,7 @@ En esta página se recopila el feedback proporcionado por los profesores a los d
 - Se recomienda presentar con más calma, ir más lentos.
 - Se recomienda llevar una vestimenta adecuada.
 - Decir más en menos frases -> usar palabras clave.
-- Enfocar la presentación al desarollo.
+- Enfocar la presentación al desarrollo.
 - Debe haber mayor homogeneidad y consistencia en la presentación y la imagen corporativa. 
 - Diferencia en estilos entre diapositivas. El estilo y la paleta deben ser uniforme.
 - Incluir como va el desarrollo de la app en lugar de mockups siempre que sea posible.
