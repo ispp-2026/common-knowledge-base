@@ -13,8 +13,6 @@ En esta página se encuentra el feedback recogido por el grupo E - Vecinus duran
 
 **Público objetivo:** Se recomienda focalizar la atención y la narrativa en el tipo de usuario que dé más juego y aporte más valor (ya sea el administrador o el propietario), sin llegar a eliminar al otro perfil.
 
-**El rol de la IA (Human in the loop):** Es vital cuidar el lenguaje y la instrumentación de los prompts. Debe quedar meridianamente claro que la IA es un asistente, pero la decisión final siempre recae sobre el humano.
-
 **Evolución del producto:** A medida que avanza el proyecto, se debe priorizar mostrar el estado de desarrollo real de la aplicación, sustituyendo las presentaciones basadas exclusivamente en mockups.
 
 ## 2. Análisis Estratégico, Riesgos y Viabilidad Económica
@@ -249,3 +247,29 @@ Ajustes específicos en diapositivas:
 - Para la gestión de incidencias igual ya existe algo hecho, investigar si podemos usarlo a modo de api por ejemplo
 - En las lecciones aprendidas, no usar tapices, sino poner la frase real y completa
 - En cuanto al riesgo y sus magnitudes debemos evaluarlo (alto, medio, bajo) y cúanto podría costar (30% incluido en el coste por ejemplo)
+
+**Aspectos generales comentados en clase:**
+
+- Hilo conductor en presentaciones. No suele quedar claro cuando empieza o cuando acaba un bloque. Debemos intentar guiar la presentación como si fuesemos respondiendo preguntas que le puedan ir surgiendo al público.
+- Hay que darle más valor al feedback de los pilotos y entrevistas personales.
+- El commitment va más allá de las horas y es un aspecto positivo decir si cambia y el por qué.
+- Costes de contratación. Capex (los del inicio del proyecto) & Opex (mantenimiento, soporte, evolución, ...)
+- Poner los costes como 30K por ejemplo mejor que 30.256€.
+- Las demos no son capturas de pantalla, lo ideal es poner la app funcionando (en vivo o en vídeo)
+- El Sprint 2 es más estricto: todos los docs que no nos pidan en EV debemos tenerlos en formato markdown en el repositorio
+- Se actualizan las razones de suspenso. Ahora incluyen más motivos.
+
+**Aspectos generales comentados para el próximo:**
+
+- Será un día de revisión igual que siempre
+- Análisis de retrospectiva del sprint con los siguientes puntos (Killer Opener, Stack tecnológico, Demo, Metodología de desarrollo, ALM(CI/CD), Plan de desarrollo de los Sprints, Análisis de rendimiento de miembros, Plan de pruebas)
+- MUY IMPORTANTE PARA EL PRÓXIMO DÍA: Análisis de problemas encontrados con su estado (abierto, cerrado, en curso) y medidas de contingencia. Analizar cómo estamos analizando la solución (acciones a tomar y métricas para ver si ese problema está siendo bien 
+gestionado)
+- Más cosas que debemos tener en la presentación:
+    - Listado de usuarios piloto
+    - Modelo de recogida de feedback
+    - Equipo y estructura
+    - Análisis Copex/Opex
+    - Competidores
+    - Commitment: ver la dedicación en horas desde el comienzo del proyecto y desde el sprint
+    - Transparencia al team building
