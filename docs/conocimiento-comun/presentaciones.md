@@ -67,3 +67,16 @@ En esta página se recopila el feedback proporcionado por los profesores a los d
 - Debe haber mayor homogeneidad y consistencia en la presentación y la imagen corporativa. 
 - Diferencia en estilos entre diapositivas. El estilo y la paleta deben ser uniforme.
 - Incluir como va el desarrollo de la app en lugar de mockups siempre que sea posible.
+
+## Feedback del día 09/03
+
+- El hilo conductor de la presentación debe ser claro, capaz de atraer al público.
+- Debemos presentarnos como ingenieros, no como estudiantes.
+- No debemos usar palabras técnicas que los clientes no puedan entender.
+- Debe presentarse las demos reales en formato vídeo o el sistema funcionando en tiempo real antes que en capturas.
+- No ir al céntimo con los costes, dar los números grandes.
+- Debemos tener cuidado con los accesorios que se pone en las diapositiva, están bien, pero pueden quitar el protagonismo del contenido.
+- Debemos trabajar en la energía del comienzo del inicio efectivo. 
+- Debemos incorporar una diapositiva sobre el team building.
+- Debemos cuadrar el tiempo de la presentación, ensayarla previamente y estudiar los problemas que puedan surgir a la hora de presentar.
+- Las transiciones deben estar organizadas.
