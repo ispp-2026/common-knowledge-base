@@ -5,7 +5,7 @@ description: Feedback proporcionado al grupo E Vecinus.
 
 En esta página se encuentra el feedback recogido por el grupo E - Vecinus durante el curso. Este feedback incluye comentarios, sugerencias y recomendaciones proporcionados por el profesor para mejorar el desempeño del grupo en futuras actividades y proyectos.
 
-### Última actualización: 8 de marzo
+### Última actualización: 13 de marzo
 
 ## 1. Definición del producto y análisis del valor
 
@@ -273,3 +273,69 @@ gestionado)
     - Competidores
     - Commitment: ver la dedicación en horas desde el comienzo del proyecto y desde el sprint
     - Transparencia al team building
+
+
+### Semana 6 (12/03), Sprint 2
+
+**Aspectos positivos:**
+
+- Hemos mejorado la forma de exponer
+- Hemos mejorado en la velocidad de exposición, vamos más calmados
+
+**Aspectos que no pueden faltar el próximo día (motivo de suspenso):**
+
+- Divergencia de horas, en el total y en el sprint 2. Debemos añadir dos gráficas
+- Lecciones aprendidas
+- Para cada problema, debemos tener una métrica para ver si se está solucionando
+
+**En cuanto a las diapositivas:**
+
+- La transparencia de los competidores está abandonada. Debemos ajustarla al peso que le damos pues muchas cosas no se explican, quitarlas.
+- La demo no está mal pero hay que mejorarla. Debemos adaptarla haciendo zoom, que sea más realista, no mostrar cosas innecesarias como el login
+- Tenemos que añadir una diapositiva al menos del team building.
+
+**Otros aspectos:**
+
+- El killer opener no es del todo correcto para un público formal donde haya usuarios potenciales. Básicamente, que si el publico es mas serio, que no utilicemos memes para abrir la presentacion
+- Como sabemos que número es el optimos de usuarios piloto. Debemos reflexionar por qué 8 es correcto y no 14.
+- No vale decir que la app es de coste cero, en el mundo real vamos a pagar. Así que para el presupuesto evitamos el coste cero, aunque usemos el plan gratuito debemos poner el plan de pago en el presupuesto.
+
+**Aspectos generales comentados en clase:**
+
+- Con respecto a la demo, no es una landing. Debemos hacerle zoom a lo que mostramos, y pensar en lo que enseñamos (nada de login ni registro)
+- Con respecto a los pilotos, debemos plantear un plan de crecimiento
+- A partir de ahora, en el stack tecnológico, solo hay que explicar nuestra elección, nada de alternativas descartadas.
+- Las cifras económicas ponerlas como 30K.
+- Intentar que las fotos de equipo sean uniformes, todas iguales.
+- Las desviación de tiempo (horas) y el análisis de rendimiento (tareas completadas, sin completar) son dos cosas totalmente diferentes. No podemos ponerlas como lo mismo
+- Team building: obligatorio poner el resultado del mismo
+- El feedback de los pilotos debemos tratarlo como oro. Es importante hacerles esta pregunta: ¿Cuánto pagarían por la aplicación?
+- Fallos comunes que son suspenso directo:
+    - No enseñar la desviación de tiempo por persona en este Sprint en curso y en el total (desde el inicio)
+    - No tener una forma sistemática de mejora. Para cada problema, una métrica de cómo medir si se está solucionando o no el problema, y un umbral como sistema de medida de esa métrica.
+
+**Aspectos comentados para la defensa del Sprint 2:**
+
+Debemos hacer una presencación de retrospectiva con foco en:
+
+- Killer opener
+- Demo CORE (en teoría para esta presentación ya tiene que estar todo acabado)
+- CI/CD. Explicar el framework de pruebas para cada tipo (unitarias, integración, end to end)
+- Stack tecnológico, sin comparativas. Al grano con nuestra elección.
+- Resumen de alto nivel de si hemos cumplido lo previsto
+- Análisis de rendimiento por persona y decir cómo lo estamos midiendo
+- Plan de trabajo planteado para el Sprint 3. Comentar si hemos tenido que hacer algún reajuste.
+- Análisis detallado de los problemas que hemos encontrado. Para cada problema: estado, medida tomada, contingencia, métricas para ver si se soluciona, umbral y periodo para ver si se alcanza.
+- Pilotos, resumen de alto nivel. Quitar las personas y añadir el número y tipo de cada uno. Plan para aumentar la cantidad y cómo gestionarlos.
+- Feedback recogido de los pilotos y reflexión sobre el mismo
+
+Además, debe aparecer también en las diapositivas lo siguiente:
+
+- El equipo
+- El presupuesto
+- El estado actual (lo que ya hemos gastado del presupuesto) y la previsión futura a nivel económico
+- Precios contextualizados en un marco temporal (ej, precio/mes) y si depende o no de la cantidad de pilotos
+- Capex y Opex, en que tiempo y cómo varía segun el número de pilotos
+- Resumen de alto nivel de competidores. Contextualizar el foco principal y el valor diferencial
+- Team building y cómo está funcionando
+- Resumen alto nivel del commitment. Dedicación real sobre estimada para cada miembro desde el comienzo del proyecto y en el sprint actual.
