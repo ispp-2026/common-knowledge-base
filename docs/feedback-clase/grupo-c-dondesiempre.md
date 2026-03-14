@@ -5,7 +5,7 @@ description: Feedback proporcionado al grupo C DondeSiempre.
 
 En esta página se encuentra el feedback recogido por el grupo C - DondeSiempre durante el curso. Este feedback incluye comentarios, sugerencias y recomendaciones proporcionados por el profesor para mejorar el desempeño del grupo en futuras actividades y proyectos.
 
-### Última actualización: 5 de marzo
+### Última actualización: 12 de marzo
 
 ## 1. Tips para Presentaciones
 
@@ -17,6 +17,9 @@ En esta página se encuentra el feedback recogido por el grupo C - DondeSiempre 
 - **Demos Reales**: Hay que empezar a transicionar hacia demostraciones reales. Mostrar el sistema funcionando en tiempo real o mediante un vídeo, evitando usar únicamente imágenes. Debe verse qué está desarrollado de verdad.
 - **Flujo de la Herramienta**: Al mostrar la aplicación, refinar la explicación trazando un flujo claro de cómo funciona cada interacción con la herramienta.
 - **Síntesis y Feedback**: Mantener el énfasis, la prioridad y la capacidad de síntesis, demostrando que se refleja activamente el feedback proporcionado en las semanas anteriores.
+- **Narrativa con flujo lógico**: Transicionar hacia un modelo de demostración con una historia desde la perspectiva del usuario (ej. un cliente que llega desde Instagram).
+- **Gestión de tiempos visuales**: Mantener durante más tiempo las diapositivas que contengan gráficas o datos complejos para que la audiencia pueda procesarlos.
+
  
 
 ## 2. Tips para Análisis de competidores
@@ -33,6 +36,8 @@ En esta página se encuentra el feedback recogido por el grupo C - DondeSiempre 
 - **Acción Inmediata**: Disponer de una lista de contactos sólida y salir a hablar con ellos cuanto antes.
 - **Validación de Precios**: Usar a los pilotos para fijar el precio. Pregunta clave a realizarles: "¿Cuánto estarías dispuesto a pagar?".
 - **Dependencia**: El éxito del proyecto depende directamente de la masa crítica de comercios en la aplicación.
+- **Análisis de feedback**: No solo identificar bugs con los pilotos, sino explicar cómo esos hallazgos impactarán en la planificación o el backlog.
+
 
 ## 4. Tips para Killer Opener
 
@@ -58,6 +63,9 @@ En esta página se encuentra el feedback recogido por el grupo C - DondeSiempre 
 - **Análisis de Planes**: Afinar el coste de los planes de suscripción basándose en el feedback de los pilotos, no en suposiciones.
 - **Nivel de Detalle**: No ir al céntimo con los costes; es mucho mejor dar los números grandes para facilitar la lectura y comprensión.
 - **CapEX vs. OpEX**: Aclarar la diferencia conceptual en los costes de contratación. El coste de construir el software debe añadirse al CapEX (que tiene mayor peso inicial). El OpEX debe reservarse para los gastos una vez construido el software (mantenimiento, soporte, etc.).
+- **Formas de pago**: Proporcionar formas claras de establecer costes (coste por hora, por trabajador, etc.) y evitar diapositivas con cifras que aturullen.
+- **Revisión de beneficios**: Validar la coherencia de las estimaciones de ingresos (ej. los 500.000€ previstos) para que sean realistas.
+
 
 ## 7. Tips para Organización del Equipo
 
@@ -66,6 +74,10 @@ En esta página se encuentra el feedback recogido por el grupo C - DondeSiempre 
 - **Team Building**: Se sugiere buscar dinámicas (opcionales) para fomentar el "buen rollo" ante los desajustes habituales del trabajo.
 - **Comunicación**: Aclarar en la presentación cómo se organiza el equipo (chat, reuniones, frecuencia).
 - **Gestión del Alcance**: Reducir el alcance es una muy buena opción y una excelente práctica de gestión ante imprevistos; no es algo de lo que el equipo deba avergonzarse.
+- **Umbrales de éxito**: Al definir una acción de mejora, marcar siempre un umbral objetivo (ej. "reducir un X% en este periodo").
+- **Gestión del sobreesfuerzo**: Establecer mecanismos para evitar que el equipo trabaje el doble de lo pactado, analizando el impacto ético y económico.
+- **Métricas de valor**: Definir el éxito de las tareas no solo por horas, sino por su peso, impacto y resolución efectiva.
+
 
 ## 8. Tips para Commitment Agreement y Clockify
 
@@ -73,6 +85,7 @@ En esta página se encuentra el feedback recogido por el grupo C - DondeSiempre 
 - **Análisis de Desviaciones**: Explicar claramente por qué hay desviaciones elevadas. Entender y transmitir que tener un exceso de horas es igual de negativo que no llegar a las comprometidas, ya que indica una mala planificación.
 - **Gestión del Exceso de Horas**: No basta con reconocer que mucha gente está muy desviada en horas; falta explicar si se va a seguir permitiendo y cómo se va a gestionar o abordar este problema a futuro.
 - **Detalle del Commitment**: Refinar cómo se expone el acuerdo. Evitar que parezca genérico explicando las características concretas de cada Commitment y cómo se está abordando. Es muy recomendable crear una especie de checklist visual para demostrar su seguimiento.
+- **Transparencia en desviaciones**: Explicar claramente si las tareas retrasadas se han replanificado, omitido o resuelto.
 
 ## 9. Notas 
 
@@ -130,3 +143,18 @@ En esta página se encuentra el feedback recogido por el grupo C - DondeSiempre 
 - Herramienta: se han mostrado detalles. Por refinar un poco: un flujo más de cómo funciona cada interacción con la herramienta.
 - Exceso de horas: sigue chirriando. Mucha gente muy desviada, falta un análisis de: esto pasa, ¿lo vamos a seguir permitiendo? Una vez reconocido el problema, gestionar cómo se va a abordar. (ya que funcione o no es otra cosa)
 - Commitment agreement: podría refinarse, no se dicen las características concretas de cada Commitment, no sabemos si es el genérico y cómo se está abordando. Ideal hacer una especie de checklist para que se vea cómo se está abordando.
+
+### Semana 6 (12/03):
+
+- Definir umbrales: No basta con medir; cada acción de mejora debe incluir un objetivo porcentual y un marco temporal específico.
+- Más allá de las horas: Es necesario definir métricas de impacto y peso de las tareas, no solo contabilizar el tiempo dedicado.
+- Análisis de calidad: Se reconoce un buen esfuerzo técnico en la automatización y profundidad de las pruebas de aseguramiento.
+- Hilo conductor: La demo debe seguir una historia lógica desde la perspectiva del usuario (ej. flujo desde Instagram a la tienda).
+- Tiempos de exposición: Mantener más tiempo en pantalla las gráficas o datos complejos para permitir su correcta lectura.
+- Killer Opener: Evaluar si ciertos elementos "divertidos" son adecuados para el contexto o si deben alinearse más con el producto.
+- Evitar errores técnicos visibles, como outfits sin imagen; es preferible usar datos ficticios que dejen la interfaz incompleta.
+- Roles claros: Se valora positivamente que se hayan identificado y mostrado los distintos roles de usuario en la demo.
+- Gestión del sobreesfuerzo: Buscar mecanismos para evitar que los miembros del equipo doblen su carga de trabajo y analizar su impacto en el coste.
+- Transparencia en la planificación: Aclarar si las tareas retrasadas se han resuelto, omitido o si han provocado una replanificación del sprint.
+- Usuarios piloto: Detallar qué pruebas específicas hicieron los usuarios y cómo sus bugs afectarán al plan de trabajo.
+- Claridad financiera: Desglosar los costes (ej. coste por hora o por trabajador) y revisar la coherencia de la estimación de beneficios de 500.000€.
