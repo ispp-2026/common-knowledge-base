@@ -8,3 +8,6 @@
   ## Feedback del día 19/02
   * Explicar primero la idea de negocio antes de presentar a los desarrolladores.
   * Es aconsejable hacer un Team Building, con el objetivo de fomentar el "buen rollo" ante los desajustes habituales del trabajo.
+
+ ## Feedback del día 12/03
+ * A la hora de presentar al equipo, este se debe de presentar usando fotos coorporativas profesionales donde se muestre unicidad.
