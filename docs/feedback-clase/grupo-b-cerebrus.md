@@ -4,7 +4,7 @@ description: Feedback proporcionado al grupo B Cerebrus.
 ---
 En esta página se encuentra el feedback recogido por el grupo B - Cerebrus durante el curso. Este feedback incluye comentarios, sugerencias y recomendaciones proporcionados por el profesor para mejorar el desempeño del grupo en futuras actividades y proyectos.
 
-### Última actualización: 06 de marzo
+### Última actualización: 15 de marzo
 
 ## 1. Definición de Producto
 
@@ -161,7 +161,7 @@ Para la próxima presentación, estos puntos son de cumplimiento  **obligatorio*
 * Debemos de dar detalles concretos de aquello que nos diferencia del resto (por ejemplo, X hace esto, pero nosotros hacemos esto mejor)
 
 
-### Semana 3 (26/02)
+### Semana 4 (26/02)
 
 **Obligatorio para la siguiente clase (05/03) :**
 
@@ -217,7 +217,7 @@ Para la próxima presentación, estos puntos son de cumplimiento  **obligatorio*
 * Detallas que nos da la IA como diferenciador.
 * Se deben de mencionar las personas concretas del grupo y sus roles
 
-### Semana 3 (26/02), evalución
+### Semana 5 (05/03), evalución
 
 En general resaltar positivamente que estamos echando cuenta al feedback y que vamos en buena direcciones.
 
@@ -280,9 +280,55 @@ En general resaltar positivamente que estamos echando cuenta al feedback y que v
 
 *Feedback no dirigido a nosotros en exclusiva.
 
+### Semana 6 (12/03)
 
+Muy bien la forma de presentar al equipo y bien hecho lo de poner el dinero en miles. Seguimos mejorando. Presentación fluida.
 
+**Obligatorio para la siguiente clase (26/03) :**
+* Retrospectiva s2.
+* Demo caso uso crítico.
+* Killer Openner.
+* Visión de producto
+* Sistema CI/CD, explicitar framework de pruebas que usamos para el testing de unitarios, end2end e integración.
+* Stack tecnológico. (Sin comparativa)
+* Resumen de alto nivel de que ha pasado en el s2 (previsto vs lo que se ha realizado)
+* Análisis de rendimiento de miembros del equipo, explícito por persona y decir, además, cómo medimos ese rendimiento (métricas concretas).
+* (en caso de haber sido necesario) Reajustes del plan del sprint
+* Plan concreto del s3.
+* Análisis de problemas. Por cada problema: estado, medidas, lecciones aprencidas, contingencias y como sabemos que esta funcionando la solución. Ademas incluyendo métricas concretas, umbral al que queremos llegar, y periodo de tiempo en lo que lo queremos conseguir.
+* Análisis de usuarios piloto. Resumen de alto nivel de los usuarios hasta el momento (no hace falta decir personas concretas): número de usuarios y de cada tipo cuantos tenemos. Además plan para aumentar ese numero y cómo se gestionan y el estado de recogida de feedback. Añadir reflexiones de que hemos analizado sobre ese feedback. Tiene que responder a la pregunta clave: ¿cuánto pagarías por esto? Deben responder los usuarios piloto sin que demos rango de precio, sin influenciarles nada.
+* Presentación equipo + estructura
+* Análisis económico. Estado actual económico y previsión a futuro, en concreto capex y opex. Importante: análisis de cada cifra tiene que estar contextualizada en un marco temporal y, si esa cifra depende del número de usuarios, poner para cuantos usuarios son esas cifras. (dar ese contexto)
+( Suspenso si no tenemos análisis económico donde se vea: estado actual de cuanto llevamos gastado, previsión a futuro de capex opex con línea temporal y número de usuarios previsto).
+* Ver, según las horas que llevamos totales de trabajo, cuanto llevaríamos gastado del presupuesto total.
+* Análisis de competidores (1 diapo muy al pricipio).
+* 1 diapo del team buildin, además de explicar cómo está funcionando (si no hay estamos suspendidos)
+* 1 o 2 diapo de commitment Agremment, resumen de alto nivel explicitando dedicación temporal real vs estimada donde se vea para cada miembro desde inicio asignatura y desde inicio de sprint actual.
 
+**Con respecto a la demo:**
+* Demo se tiene que ver bien con zooms, ver orden lógico de cosas.
+* Pensar en lo que ponemos en la demo.
+* Demostración dejar mas claro cómo se pasa de alumno a profesor.
 
+**Con respecto a la vista de la aplicación:**
+* Interfaz con más usabilidad  por parte del profesor.
+* No llevar lo de gamificación a parte del profesor porque es menos usable la interfaz.
+* (propuesta del profesorado) pensar actividades sobre cómo a los alumnos se les introducca el de pensamiento computacional, ética y uso de la ia.
 
+**Con respecto al killer oppener:**
+* Ver quien es nuestro publico objetivo al que vamos a presentar la aplicación, reflexionar sobre cual puede ser un buen killer opener que capte la atención.
 
+**Con respecto a la presentación**
+* Empezar con una frase explícita no está del todo bien, intentarlo cambiarlo, ya que es algo para decirlo textualmente y no aporta mucho, entonces mejor poner imágenes o algo aimilar.
+* Poner contenido q de valor diferencial claro no estándar. Ciclo de revisión de pr y todo eso es muy estándar asi que no hace falta de poner a tanto detalle ya que no aporta demasiado. Quitarlo para darle más importancia a otras cosas.
+* Cuántos minutos usamos de GitHub actions.
+* Para aportar valor a nivel metodológico: indicar como estruturar clocki y  que correspondencia tiene las issues con las tareas el clocki.
+* Que se vea visualmente en la presentación como hacemos foco en las cosas.
+
+**Con respecto al análisis del rendimiento**
+* Que tareas se han complicado, que dificultad tenían, no mezclar en la misma diapositiva análisis y desviaciones de tiempo.
+
+**Otras anotaciones**
+* fallos muy comunes, suspensos directos: 
+	- 1 no enseñar las desviaciones en curso de todos los miembro por sprint y el total de la asignatura.
+	- 2 no tener una forma sistemática de mejora. Para cada problema debemos de definir unas acciones concretas (problemas en curso) y más importante una metrica concreta que diga como se está solucionando además de un umbral objetivo (en esta métrica se quiere llegar a tanto) y un objetivo temporal de cuánto queremos tardar en llegar a ese umbral de esa métrica. 
