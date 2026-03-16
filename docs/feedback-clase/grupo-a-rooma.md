@@ -107,3 +107,18 @@ En esta página se encuentra el feedback recogido por el grupo A - Rooma durante
 - Justificar como estamos intentando solucionar los problemas y si eso esta funcionando.
 - No podemos decir que nuestros elementos diferenciadores se delegan en otros
 - En el análisis económico especificar datos temporales y calcular datos en cuanto a usuarios.
+
+### Semana 6 (12/03)
+
+- Mejorar el killer opener para captar más la atención desde el principio.
+- Aplicar la filosofía menos es más y ajustar el foco de la presentación.
+- Reducir el tiempo y el nivel de detalle en el análisis de competidores.
+- Explicar mejor el apartado de las facturas para dejar claro cómo nos desmarcamos de la competencia.
+- Revisar la plataforma Wolo para coger inspiración.
+- Hacer una demo directa, con datos reales, dejando claro cuándo empieza y mostrando solo lo clave (eliminar inicios de sesión).
+- Quitar la explicación genérica de Scrum y contar únicamente lo que hemos adaptado nosotros.
+- Mostrar las desviaciones de tiempo de forma visual e individual (tanto en el sprint como en general).
+- Corregir los títulos de las gráficas de horas para distinguir bien entre la media y el total.
+- Desglosar y detallar mucho más los gastos, incluyendo un análisis de costes con fórmulas.
+- Añadir el coste de GitHub a los gastos.
+- Mantener las buenas transiciones de bloque que ya tenemos.
