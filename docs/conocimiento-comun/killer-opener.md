@@ -46,3 +46,4 @@ En esta página se recopila el conocimiento común y el feedback proporcionado p
 
 - Se puede hacer divertido, pero asegurarse de que esté 100% alineado con el producto y el contexto profesional.
 - No puede ser una distracción del resto de la presentación.
+- Trabajar la vocalización y la postura corporal. (recomendaron ver la charla TED *"How to speak so that people want to listen"* de Julian Treasure).
