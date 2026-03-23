@@ -42,4 +42,19 @@
 - [ ] **Commitment Agreement enseñando horas**
 
 ## Sprint 2
+**Fecha:** ` 26/03/2026`
+- [ ] **Killer Opener**
+- [ ] **Idea clara**
+- [ ] **ALM enfocado en testing y CI/CD**
+- [ ] **Stack tecnológico**
+- [ ] **Análisis de rendimiento**
+- [ ] **Plan S3**
+- [ ] **Problemas durante el desarrollo**
+- [ ] **Análisis de usuarios piloto**
+- [ ] **Equipo**
+- [ ] **Análisis económico**
+- [ ] **Análisis de competidores**
+- [ ] **Team building**
+- [ ] **Análisis del commitment agreement**
+
 ## Sprint 3
