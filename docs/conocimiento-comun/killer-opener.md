@@ -41,3 +41,8 @@ En esta página se recopila el conocimiento común y el feedback proporcionado p
 - Intentar darle energía y transmitir alegría para enganchar a la audiencia.
 - No usar siempre el mismo tipo de killer opener.
 - Poner fuentes si usamos datos que deben ser impactantes
+
+## Feedback del día 12/03
+
+- Se puede hacer divertido, pero asegurarse de que esté 100% alineado con el producto y el contexto profesional.
+- No puede ser una distracción del resto de la presentación.
