@@ -18,3 +18,8 @@ En esta página se recopila el feedback proporcionado por los profesores a los d
 ## Feedback del día 05/03
 - Costes de contratación se situan en copex y opex, en ambos sitios y también se debe de tener en cuenta costes de mantenimiento.
 - En la presentación hablar de miles de euros, 30K x ejemplo.
+
+## Feedback del día 12/03
+- Desglosar y detallar mucho los gastos, incluyendo un análisis de costes con fórmulas.
+- Añadir previsión de gasto vs gastos reales.
+- Evitar los costes ceros, ya que en la realidad no existen.
