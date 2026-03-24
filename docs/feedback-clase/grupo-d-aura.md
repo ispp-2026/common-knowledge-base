@@ -193,3 +193,81 @@ Para la próxima presentación, estos puntos son de cumplimiento  **obligatorio*
 **Otros aspectos:**
 - Incorporar una diapositiva sobre el team building.
 
+### Semana 6 (12/03), Sprint 2
+
+**Métricas, seguimiento y lecciones aprendidas:**
+-Incluir porcentajes en las lecciones aprendidas para evidenciar si se están cumpliendo los objetivos.
+-Definir siempre: Métrica, Umbral objetivo, Período de evaluación, Estado actual.
+-Mostrar de forma sistemática si las acciones están mejorando los problemas.
+
+**Datos, gráficas y comprensión:**
+-Incluir gráficas de supuestos dentro del presupuesto.
+-Asegurarse de que cada dato se entiende por sí solo o añadir contexto.
+-No saturar con demasiada información sin tiempo para explicarla.
+-Destacar y explicar claramente los puntos clave de las gráficas durante la presentación.
+
+**Presentación:**
+-Mejorar la gestión del tiempo.
+-Eliminar el índice si no se va a utilizar.
+-Trabajar los tonos de voz, especialmente en partes críticas.
+-Mejorar vocalización y preparación previa.
+-Diseñar un “killer opener” más llamativo.
+-Apoyarse en referencias como la charla de “cómo hablar para que la gente te escuche”.
+
+**Demo:**
+-Cuidar las transiciones y la fluidez.
+-Evitar cortar imágenes o elementos visuales.
+-Centrarse en los casos de uso core.
+-Eliminar el login si no aporta valor en la demo.
+-Mostrar una historia clara (por ejemplo, interacción guía–turista).
+-Asegurar que la demo se vea bien en todo momento.
+
+**Problemas y análisis:**
+-Explicar el impacto real de los problemas.
+-Acompañarlos siempre de métricas.
+-Analizar desviaciones de tiempo y rendimiento del equipo.
+-Evaluar complejidad de tareas y grado de cumplimiento.
+
+**Presentación del sprint:**
+-Mejorar claridad en títulos y temporalidad.
+-Mostrar: Qué se ha cumplido, Qué no, Rendimiento del equipo
+-Incluir desviaciones por persona: En el sprint y En total
+
+**Análisis económico (CAPEX / OPEX):**
+-Profundizar más, evitando superficialidad.
+-Diferenciar claramente:
+-Costes de operación (OPEX)
+-Costes de ejecución (CAPEX)
+-Contextualizar cada cifra en el tiempo.
+-Si depende de usuarios, representarlo con gráficas basadas en una fórmula definida.
+
+**Usuarios piloto:**
+-Enfatizar la recogida de feedback.
+-Mostrar: Número de usuarios y tipo de usuarios (sin nombres)
+-Definir plan de crecimiento de usuarios.
+-Analizar si realmente se está llegando al público objetivo.
+-Reflexionar sobre el feedback: Qué decisiones ha provocado (añadir/quitar funcionalidades)
+
+**Iteración y mejora continua:**
+-Implementar un sistema estructurado de mejora:
+-Problema → Acción → Métrica → Umbral → Período → Estado
+-Analizar si las acciones están funcionando realmente.
+-Considerar el feedback como el elemento más valioso del proyecto.
+
+**Producto y casos de uso:**
+-Mostrar casos de uso habituales: Creación de rutas desde PC y Uso en móvil con vista personalizada
+-Enfocarse en escenarios reales y relevantes.
+
+**Stack tecnológico:**
+-Explicarlo de forma directa y al grano.
+-Evitar comparativas innecesarias.
+
+**Equipo:**
+-Usar fotos corporativas del equipo.
+-Incluir una presentación clara del equipo.
+
+**Team building:**
+-Mostrar resultados del team building.
+-Reflexionar si se van a aplicar cambios o no.
+-Explicar el modelo y cómo está funcionando.
+
