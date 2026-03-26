@@ -5,22 +5,21 @@ description: Feedback proporcionado al grupo C DondeSiempre.
 
 En esta página se encuentra el feedback recogido por el grupo C - DondeSiempre durante el curso. Este feedback incluye comentarios, sugerencias y recomendaciones proporcionados por el profesor para mejorar el desempeño del grupo en futuras actividades y proyectos.
 
-### Última actualización: 12 de marzo
+### Última actualización: 26 de marzo
 
 ## 1. Tips para Presentaciones
 
-- **Gestión del tiempo y ritmo**: En la Semana 4 se comentó que hubo "demasiado contenido y demasiado rápido". Es vital hablar más tranquilos y dar tiempo al cliente/profesor para asimilar los conceptos, especialmente en partes densas como el CI/CD.
-- **Transiciones**: Trabajar la fluidez en los cambios de ponente. Las interrupciones rompen el ritmo del discurso; deben ser naturales.
-- **Equilibrio técnico/visual**: Aunque el análisis técnico sea muy bueno, evitar un nivel de detalle excesivo en las diapositivas que abrume a la audiencia.
+- **Gestión del tiempo y ritmo**: En la Semana 4 se comentó que hubo "demasiado contenido y demasiado rápido". Es vital hablar más tranquilos y dar tiempo al cliente/profesor para asimilar los conceptos, especialmente en partes densas como el CI/CD.  Se recomienda simplificar o reducir el contenido menos crítico.
+- **Hilo conductor y transiciones**: El flujo narrativo debe tener sentido global. Evitad "saltos extraños" entre temas que rompan el hilo (por ejemplo, pasar del Team Building a los Usuarios Piloto; el Team Building debe presentarse junto a la sección del equipo). Las transiciones de ponente deben ser naturales.
+- **Equilibrio técnico/visual**: Aunque el análisis técnico sea muy bueno, evitar un nivel de detalle excesivo en las diapositivas que abrume a la audiencia.Las presentaciones no deben perder los apoyos visuales en ningún momento. Mantener el equilibrio para no abrumar con texto, pero dejad en pantalla el tiempo suficiente las diapositivas con gráficas o datos complejos para que se puedan procesar.
 - **Seguimiento de proyecto**: En las transparencias de seguimiento, las desviaciones deben ser explícitas. No mostrar solo horas; indicar desviaciones en contenidos y funcionalidades (qué se estimó vs. qué se hizo). Además, es clave resaltar el estado anterior y el actual a lo largo del Sprint y del total del proyecto.
 - **Explicación del CI/CD**: Debe explicarse con suficiente detalle técnico (se pidió en la semana 3), pero con el tiempo necesario para que se entienda (en la semana 4 se pasó demasiado rápido).
-- **Demos Reales**: Hay que empezar a transicionar hacia demostraciones reales. Mostrar el sistema funcionando en tiempo real o mediante un vídeo, evitando usar únicamente imágenes. Debe verse qué está desarrollado de verdad.
+- **Demos Reales, Diferenciadoras y con Historia**: Es obligatorio transicionar a demostraciones reales (en vivo o vídeo) asegurando un zoom adecuado para que se vea perfectamente. No mostréis funcionalidades aisladas; usad una historia de usuario como hilo conductor y aseguraos de que la demo destaque claramente los elementos diferenciadores de la plataforma frente a la competencia.
 - **Flujo de la Herramienta**: Al mostrar la aplicación, refinar la explicación trazando un flujo claro de cómo funciona cada interacción con la herramienta.
 - **Síntesis y Feedback**: Mantener el énfasis, la prioridad y la capacidad de síntesis, demostrando que se refleja activamente el feedback proporcionado en las semanas anteriores.
 - **Narrativa con flujo lógico**: Transicionar hacia un modelo de demostración con una historia desde la perspectiva del usuario (ej. un cliente que llega desde Instagram).
 - **Gestión de tiempos visuales**: Mantener durante más tiempo las diapositivas que contengan gráficas o datos complejos para que la audiencia pueda procesarlos.
 
- 
 
 ## 2. Tips para Análisis de competidores
 
@@ -47,6 +46,8 @@ En esta página se encuentra el feedback recogido por el grupo C - DondeSiempre 
 - **Coherencia**: El opener no debe ser un "show" aislado; tiene que estar totalmente alineado con la narrativa del resto de la presentación.
 - **Variedad**: No quedarse siempre con el mismo killer opener. Hay que ser atrayentes y buscar fórmulas nuevas que generen más enganche.
 - **Fuentes de Datos**: Si se usan datos de impacto en el contexto real (ej. "se cierran 37 tiendas de media diariamente"), es obligatorio citar las fuentes para demostrar su veracidad.
+- **Toma de control inmediata**: No esperéis a que la sala se quede en silencio por sí sola. El objetivo del opener es irrumpir, llamar su atención de golpe y hacer que su foco cambie hacia vosotros en menos de 1 minuto.
+- **Contenido seguro y alineado**: El inicio debe estar totalmente alineado con la narrativa de la presentación. Además, evitad estrictamente tocar temas polémicos (como mencionar "residentes ilegales" u otros temas sensibles que puedan desviar la atención negativamente).
 
 
 ## 5. Tips para Idea de Negocio
@@ -62,21 +63,25 @@ En esta página se encuentra el feedback recogido por el grupo C - DondeSiempre 
 - **Precisión**: Cuidado con la palabra "salario". Especificar siempre si es Salario Bruto, Líquido o Coste de Empresa/Contrato para evitar errores de interpretación.
 - **Análisis de Planes**: Afinar el coste de los planes de suscripción basándose en el feedback de los pilotos, no en suposiciones.
 - **Nivel de Detalle**: No ir al céntimo con los costes; es mucho mejor dar los números grandes para facilitar la lectura y comprensión.
-- **CapEX vs. OpEX**: Aclarar la diferencia conceptual en los costes de contratación. El coste de construir el software debe añadirse al CapEX (que tiene mayor peso inicial). El OpEX debe reservarse para los gastos una vez construido el software (mantenimiento, soporte, etc.).
+- **CapEX vs. OpEX**: Aclarar la diferencia conceptual en los costes de contratación. El coste de construir el software debe añadirse al CapEX (que tiene mayor peso inicial). El OpEX debe reservarse para los gastos una vez construido el software (mantenimiento, soporte, etc.). Importante: no se debe separar el OpEx del mantenimiento, ya que forma este forma parte del primero.
 - **Formas de pago**: Proporcionar formas claras de establecer costes (coste por hora, por trabajador, etc.) y evitar diapositivas con cifras que aturullen.
 - **Revisión de beneficios**: Validar la coherencia de las estimaciones de ingresos (ej. los 500.000€ previstos) para que sean realistas.
+- **Punto de Equilibrio (Break Even)**: Mucho cuidado al calcular y presentar el Break Even en relación con el CapEx. Revisar bien los números para que no haya incongruencias financieras.
 
 
 ## 7. Tips para Organización del Equipo
 
 - **Política de Código**: Norma estricta: Todos los miembros deben hacer commits, independientemente de si su rol es marketing o documentación.
 - **Priorización (Secuenciación)**: Planificar las tareas priorizando el desarrollo de las funcionalidades que aportan valor diferenciador frente a la competencia.
-- **Team Building**: Se sugiere buscar dinámicas (opcionales) para fomentar el "buen rollo" ante los desajustes habituales del trabajo.
+- **Team Building**: Se sugiere buscar dinámicas (opcionales) para fomentar el "buen rollo" ante los desajustes habituales del trabajo. Dadle mayor peso de manera general a las acciones de Team Building para fomentar el buen ambiente ante los desajustes, y aseguraos de presentarlo lógicamente cuando habléis de la organización del equipo.
 - **Comunicación**: Aclarar en la presentación cómo se organiza el equipo (chat, reuniones, frecuencia).
 - **Gestión del Alcance**: Reducir el alcance es una muy buena opción y una excelente práctica de gestión ante imprevistos; no es algo de lo que el equipo deba avergonzarse.
 - **Umbrales de éxito**: Al definir una acción de mejora, marcar siempre un umbral objetivo (ej. "reducir un X% en este periodo").
 - **Gestión del sobreesfuerzo**: Establecer mecanismos para evitar que el equipo trabaje el doble de lo pactado, analizando el impacto ético y económico.
 - **Métricas de valor**: Definir el éxito de las tareas no solo por horas, sino por su peso, impacto y resolución efectiva.
+- **Rendimiento vs. Horas**: Es un error conceptual grave medir el rendimiento en horas. O se miden horas consumidas, o se mide rendimiento (impacto, peso, resolución), pero no se puede medir el rendimiento en horas.
+- **Concreción en las medidas correctivas**: No usar frases genéricas como "se tomarán medidas" ante imprevistos o sobreesfuerzos. Hay que ser concretos y especificar qué tipo de medida exacta o métrica se va a aplicar. Marcar siempre un umbral de éxito objetivo (ej. "reducir un X%").
+- **Dinámica de trabajo**: Mantened la norma estricta de que todos hagan commits, priorizar tareas de valor diferenciador, aclarar canales de comunicación y recordad que reducir el alcance es una práctica de gestión válida de la que no hay que avergonzarse.
 
 
 ## 8. Tips para Commitment Agreement y Clockify
@@ -158,3 +163,11 @@ En esta página se encuentra el feedback recogido por el grupo C - DondeSiempre 
 - Transparencia en la planificación: Aclarar si las tareas retrasadas se han resuelto, omitido o si han provocado una replanificación del sprint.
 - Usuarios piloto: Detallar qué pruebas específicas hicieron los usuarios y cómo sus bugs afectarán al plan de trabajo.
 - Claridad financiera: Desglosar los costes (ej. coste por hora o por trabajador) y revisar la coherencia de la estimación de beneficios de 500.000€.
+
+### Semana 7 (26/03, evaluación):
+
+- Enfoque Narrativo (Storytelling): Evolucionar las demostraciones de producto hacia un modelo basado en historias de usuario, evitando la presentación de funcionalidades de manera aislada para aportar mayor contexto y valor.
+- Optimización del Ritmo y Contenido: Se percibe una alta densidad de información debido a la extensión. Se recomienda simplificar o reducir ciertos apartados para mejorar la comprensión del mensaje.
+- Refinamiento del Hilo Conductor: Fortalecer la transición entre bloques temáticos para evitar saltos abruptos.
+    > **Ejemplo:** Suavizar el paso de la sección de Team Building a Usuarios Piloto (una posible solución es integrar la presentación del equipo dentro de la dinámica de Team Building).
+- Gestión de Expectativas: Mantener una actitud proactiva ante el feedback recibido, ya que la capacidad de reacción del equipo se considera un factor diferencial y clave para el éxito del proyecto.
