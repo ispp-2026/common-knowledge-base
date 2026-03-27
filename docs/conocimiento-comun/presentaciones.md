@@ -68,7 +68,7 @@ En esta página se recopila el feedback proporcionado por los profesores a los d
 - Diferencia en estilos entre diapositivas. El estilo y la paleta deben ser uniforme.
 - Incluir como va el desarrollo de la app en lugar de mockups siempre que sea posible.
 
-## Feedback del día 09/03
+## Feedback del día 05/03
 
 - El hilo conductor de la presentación debe ser claro, capaz de atraer al público.
 - Debemos presentarnos como ingenieros, no como estudiantes.

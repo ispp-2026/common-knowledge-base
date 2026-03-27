@@ -5,57 +5,30 @@ description: Feedback proporcionado al grupo E Vecinus.
 
 En esta página se encuentra el feedback recogido por el grupo E - Vecinus durante el curso. Este feedback incluye comentarios, sugerencias y recomendaciones proporcionados por el profesor para mejorar el desempeño del grupo en futuras actividades y proyectos.
 
-### Última actualización: 13 de marzo
+### Última actualización: 27 de marzo
 
-## 1. Definición del producto y análisis del valor
+## 📢 Presentación y Narrativa
+**Hilo Conductor:** La presentación no puede ser un listado de puntos; debe tener una narrativa que conecte todo.
 
-**Análisis de valor y Foco Core:** Se ha realizado un buen trabajo transmitiendo la utilidad de la herramienta. No obstante, en las exposiciones se deben reordenar las prioridades: los casos de uso CORE y diferenciadores deben presentarse siempre antes que las funcionalidades genéricas.
+**Killer Opener:** Debe ser profesional y neutro. Prohibido el uso de memes, temas políticos o controvertidos ante un público formal.
 
-**Público objetivo:** Se recomienda focalizar la atención y la narrativa en el tipo de usuario que dé más juego y aporte más valor (ya sea el administrador o el propietario), sin llegar a eliminar al otro perfil.
+**Demo Mejorada:** Hacerla más realista con zoom, eliminando pasos innecesarios como el login o el cambio constante entre comunidades.
 
-**Evolución del producto:** A medida que avanza el proyecto, se debe priorizar mostrar el estado de desarrollo real de la aplicación, sustituyendo las presentaciones basadas exclusivamente en mockups.
+## 📊 Negocio y Presupuesto
+**Coste Real:** Eliminar el concepto de "coste cero". En el presupuesto se deben reflejar los planes de pago, aunque se use la capa gratuita actualmente.
 
-## 2. Análisis Estratégico, Riesgos y Viabilidad Económica
+**Modelo de Ingresos:** Evaluar el cambio de un coste fijo por comunidad a un coste por uso o por número de pisos (límites de uso).
 
-**Diferenciación:** Se ha logrado una correcta y clara diferenciación de la propuesta frente a los competidores del mercado.
+**Claridad Financiera:** Definir mejor el OPEX y ajustar la transparencia de competidores (quitar lo que no se explique).
 
-**Análisis de Costes Real (Visión Empresarial):** Es obligatorio presentar un análisis financiero realista, asumiendo el rol de empresa y no de estudiantes. Se deben contemplar los costes de licencias y planes de pago reales. Se valora el uso de modelos freemium como la estrategia más rentable.
+## 🛠️ Gestión de Equipo y Calidad
+**Team Building:** Añadir diapositivas que muestren los resultados y la evaluación del desempeño del equipo.
 
-**Presupuesto (CapEx y OpEx):** El análisis de costes debe desglosarse claramente. Hay que incluir el CapEx (gastos de capital/personal) y el OpEx (gastos operativos y de desarrollo, incluyendo costes de plataformas como GitHub).
+**Análisis de Rendimiento:** Incluir métricas definidas y su evaluación correspondiente.
 
-**Riesgos e Infraestructura:** Es crítico y de máxima prioridad detallar la infraestructura tecnológica y el presupuesto asociado. A nivel legal y técnico, se debe profundizar rigurosamente en la seguridad, la privacidad de los datos y el tratamiento de las firmas digitales.
-
-## 3. Validación de Mercado y Usuarios Piloto 
-
-**Usuarios pilotos concretos:** Es imprescindible contar con una lista clara y firme de los usuarios piloto que van a probar la aplicación.
-
-## 4. Estrategia Técnica, Desarrollo y Organización Interna
-
-**CI/CD y Desarrollo:** Se valora muy positivamente la implementación y configuración del entorno CI/CD. Asimismo, la planificación inicial del Sprint 1 ha sido correcta y realista.
-
-**Balance de la presentación técnica:** La exposición debe tener un enfoque claro hacia el desarrollo. Actualmente hay un desbalance con demasiados mockups; se debe dar mucho más peso al análisis del trabajo real y del estado del Sprint.
-
-**Detalle técnico de implementaciones:** Se exige profundizar a nivel técnico en cómo se implementará el sistema y flujo de la firma digital y qué tecnología se usará para la transcripción de actas.
-
-**Seguimiento y Organización (Clockify):** La diapositiva de control de tiempo debe mostrar explícitamente y de forma individual las horas reales invertidas por cada miembro frente a la desviación de la estimación inicial.
-
-**Estructura del equipo:** Se debe separar la explicación de la metodología de la presentación de los miembros. La estructura actual del equipo es compleja de entender y debe desglosarse de forma más sencilla.
-
-## 5. Presentación y comunicación
-
-**Oratoria y Puesta en Escena:** Se recomienda adoptar un ritmo más pausado al hablar, llevar vestimenta adecuada y mejorar la capacidad de síntesis (transmitir más información en menos frases, apoyándose en el uso de palabras clave).
-
-**Diseño e Imagen Corporativa:** Falta homogeneidad y consistencia en la presentación; la mezcla de estilos da la sensación de haberse realizado con prisa. Se debe unificar la paleta de colores y el estilo general.
-
-**Carga visual y Estructura:** Se deben simplificar las diapositivas sobrecargadas. El discurso debe ir siempre de lo más importante (CORE) a los detalles.
-
-Ajustes específicos en diapositivas:
-
-- **Tablas de comparación:** Obligatorio incluir una leyenda que explique qué significa cada color. Se aconseja cambiar los tonos amarillos por rojos por cuestiones de estética y legibilidad (y eliminar colores llamativos que sobren).
-
-- **Commitment Agreement:** Eliminar la diapositiva inicial del acuerdo de compromiso, ya que sobra en este punto.
-
-- **Presentación del equipo:** Utilizar fotografías de los miembros (estilo orla, referenciando a buenas prácticas de otros grupos) para hacerla más visual y cercana.
+**Definiciones Técnicas:** Especificar qué se pide exactamente en el commit funcional.
+- Aclarar la periodicidad de revisión de las PR (diaria, semanal, etc.).
+- Detallar en qué consiste la penalización en la diapositiva de problemas.
 
 ## 6. Notas de clase
 
@@ -339,3 +312,39 @@ Además, debe aparecer también en las diapositivas lo siguiente:
 - Resumen de alto nivel de competidores. Contextualizar el foco principal y el valor diferencial
 - Team building y cómo está funcionando
 - Resumen alto nivel del commitment. Dedicación real sobre estimada para cada miembro desde el comienzo del proyecto y en el sprint actual.
+
+### Semana 7 (26/03), Evaluación Sprint 2
+
+**Aspectos positivos**
+- La presentación ha mejorado mucho visualmente
+
+**Aspectos que debemos corregir**
+- Falta un hilo conductor, está todo como un listado
+- En la demo nos sugiere no cambiar de comunidad en comunidad (es algo innecesario)
+- El Opex no queda claro
+- Tienen que verse los resultados del team building
+- Duda del profesor que debemos evaluar: ¿Tiene sentido un coste fijo por comunidad? ¿No nos interesa más un coste por uso?
+- Debemos especificar más que imponemos límites de uso. Podemos usar coste por número de pisos.
+- En el killer opener no debemos entrar en temas controvertidos ni políticos
+- Algunas diapositivas (entre ellas la 42), son poco específicas o están poco definidas
+- En el análisis de rendimiento del equipo debemos añadir también las métricas definidas, la evaluación del mismo, ...
+- En la diapositiva de problemas encontrados: Sobre la penalización debemos especificar más sobre ella
+- En la diapositiva que se habla sobre el commit funcional, debemos dar más info de que es lo que estamos pidiendo con este
+- En la diapositiva que se habla sobre las PR, pone todo el tiempo pero debemos especificar si lo revisamos diariamente, semanalmente, ...
+
+**Aspectos comentados de forma general**
+- Para la gráfica de ingresos esperados también tenemos que tener en cuenta los capex (todo lo invertido)
+- Sobre el análisis de los usuarios piloto. Tenemos que dar más detalle sobre lo que nos dicen y lo que hacemos al respecto
+
+**Qué esperan el próximo día (Presentación similar con pocos cambios)**
+- En el stack tecnológico debemos subir el nivel de abstracción (muy alto nivel, dar muy poco detalle)
+- La DEMO CORE debe seguir un hilo conductor, no debe mostrar cosas como una lista sin más
+- Reducir al máximo la metodología de desarrollo, el ALM y el CI/CD
+- Entrar más en detalle del entorno de pruebas
+- Análisis del estado actual del sprint
+- Modelo de análisis de rendimiento junto a una gráfica y métricas. Analizar para todo tipo de tareas y tienen que aparecer todos los miembros. Ej: para desarrollo número de commits o PR, para docs número de commits al repo común, ...
+- Problemas encontrados, métricas, ... --> Cómo sabemos que está funcionando la solución
+- Es fundamental explicitar las acciones tomadas respecto al feedback
+- Análisis económico: Evolución del número de usuarios, marco temporal, listado concreto de todos los servicios que se usan y costes de cada uno
+- Debemos pensar en un anuncio para clientes
+- Team building y resultados
