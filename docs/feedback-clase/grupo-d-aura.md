@@ -196,78 +196,170 @@ Para la próxima presentación, estos puntos son de cumplimiento  **obligatorio*
 ### Semana 6 (12/03), Sprint 2
 
 **Métricas, seguimiento y lecciones aprendidas:**
--Incluir porcentajes en las lecciones aprendidas para evidenciar si se están cumpliendo los objetivos.
--Definir siempre: Métrica, Umbral objetivo, Período de evaluación, Estado actual.
--Mostrar de forma sistemática si las acciones están mejorando los problemas.
+- Incluir porcentajes en las lecciones aprendidas para evidenciar si se están cumpliendo los objetivos.
+- Definir siempre: Métrica, Umbral objetivo, Período de evaluación, Estado actual.
+- Mostrar de forma sistemática si las acciones están mejorando los problemas.
 
 **Datos, gráficas y comprensión:**
--Incluir gráficas de supuestos dentro del presupuesto.
--Asegurarse de que cada dato se entiende por sí solo o añadir contexto.
--No saturar con demasiada información sin tiempo para explicarla.
--Destacar y explicar claramente los puntos clave de las gráficas durante la presentación.
+- Incluir gráficas de supuestos dentro del presupuesto.
+- Asegurarse de que cada dato se entiende por sí solo o añadir contexto.
+- No saturar con demasiada información sin tiempo para explicarla.
+- Destacar y explicar claramente los puntos clave de las gráficas durante la presentación.
 
 **Presentación:**
--Mejorar la gestión del tiempo.
--Eliminar el índice si no se va a utilizar.
--Trabajar los tonos de voz, especialmente en partes críticas.
--Mejorar vocalización y preparación previa.
--Diseñar un “killer opener” más llamativo.
--Apoyarse en referencias como la charla de “cómo hablar para que la gente te escuche”.
+- Mejorar la gestión del tiempo.
+- Eliminar el índice si no se va a utilizar.
+- Trabajar los tonos de voz, especialmente en partes críticas.
+- Mejorar vocalización y preparación previa.
+- Diseñar un “killer opener” más llamativo.
+- Apoyarse en referencias como la charla de “cómo hablar para que la gente te escuche”.
 
 **Demo:**
--Cuidar las transiciones y la fluidez.
--Evitar cortar imágenes o elementos visuales.
--Centrarse en los casos de uso core.
--Eliminar el login si no aporta valor en la demo.
--Mostrar una historia clara (por ejemplo, interacción guía–turista).
--Asegurar que la demo se vea bien en todo momento.
+- Cuidar las transiciones y la fluidez.
+- Evitar cortar imágenes o elementos visuales.
+- Centrarse en los casos de uso core.
+- Eliminar el login si no aporta valor en la demo.
+- Mostrar una historia clara (por ejemplo, interacción guía–turista).
+- Asegurar que la demo se vea bien en todo momento.
 
 **Problemas y análisis:**
--Explicar el impacto real de los problemas.
--Acompañarlos siempre de métricas.
--Analizar desviaciones de tiempo y rendimiento del equipo.
--Evaluar complejidad de tareas y grado de cumplimiento.
+- Explicar el impacto real de los problemas.
+- Acompañarlos siempre de métricas.
+- Analizar desviaciones de tiempo y rendimiento del equipo.
+- Evaluar complejidad de tareas y grado de cumplimiento.
 
 **Presentación del sprint:**
--Mejorar claridad en títulos y temporalidad.
--Mostrar: Qué se ha cumplido, Qué no, Rendimiento del equipo
--Incluir desviaciones por persona: En el sprint y En total
+- Mejorar claridad en títulos y temporalidad.
+- Mostrar: Qué se ha cumplido, Qué no, Rendimiento del equipo
+- Incluir desviaciones por persona: En el sprint y En total
 
 **Análisis económico (CAPEX / OPEX):**
--Profundizar más, evitando superficialidad.
--Diferenciar claramente:
--Costes de operación (OPEX)
--Costes de ejecución (CAPEX)
--Contextualizar cada cifra en el tiempo.
--Si depende de usuarios, representarlo con gráficas basadas en una fórmula definida.
+- Profundizar más, evitando superficialidad.
+- Diferenciar claramente:
+- Costes de operación (OPEX)
+- Costes de ejecución (CAPEX)
+- Contextualizar cada cifra en el tiempo.
+- Si depende de usuarios, representarlo con gráficas basadas en una fórmula definida.
 
 **Usuarios piloto:**
--Enfatizar la recogida de feedback.
--Mostrar: Número de usuarios y tipo de usuarios (sin nombres)
--Definir plan de crecimiento de usuarios.
--Analizar si realmente se está llegando al público objetivo.
--Reflexionar sobre el feedback: Qué decisiones ha provocado (añadir/quitar funcionalidades)
+- Enfatizar la recogida de feedback.
+- Mostrar: Número de usuarios y tipo de usuarios (sin nombres)
+- Definir plan de crecimiento de usuarios.
+- Analizar si realmente se está llegando al público objetivo.
+- Reflexionar sobre el feedback: Qué decisiones ha provocado (añadir/quitar funcionalidades)
 
 **Iteración y mejora continua:**
--Implementar un sistema estructurado de mejora:
--Problema → Acción → Métrica → Umbral → Período → Estado
--Analizar si las acciones están funcionando realmente.
--Considerar el feedback como el elemento más valioso del proyecto.
+- Implementar un sistema estructurado de mejora:
+- Problema → Acción → Métrica → Umbral → Período → Estado
+- Analizar si las acciones están funcionando realmente.
+- Considerar el feedback como el elemento más valioso del proyecto.
 
 **Producto y casos de uso:**
--Mostrar casos de uso habituales: Creación de rutas desde PC y Uso en móvil con vista personalizada
--Enfocarse en escenarios reales y relevantes.
+- Mostrar casos de uso habituales: Creación de rutas desde PC y Uso en móvil con vista personalizada
+- Enfocarse en escenarios reales y relevantes.
 
 **Stack tecnológico:**
--Explicarlo de forma directa y al grano.
--Evitar comparativas innecesarias.
+- Explicarlo de forma directa y al grano.
+- Evitar comparativas innecesarias.
 
 **Equipo:**
--Usar fotos corporativas del equipo.
--Incluir una presentación clara del equipo.
+- Usar fotos corporativas del equipo.
+- Incluir una presentación clara del equipo.
 
 **Team building:**
--Mostrar resultados del team building.
--Reflexionar si se van a aplicar cambios o no.
--Explicar el modelo y cómo está funcionando.
+- Mostrar resultados del team building.
+- Reflexionar si se van a aplicar cambios o no.
+- Explicar el modelo y cómo está funcionando.
 
+  ### Semana 7 (26/03), Evaluación
+
+## FOCO DE LA PRESENTACIÓN
+- Definir una **idea clara con killer opener**
+- Presentar el **stack tecnológico a alto nivel**
+- Construir una **demo con hilo conductor**:
+  - Escenario realista  
+  - Caso de uso concreto  
+  - Storytelling claro de principio a fin  
+
+- Explicar la **metodología de negocio a alto nivel**, resaltando solo lo diferencial  
+- Incluir visión de:
+  - ALM  
+  - CI/CD  
+  - Más detalle en los **planes de pruebas**  
+
+- Mostrar **resultado del sprint a alto nivel**
+- Realizar **análisis de rendimiento del sistema**
+
+### Métricas del equipo:
+- Crear un **análisis de rendimiento por tipo de tareas**
+- Incluir un **grafo que correlacione rendimiento y métricas objetivas ejemplo commits**
+- Identificar claramente a los miembros y explicar sus siglas  
+
+- Revisar el **plan de desarrollo**
+- Incluir **problemas encontrados**
+- Incluir **lecciones aprendidas**
+
+- Presentar **usuarios piloto a alto nivel**
+- Explicar **cómo escalar o extender el producto**
+
+- Mostrar el **estado de recogida de feedback**
+- Explicar de forma explícita:
+  - Cómo se recoge el feedback  
+  - Qué acciones se han tomado  
+
+## NO ES FOCO PERO DEBE ESTAR
+- Incluir **análisis de competidores**
+
+- Incluir **presupuesto CAPEX y OPEX**:
+  - Evolución de usuarios  
+  - Marco temporal  
+  - Coste de todos los servicios externos  
+  - Listado completo de servicios  
+
+- Crear **storyboard de un anuncio**
+- Incluir **CA**
+
+- Incluir **team building**:
+  - Resultados  
+  - Reflexión sobre continuidad o mejora  
+
+## FEEDBACK ESPECÍFICO 
+### Estrategia y negocio
+- Tener en cuenta la **inversión realizada hasta ahora break-even**
+- Aclarar **pivotaje sí o no y justificarlo**
+- Incluir **estimación económica**:
+  - Coste hasta ahora  
+  - Coste en operación  
+
+- Explicar **condiciones de estimación**:
+  - Hipótesis  
+  - Variables consideradas  
+
+### Demo y entregable
+- Añadir **nuevo enlace a la release**
+- Preparar **2 vídeos**:
+  - Casos de uso con capítulos en YouTube  
+  - Vídeo narrado de ~10 minutos  
+
+- Preparar **demo en directo con Zoom**
+- Incluir **review guideline**:
+  - Qué feedback se recibió  
+  - Qué se ha implementado 
+
+### Contenido y presentación
+- Mantener  el **buen equilibrio entre imágenes y texto**
+- Mantener  las preguntas en la presentación
+- Marcar los **fallos en rojo en la página 63**
+
+### Presupuesto
+- Incluir **gastos consumidos de CAPEX y OPEX**
+- Revisar slide de **OPEX variables**:
+  - Mostrar solo ejemplo o fórmula  
+  - O solo variables clave personas uso etc
+    
+### Equipo
+- Incluir **evidencias de team building**
+- Evaluar necesidad de **recursos ejemplo micrófonos en consejería**
+
+### Otros ajustes
+- El **Excel vuelve a EV**
