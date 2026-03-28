@@ -333,7 +333,7 @@ Muy bien la forma de presentar al equipo y bien hecho lo de poner el dinero en m
 	- 1 no enseñar las desviaciones en curso de todos los miembro por sprint y el total de la asignatura.
 	- 2 no tener una forma sistemática de mejora. Para cada problema debemos de definir unas acciones concretas (problemas en curso) y más importante una metrica concreta que diga como se está solucionando además de un umbral objetivo (en esta métrica se quiere llegar a tanto) y un objetivo temporal de cuánto queremos tardar en llegar a ese umbral de esa métrica. 
 
-### Semana 6 (26/03) (EVALUAZIÓN)
+### Semana 6 (26/03) (EVALUACIÓN)
 * forma presentación problemas muy bien.
 * crecimiento usuarios piloto muy bien.
 * muy bien que haya despliegues separados para producción y para usuarios piloto.
