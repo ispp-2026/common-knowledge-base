@@ -4,7 +4,7 @@ description: Feedback proporcionado al grupo B Cerebrus.
 ---
 En esta página se encuentra el feedback recogido por el grupo B - Cerebrus durante el curso. Este feedback incluye comentarios, sugerencias y recomendaciones proporcionados por el profesor para mejorar el desempeño del grupo en futuras actividades y proyectos.
 
-### Última actualización: 15 de marzo
+### Última actualización: 27 de marzo
 
 ## 1. Definición de Producto
 
@@ -332,3 +332,61 @@ Muy bien la forma de presentar al equipo y bien hecho lo de poner el dinero en m
 * fallos muy comunes, suspensos directos: 
 	- 1 no enseñar las desviaciones en curso de todos los miembro por sprint y el total de la asignatura.
 	- 2 no tener una forma sistemática de mejora. Para cada problema debemos de definir unas acciones concretas (problemas en curso) y más importante una metrica concreta que diga como se está solucionando además de un umbral objetivo (en esta métrica se quiere llegar a tanto) y un objetivo temporal de cuánto queremos tardar en llegar a ese umbral de esa métrica. 
+
+### Semana 6 (26/03) (EVALUAZIÓN)
+* forma presentación problemas muy bien.
+* crecimiento usuarios piloto muy bien.
+* muy bien que haya despliegues separados para producción y para usuarios piloto.
+  
+**Obligatorio para la siguiente clase (09/04) :**
+* Foco: idea clara del proyecto.
+* Buen open killer.
+* Stack tecnológico; de muy alto nivel de abstracción.
+* Demo de casos de uso core.  Esta debe de seguir un hilo conductor claro y realista. Se debe de hacer en base a un escenario imaginario realista de uso. (Puede ser buena idea unir ese hilo conductor con el open killer).
+* Visión de alto nivel de la metodología; mostrar solo adaptacionnes concretas del proceso scrum, no todo.
+* Visión de alto nivel del ALM y el CI/CD.
+* Plan de pruebas detallado.
+* Análisis de alto nivel del estaro del S3.
+* Análisis del modelo de rendimiento explícito. Debe de ser para todo tipo de tareas, y se debe de mostrar en un gráfico visual donde se vea el rendimiento de cada miembro del equipo correlacionado con su trabajo. Es obligatorio que aparecca todas las siglas de todos los miembros.
+* Revisión (de ser necesario) del plan de desarrollo.
+* Análisis de problemas encontrado, indicando cuales son, sus estados, las medidas aplicadas, sus planes de contingencia, la prevención a futuro, sus métricas concretas, los umbrales objetivo y los periódos para alcanzar dichos objetivos.
+* Resumen de alto nivel de los usuarios piloto diciendo cuantos son y los tipos.
+* Estado de recogida del feedback, hay que explicitar las acciones que se han tomado para reaccionar a dicho feedback recibido.
+* Presentación del equipo y su estructura,
+* 1 diapositiva de los competidores,
+* Análisis económico diferenciando entre Opex y Copex. Se debe de mostrar el estado actual del presupuesto. También, hacer un análisis de la evolución en un marco temporal. Tener en cuenta el coste de los servicios que usamos y como nos afecta.
+* Pensar en story board de anuncio con una historia para los clientes.
+* Resumen de alto nivel del cumplimiento del commitment agrement. Explicitar la desviación temporal real de cada miembro del proyecto en base al inicio del sprint y al inicio del proyecto.
+* Team building y como afectó esto al proyecto.
+
+**Con respecto al análisis económico**
+* Separar opex del mantenimiento es un error porque también lo incluye.
+* Cuidado con que el break even no tenga en cuenta el Capex, ya que se tiene que tener en cuenta lo que se ha invertido a lo largo del desarrollo del proyecto (su coste de desarrollo).
+
+**Con respecto a la demo**
+* No se veía muy bien, demasiado rápida, con cambios muy rápidos, si se viera por primera vez no se entendería las cosas.
+* Foco en primaria -> cambiar demostración del producto para que sea algo mucho mas cercano con el uso real de los usuarios.
+* Video descargardo mejor no de YouTube; se recomienda
+* Falta que se vea lo que es el elemento clave que nos diferencia que explicamos al principio; no queda del todo claro a nivel visual.
+
+**Con respecto al análisis de rendimiento**
+* No hacer análisis rendimiento en horas; una cosa son las horas y otro el rendimiento. Son distintos, el rendimiento puede tener en cuenta las horas pero no se puede basar solo en eso.
+* Definir métricas propias.
+
+**Con respecto a los usuarios piloto**
+* Falta hablar de que vamos a hacer con el feedback de los usuarios piloto, el resto bien.
+* Se recomienda entrevistas personales
+
+**Con respecto al open killer**
+* No se debe de esperar a que todos se queden callados, parte de su efecto es que todos tomen atención en la presentación 
+
+**Con respecto al hilo conductor**
+* Sigue avanzando en las buenas practicas de responder a diferentes preguntas, pero dar una vuelta y evolucionar a algo más lógico. 1º sprint y programación y luego usuarios piloto no del todo bien, mejor hacerlo del revés, presentar a los usuarios piloto primero y luego como su feedback nos afecta a nosotros.
+* Darle una vuelta al hilo para facilitar captación y presentación.
+* Evitar decir "esto lo comentamos más tarde", ya que deja ver una mala organización de la presentación.
+
+**Otras anotaciones**
+* La lista de dedicación no estará en la base de datos pública si no que se subirá a enseñanza virtual.
+* Dentro de la documentación deberá de aparecer una sección de demos. En esta sección deben de estar las demos hechas hasta el momento subidas. Se debe de subir también una demo de no más de 10 min, la cual debe de estar también subida a youtube. Dicha demo, debe de mostrar todos los casos de uso core completados y se deben de añadir las marcas de tiempo en los comentarios del video de youtube de cada prueba de caso de uso core (para facilitar llegar a ver os diferentes casos de uso).
+* Dentro del documento de Guidelines, se añadirá una nueva sección donde se explicitará la reacción que hemos tenido al feedback recogido de los usuarios piloto de los otros grupos de clase y del profesor revisor.
+* Importante que las decisiones que se tomen sean desde la decisión y no solo porque nos lo han dicho.
