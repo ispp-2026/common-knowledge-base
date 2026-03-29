@@ -5,7 +5,7 @@ description: Feedback proporcionado al grupo A Rooma.
 
 En esta página se encuentra el feedback recogido por el grupo A - Rooma durante el curso. Este feedback incluye comentarios, sugerencias y recomendaciones proporcionados por el profesor y compañeros para mejorar el desempeño del grupo en futuras actividades y proyectos.
 
-### Última actualización: 28 de febrero
+### Última actualización: 29 de marzo de 2026
 
 ## 1. Feedback principal (18/02), evaluación
 
@@ -52,73 +52,63 @@ En esta página se encuentra el feedback recogido por el grupo A - Rooma durante
 ## 8. Notas de clase
 
 ### Semana 1 (05/02)
-
 - Las diapositivas deben servir de apoyo a lo que se comunica: mucho texto distrae; poco texto no es lo mismo que nada.
 - Explicar terminología que el público puede no conocer (ej.: “swipe”).
 
 ### Semana 2 (12/02)
-
 - Mantener coherencia visual (colores, estilos, formatos) durante toda la presentación.
 - Imágenes del equipo suficientemente grandes y explicar la organización interna del grupo.
 - En el stack tecnológico, incluir también herramientas de gestión (comunicación con pilotos, incidencias, etc.).
 - Tabla de competidores grande y legible; no juntar competidores en una misma columna (una columna por competidor).
 - Practicar la presentación para clavar tiempos.
-- Evitar redundancias: si ya se ha explicado un competidor, no repetir lo mismo después.
-- Dejar claros procesos (verificación, facturas, extras a pilotos, promoción de pisos).
-- Casos de uso con nombres (no identificadores).
-- Cada presentación cuenta como “desde cero”.
-- Añadir tarea de revisión de la presentación.
-- Generar interés destacando puntos fuertes de Rooma.
 
 ### Semana 3 (19/02), evaluación
-
 - Explicar Rooma antes que los desarrolladores; todas las diapositivas con título.
 - Unificar tipografía, tamaños y formato de tablas.
 - Renumerar casos core a 1–4 (o eliminar números).
 - No hablar del match antes de explicarlo.
 - Añadir fechas al sprint planning.
-- Mitigación de riesgos con acciones concretas (ej.: “X personas se van a formar…”).
-- Incluir lista de usuarios piloto (y tipo) en la presentación.
-- Añadir descripción técnica del reparto de facturas.
-- Hacer más lineal el análisis de competidores y seguir un hilo natural: competidores → valor añadido.
-- Recordatorio: todos deben desarrollar.
-- Profundizar el análisis tecnológico: riesgos de despliegue, congelación de despliegues y CI/CD.
-- La base de datos común va mal.
-- Punto fuerte destacado: casos de uso con mockups, muy bien valorados.
-- Propuestas: búsqueda en grupo de piso, gestión de referencias y comunicación entre caseros.
+- Mitigación de riesgos con acciones concretas.
 
 ### Semana 4 (26/02)
-
-- Muy buena homogeneidad en la presentación con la marca corporativa
-- Hilo conductor de la presentación confuso ya que se van dando saltos todo el rato
-- Dar más detalle del caso de uso de los pagos
-- En el análisis de coste distinguir bien entre capex y opex
-- En el análisis de coste tener en cuenta los costos del equipo de soporte en el caso de externalizar la resolución de incidencias
-- En el análisis de coste debe aparecer un análisis según el volumen de usuarios (usar tabla comparativa)
-- En el análisis del commitment agreement usar en vez de horas de una semana exacta, usar las horas totales y la media por semana por integrante
+- Muy buena homogeneidad en la presentación con la marca corporativa.
+- Hilo conductor de la presentación confuso ya que se van dando saltos todo el rato.
+- Dar más detalle del caso de uso de los pagos.
+- En el análisis de coste distinguir bien entre **CAPEX y OPEX**.
+- Análisis de coste según el volumen de usuarios (usar tabla comparativa).
 
 ### Semana 5 (05/03)
-
 - Hilo conductor sigue sin ser coherente del todo, no atrae.
 - No presentarnos como estudiantes, somos ingenieros.
-- No usar palabras técnicas que los clientes puedan no entender.
-- Difrenciar entre riesgos y problemas.
-- Poca profundidad en la tecnología.
-- Justificar como estamos intentando solucionar los problemas y si eso esta funcionando.
-- No podemos decir que nuestros elementos diferenciadores se delegan en otros
-- En el análisis económico especificar datos temporales y calcular datos en cuanto a usuarios.
+- Diferenciar entre riesgos y problemas.
+- Justificar cómo estamos intentando solucionar los problemas y si eso está funcionando.
 
 ### Semana 6 (12/03)
-
-- Mejorar el killer opener para captar más la atención desde el principio.
-- Aplicar la filosofía menos es más y ajustar el foco de la presentación.
+- Mejorar el **killer opener** para captar la atención.
 - Reducir el tiempo y el nivel de detalle en el análisis de competidores.
-- Explicar mejor el apartado de las facturas para dejar claro cómo nos desmarcamos de la competencia.
-- Revisar la plataforma Wolo para coger inspiración.
-- Hacer una demo directa, con datos reales, dejando claro cuándo empieza y mostrando solo lo clave (eliminar inicios de sesión).
-- Quitar la explicación genérica de Scrum y contar únicamente lo que hemos adaptado nosotros.
-- Mostrar las desviaciones de tiempo de forma visual e individual (tanto en el sprint como en general).
-- Corregir los títulos de las gráficas de horas para distinguir bien entre la media y el total.
+- Demo directa con datos reales: eliminar inicios de sesión, mostrar solo lo clave.
 - Desglosar y detallar mucho más los gastos, incluyendo un análisis de costes con fórmulas.
 - Añadir el coste de GitHub a los gastos.
-- Mantener las buenas transiciones de bloque que ya tenemos.
+
+### Semana 7 (26/03)
+
+#### Específico:
+*   **Análisis de problemas (Crítico):** Mejorar profundamente el análisis. Dar más detalles de los estados de los problemas y aportar **métricas**. Debe aparecer en las diapositivas y ser reforzado oralmente.
+*   **Gráfica de rentabilidad:** Está mal calculada. No se han tenido en cuenta los gastos iniciales ni cómo evolucionan los gastos con el tiempo. Es preferible hablar de "momento en que se cubren gastos iniciales" en lugar de "ser rentables" prematuramente.
+*   **OPEX:** En la gráfica de coste y beneficio acumulado, se deben sumar también los costes de desarrollo.
+
+#### General y Próximos Pasos (S2):
+*   **Software Review Guidelines:** 
+    *   Añadir sección sobre cambios realizados basados en el feedback de usuarios piloto (grupos) y el profesor revisor.
+    *   Incluir un **segundo vídeo de 10 min** con revisión exhaustiva de casos de uso (añadir marcas de tiempo en el documento).
+*   **Entregables:** El Excel de dedicación se incluye en la entrega oficial (y opcionalmente en el repo público).
+*   **Stack Tecnológico:** Presentación de alto nivel.
+*   **Casos de Uso:** Deben seguir un **hilo realista** (ej: login -> búsqueda -> swipe -> notificación landlord -> aceptación). Prohibido usar datos de prueba tipo "Doraemon"; usar pisos y usuarios realistas.
+*   **ALM y Calidad:** Visión de alto nivel, pero entrar en detalle en los **planes de prueba**.
+*   **Análisis de Rendimiento:** 
+    *   Para todas las tareas (desarrollo y doc).
+    *   Gráficos de tipo **cuadrante** relacionando miembros (siglas) con métricas objetivas (commits, adiciones doc, tests creados).
+*   **Análisis Económico:** Debe incluir el avance de usuarios en el tiempo y el coste explícito de todos los servicios externos (GitHub, APIs) en un listado mensual.
+*   **Team Building:** Incluir el modelo utilizado y los resultados obtenidos (pendiente de implementar).
+*   **Marketing:** Ir pensando en un **storyboard** para un anuncio orientado a clientes.
+
