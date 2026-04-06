@@ -58,3 +58,24 @@
 - [ ] **Análisis del commitment agreement**
 
 ## Sprint 3
+**Fecha:** `09/04/2026`
+- [ ] **Killer Opener** (puede unirse con el hilo conductor de la demo)
+- [ ] **Idea clara del proyecto**
+- [ ] **Stack Tecnológico** (alto nivel de abstracción)
+- [ ] **Demo de casos de uso core** (hilo conductor claro, escenario realista de principio a fin)
+- [ ] **Metodología** (solo adaptaciones concretas de Scrum, no todo)
+- [ ] **Visión ALM y CI/CD** (alto nivel)
+- [ ] **Plan de pruebas detallado**
+- [ ] **Análisis de alto nivel del estado del S3**
+- [ ] **Análisis de rendimiento del equipo** (gráfico visual con correlación rendimiento/métricas objetivas, siglas de todos los miembros, desglose por tipo de tarea)
+- [ ] **Revisión del plan de desarrollo** (si aplica)
+- [ ] **Problemas encontrados** (estado, medidas aplicadas, planes de contingencia, prevención futura, métricas concretas, umbrales objetivo y períodos)
+- [ ] **Usuarios piloto** (resumen alto nivel: cantidad y tipos)
+- [ ] **Escalabilidad/extensión del producto**
+- [ ] **Estado de recogida de feedback** (cómo se recoge y acciones tomadas explícitamente)
+- [ ] **Equipo y estructura**
+- [ ] **Análisis de competidores** (1 diapositiva)
+- [ ] **Análisis económico CAPEX/OPEX** (estado actual del presupuesto, evolución temporal, coste de servicios externos, listado completo de servicios)
+- [ ] **Storyboard de anuncio** (historia para clientes)
+- [ ] **Commitment Agreement** (desviación temporal real por miembro, desde inicio del sprint e inicio del proyecto)
+- [ ] **Team building** (resultados y reflexión sobre continuidad o mejora)
