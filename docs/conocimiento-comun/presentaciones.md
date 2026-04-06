@@ -2,6 +2,17 @@
 
 En esta página se recopila el feedback proporcionado por los profesores a los distintos grupos, con el objetivo de reunir una guía de buenas prácticas que ayude a mejorar las presentaciones y a aprender de los errores detectados.
 
+## TOP Tips para presentaciones
+
+- 1. Menos texto y mayor impacto visual
+- 2. Arranque potente ("Killer Opener") y narrativa coherente
+- 3. Foco absoluto en los casos CORE y el valor diferencial
+- 4. Demostraciones reales en lugar de mockups que deben estar integradas
+- 5. Homogeneidad y calidad estética 
+- 6. Actitud y proyección profesional
+- 7. Ensayo riguroso y fluidez de tiempos
+- 8. Preparación técnica y prevención de errores
+
 ## Feedback del día 05/02 
 
 - Adaptar siempre el mensaje y el enfoque al público objetivo que va a escuchar la presentación.
@@ -12,7 +23,7 @@ En esta página se recopila el feedback proporcionado por los profesores a los d
 - Preparar estructura fija. Por ejemplo: Introducción, Problema, Solución, Diferenciación, Tecnología, Plan
 - Reducir drásticamente el texto. Eliminar ideas repetidas y priorizar solo lo esencial. Mucho texto distrae a la audiencia.
 - Aprovechar toda la pantalla para que el contenido respire y se vea correctamente.
-- Hya que evitar las tipografías pequeñas.
+- Hay que evitar las tipografías pequeñas.
 - Añadir siempre paginación para facilitar las referencias y preguntas.
 - Trabajar en mejorar la estética general de las presentaciones.
 - Antes de vender, hay que creérselo. Debemos proyectar confianza en el producto y en el trabajo realizado.
@@ -80,3 +91,11 @@ En esta página se recopila el feedback proporcionado por los profesores a los d
 - Debemos incorporar una diapositiva sobre el team building.
 - Debemos cuadrar el tiempo de la presentación, ensayarla previamente y estudiar los problemas que puedan surgir a la hora de presentar.
 - Las transiciones deben estar organizadas.
+
+## Feedback del día 26/03
+
+- Presentar los casos CORE siguiendo un hilo realista
+- Presentación de alto nivel del Stack Tecnológico y el ALM, pero dar más detalle en análisis económico y planes de prueba
+- Enfocar la presentación en una idea clara del proyecto
+- Dar importancia a todo el feedback recibido
+- Se percibe una alta densidad de información debido a la extensión de contenido en las presentaciones. Se recomienda simplificar o reducir ciertos apartados para mejorar la comprensión del mensaje.
