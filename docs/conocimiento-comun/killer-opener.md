@@ -47,3 +47,13 @@ En esta página se recopila el conocimiento común y el feedback proporcionado p
 - Se puede hacer divertido, pero asegurarse de que esté 100% alineado con el producto y el contexto profesional.
 - No puede ser una distracción del resto de la presentación.
 - Trabajar la vocalización y la postura corporal. (recomendaron ver la charla TED *"How to speak so that people want to listen"* de Julian Treasure).
+
+## Feedback del día 26/03
+
+- No esperar al silencio en la clase, ya que debe ser la herramienta para provocar el silencio.
+- Evitar inicios abruptos y evitar que aunque sea impactante, la audencia tenga un par de segundos para procesar el contexto.
+- Se ha sugerido que el hilo conductor o la "historia" que el killer inicia se vincule directamente con las demos.
+- No puede consistir en un tema polémico (política, situaciones sociales, temas legales, ...).
+- Si el killer opener plantea una situación de uso, no utilizar nombres genéricos como "user1" o "test". Recomendable usar nombres de personas reales para aumentar credibilidad.
+- Recomendable prestar atención al volumen durante el killer opener, para que sea enérgico, pero no desagradable.
+
