@@ -5,7 +5,7 @@ description: Feedback proporcionado al grupo E Vecinus.
 
 En esta página se encuentra el feedback recogido por el grupo E - Vecinus durante el curso. Este feedback incluye comentarios, sugerencias y recomendaciones proporcionados por el profesor para mejorar el desempeño del grupo en futuras actividades y proyectos.
 
-### Última actualización: 27 de marzo
+### Última actualización: 9 de abril
 
 ## 📢 Presentación y Narrativa
 **Hilo Conductor:** La presentación no puede ser un listado de puntos; debe tener una narrativa que conecte todo.
@@ -348,3 +348,53 @@ Además, debe aparecer también en las diapositivas lo siguiente:
 - Análisis económico: Evolución del número de usuarios, marco temporal, listado concreto de todos los servicios que se usan y costes de cada uno
 - Debemos pensar en un anuncio para clientes
 - Team building y resultados
+
+### Semana 8 (09/04), Sprint 3
+
+- Debemos mejorar muchísimo el killer opener
+- La demo debe seguir una historia, que tenga un hilo conductor
+- Hay un corte muy brusco entre el inicio y los competidores. Debemos meter una introducción de la aplicación
+- En diapositivas como la del presupuesto o los tipos de usuarios tenemos que poner más apoyo textual
+- No se distingue a que nivel de información se está hablando, parece que hay cosas condensadas en pocas diapositivas que refleja un análisis vago
+- La gráfica que muestra el presupuesto gastado es confusa, debemos representarlo de otra forma
+- Explicar qué es cada team y sus roles
+- En el team building debemos aparecer todos y explicar si está funcionando o no, sino pensarán que es para salir del paso
+- A la diapositiva del commitment le falta texto, no está clara del todo
+- Si ya se sabe que en semana santa no se trabaja no hay que mencionarlo, hay que centrarse en lo relevante
+- No se ha explicado por qué hay gente que no llega a las horas mínimas
+- Falta un hilo conductor en la presentación, estamos saltando de un bloque a otro de forma abrupta
+- No tiene sentido mostrar el pricing sin haber explicado la aplicación
+- Al explicar, hay cosas que se repiten innecesariamente
+- No se ha explicado cuales son las penalizaciones establecidas en el commitment agreement
+- En el presupuesto no decir "la mitad del opex" porque no tiene sentido al ser algo infinito 
+- Falta hacer y hablar de pruebas end-to-end, tenía que estar ya, mala planificación
+- En sí que las PRs no se cierren no es el problema, no confundir con las acciones para resolver el problema
+- Las transiciones en la demo a veces son demasiado rápidas y marean
+- Falta el cuadrante de rendimiento
+- Falta el story board
+
+**Aspectos comentados de forma general**
+
+- Team building bastante pobre, puede ser buena idea incluir algo sencillo como el Niko Niko y no solo beber cerveza
+- Prestar mucha atención a que los usuarios piloto esten usando de verdad y en profundidad la aplicación, y si no lo están haciendo preguntar por qué
+- El nivel de detalle de las transparencias debe ser consecuente con el tiempo que dura, ni debe haber información insuficiente ni debe saturar al espectador
+- La estructura genérica de equipos, sin explicar qué se supone que hace cada uno o por qué están divididos asi no es válida
+- IMPORTANTE. Cosas que faltan: demo sin historia y datos de prueba, story board, cuadrante de rendimiento, listado de servicios externo. Si falta algo de esto se va mas de la mitad de la nota y van a ser muy rigurosos
+
+**Qué esperan para el próximo día**
+
+- Idea del proyecto 
+- Inicio efectivo
+- Demo de casos de uso hechos hasta el momento priorizando los claves, siguiendo un hilo conductor realista con una historia y datos relativos al dominio del problema, no de prueba
+- Visión de muy alto nivel del alm, con sistema de ci/cd y que se especifíque el plan de pruebas de integración y end-to-end
+- Análisis de muy alto nivel del sprint 3
+- Análisis de rendimiento para todas las tareas que están haciendo con un cuadrante que muestre el rendimiento de cada miembro del equipo con una métrica objetiva (por ej, commits, tareas completadas, puntos de historia, líneas de codigo). No limitarse a métricas aisladas, se pueden crear nuestras propias métricas con distintos criterios para evaluar el rendimiento de formas distintas
+- Análisis detallado de problemas encontrados, con su estado actual, medidas para solucionarlo, lecciones aprendidas, planes de contingencia y cómo sabemos si la solución propuesta y las lecciones estan funcionando o no, indicando cuándo creemos que se solucionará si no lo ha hecho ya
+- Aparte del número y tipo de usuarios pilotos, decir también que acciones de pilotaje se han hecho para responder a su feedback. Muchos grupos mencionan el plan para captar más usuarios pilotos pero no indican como va el plan. Qué acciones se van a hacer de cara al lanzamiento del producto para prepararlo y captar el mayor número de usuarios posibles (lo tenemos que proponer nosotros, ha dado pista sobre marketing pero nada más. El dia 21 de mayo es el lanzamiento mundial en el salón de actos, como lo vamos a preparar y encarrilar)
+- Estructura del equipo, explicada
+- Resumen de alto nivel de comparativa de competidores
+- Análisis de presupuesto con el estado actual, capex y opex super completo, listando explícitamente los servicios, modelo de precios en base al feedback de los usuarios piloto, gráfica con el break even
+- Story board que ya se pedía explicado y uno adicional para un anuncio para inversores de 2-3 min como muchísimo
+- Resumen de alm de cumplimiento de commitment agreement
+- Análisis y desviación de tiempo como siempre, semana, sprint y total por persona
+- Diapositiva con modelo de team building y resultados obtenidos introduciendo métricas objetivas para evaluarlo
