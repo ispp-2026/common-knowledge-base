@@ -5,7 +5,7 @@ description: Feedback proporcionado al grupo C DondeSiempre.
 
 En esta página se encuentra el feedback recogido por el grupo C - DondeSiempre durante el curso. Este feedback incluye comentarios, sugerencias y recomendaciones proporcionados por el profesor para mejorar el desempeño del grupo en futuras actividades y proyectos.
 
-### Última actualización: 26 de marzo
+### Última actualización: 9 de abril
 
 ## 1. Tips para Presentaciones
 
@@ -20,14 +20,12 @@ En esta página se encuentra el feedback recogido por el grupo C - DondeSiempre 
 - **Narrativa con flujo lógico**: Transicionar hacia un modelo de demostración con una historia desde la perspectiva del usuario (ej. un cliente que llega desde Instagram).
 - **Gestión de tiempos visuales**: Mantener durante más tiempo las diapositivas que contengan gráficas o datos complejos para que la audiencia pueda procesarlos.
 
-
 ## 2. Tips para Análisis de competidores
 
 - **Narrativa específica**: Hablar primero del competidor (pequeña exposición de quiénes son), acto seguido, resaltar la diferenciación.
 - **Evitar lo genérico**: El análisis DAFO debe reflejar la realidad específica del proyecto. Un DAFO que "podría aplicar a cualquiera" no aporta valor.
 - **Profundidad**: Se exige una búsqueda objetiva y profunda, no superficial.
 - **Tabla Comparativa**: Asegurarse de que en la tabla final figure nuestro propio MVP (DondeSiempre) para comparar funcionalidades visualmente.
-
 
 ## 3. Tips para Usuarios Piloto
 
@@ -36,7 +34,6 @@ En esta página se encuentra el feedback recogido por el grupo C - DondeSiempre 
 - **Validación de Precios**: Usar a los pilotos para fijar el precio. Pregunta clave a realizarles: "¿Cuánto estarías dispuesto a pagar?".
 - **Dependencia**: El éxito del proyecto depende directamente de la masa crítica de comercios en la aplicación.
 - **Análisis de feedback**: No solo identificar bugs con los pilotos, sino explicar cómo esos hallazgos impactarán en la planificación o el backlog.
-
 
 ## 4. Tips para Killer Opener
 
@@ -48,7 +45,9 @@ En esta página se encuentra el feedback recogido por el grupo C - DondeSiempre 
 - **Fuentes de Datos**: Si se usan datos de impacto en el contexto real (ej. "se cierran 37 tiendas de media diariamente"), es obligatorio citar las fuentes para demostrar su veracidad.
 - **Toma de control inmediata**: No esperéis a que la sala se quede en silencio por sí sola. El objetivo del opener es irrumpir, llamar su atención de golpe y hacer que su foco cambie hacia vosotros en menos de 1 minuto.
 - **Contenido seguro y alineado**: El inicio debe estar totalmente alineado con la narrativa de la presentación. Además, evitad estrictamente tocar temas polémicos (como mencionar "residentes ilegales" u otros temas sensibles que puedan desviar la atención negativamente).
-
+- **Explotar el KI**: sacarle más partido al inicio efectivo para maximizar el impacto.
+- **Conexión**: Si se utiliza un recurso narrativo como una cita, esta no puede quedar aislada. Hay que encontrar la forma de "calzarla" para que conecte de manera directa y evidente con la aplicación y su propuesta de valor.
+- **Mantener el rigor**: Continuar con el formato, claridad y nivel de profundidad actual (09/04) en el análisis de costes, que ya ha sido validado como un punto muy fuerte.
 
 ## 5. Tips para Idea de Negocio
 
@@ -68,7 +67,6 @@ En esta página se encuentra el feedback recogido por el grupo C - DondeSiempre 
 - **Revisión de beneficios**: Validar la coherencia de las estimaciones de ingresos (ej. los 500.000€ previstos) para que sean realistas.
 - **Punto de Equilibrio (Break Even)**: Mucho cuidado al calcular y presentar el Break Even en relación con el CapEx. Revisar bien los números para que no haya incongruencias financieras.
 
-
 ## 7. Tips para Organización del Equipo
 
 - **Política de Código**: Norma estricta: Todos los miembros deben hacer commits, independientemente de si su rol es marketing o documentación.
@@ -82,7 +80,7 @@ En esta página se encuentra el feedback recogido por el grupo C - DondeSiempre 
 - **Rendimiento vs. Horas**: Es un error conceptual grave medir el rendimiento en horas. O se miden horas consumidas, o se mide rendimiento (impacto, peso, resolución), pero no se puede medir el rendimiento en horas.
 - **Concreción en las medidas correctivas**: No usar frases genéricas como "se tomarán medidas" ante imprevistos o sobreesfuerzos. Hay que ser concretos y especificar qué tipo de medida exacta o métrica se va a aplicar. Marcar siempre un umbral de éxito objetivo (ej. "reducir un X%").
 - **Dinámica de trabajo**: Mantened la norma estricta de que todos hagan commits, priorizar tareas de valor diferenciador, aclarar canales de comunicación y recordad que reducir el alcance es una práctica de gestión válida de la que no hay que avergonzarse.
-
+- **Justificación de estructura**: Es obligatorio explicar y justificar siempre el porqué de la organización. Si el grupo se divide en cuatro subequipos, hay que argumentar claramente la razón de esa división y no dejar que parezca una decisión arbitraria.
 
 ## 8. Tips para Commitment Agreement y Clockify
 
@@ -171,3 +169,15 @@ En esta página se encuentra el feedback recogido por el grupo C - DondeSiempre 
 - Refinamiento del Hilo Conductor: Fortalecer la transición entre bloques temáticos para evitar saltos abruptos.
     > **Ejemplo:** Suavizar el paso de la sección de Team Building a Usuarios Piloto (una posible solución es integrar la presentación del equipo dentro de la dinámica de Team Building).
 - Gestión de Expectativas: Mantener una actitud proactiva ante el feedback recibido, ya que la capacidad de reacción del equipo se considera un factor diferencial y clave para el éxito del proyecto.
+
+### Semana 8 (09/04):
+
+- Sacarle más partido al killer opener. 
+- Gráfica de rendimiento excepcional, creatividad.
+- Ejemplo a seguir en cómo interiorizar todo el feedback cada una de las semanas.
+- Killer Opener: buena cita, pero no conecta del todo con la aplicación. Buscar una forma de calzar mejor el killer.
+- Buen análisis de las pruebas, formas en que se comentan, análisis de costes.
+- Ejemplo de nivel de detalle al que llegar sin saturar con sobreinformación.
+- Problema: estructura del equipo sin razón por la que se han dividido en cuatro equipos. Justificar la división de los equipos.
+- La demo no es una historia. Tiene que ser una historia. Cuidado con los zooms, las velocidades, etc.
+
