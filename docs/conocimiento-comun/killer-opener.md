@@ -57,3 +57,10 @@ En esta página se recopila el conocimiento común y el feedback proporcionado p
 - Si el killer opener plantea una situación de uso, no utilizar nombres genéricos como "user1" o "test". Recomendable usar nombres de personas reales para aumentar credibilidad.
 - Recomendable prestar atención al volumen durante el killer opener, para que sea enérgico, pero no desagradable.
 
+## Feedback del día 09/04
+
+- Sacarle mucho más partido al opener para maximizar su impacto.
+- Encontrar la forma de "calzar" para que el inicio conecte de manera directa y evidente con la aplicación y su propuesta de valor.
+- Killer Openers que reflejen realidades, no inventar nada en los killer opener o alterar la realidad para que sea conveniente para nuestra presentación.
+- Hacer una transición de killer a presentación más suave, menos brusca.
+
