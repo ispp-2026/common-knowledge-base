@@ -30,7 +30,7 @@ En esta página se recopila el conocimiento común y el feedback proporcionado p
 - Queda estrictamente prohibido el uso de nombres genéricos tipo "test", "prueba", "user123". Toda la información que aparezca en el vídeo debe ser verosímil y realista.
 - Mantener el uso del zoom para resaltar elementos clave y asegurar que cualquier persona en la audiencia pueda leer el contenido.
 
-## Feeback del día 09/03
+## Feeback del día 09/04
 
 - Las demostraciones técnicas deben seguir una historia.
 - Las demostraciones técnicas no pueden tener datos de prueba, ya deben ser datos reales.
