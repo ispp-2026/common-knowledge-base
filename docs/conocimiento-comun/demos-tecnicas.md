@@ -29,3 +29,10 @@ En esta página se recopila el conocimiento común y el feedback proporcionado p
 - Es mejor realizar demostraciones concisas y directas que intentar abarcarlo todo de forma densa y rápida. Si hay bugs detectados en las pruebas, es preferible marcarlos (ej. resaltado rojo) que intentar ocultarlos.
 - Queda estrictamente prohibido el uso de nombres genéricos tipo "test", "prueba", "user123". Toda la información que aparezca en el vídeo debe ser verosímil y realista.
 - Mantener el uso del zoom para resaltar elementos clave y asegurar que cualquier persona en la audiencia pueda leer el contenido.
+
+## Feeback del día 09/03
+
+- Las demostraciones técnicas deben seguir una historia.
+- Las demostraciones técnicas no pueden tener datos de prueba, ya deben ser datos reales.
+- Para la próxima evaluación, serán muy rigurosos con las demostraciones técnicas.
+- Tener cuidado con los zooms, las velocidades, la historia que se cuenta, debe tener sentido y ser capaz de mostrar las funcionalidades de la aplicación.
