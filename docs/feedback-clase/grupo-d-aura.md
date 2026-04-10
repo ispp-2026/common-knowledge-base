@@ -271,9 +271,9 @@ Para la próxima presentación, estos puntos son de cumplimiento  **obligatorio*
 - Reflexionar si se van a aplicar cambios o no.
 - Explicar el modelo y cómo está funcionando.
 
-  ### Semana 7 (26/03), Evaluación
+### Semana 7 (26/03), Evaluación
 
-## FOCO DE LA PRESENTACIÓN
+**FOCO DE LA PRESENTACIÓN**
 - Definir una **idea clara con killer opener**
 - Presentar el **stack tecnológico a alto nivel**
 - Construir una **demo con hilo conductor**:
@@ -290,7 +290,7 @@ Para la próxima presentación, estos puntos son de cumplimiento  **obligatorio*
 - Mostrar **resultado del sprint a alto nivel**
 - Realizar **análisis de rendimiento del sistema**
 
-### Métricas del equipo:
+**Métricas del equipo**:
 - Crear un **análisis de rendimiento por tipo de tareas**
 - Incluir un **grafo que correlacione rendimiento y métricas objetivas ejemplo commits**
 - Identificar claramente a los miembros y explicar sus siglas  
@@ -307,7 +307,7 @@ Para la próxima presentación, estos puntos son de cumplimiento  **obligatorio*
   - Cómo se recoge el feedback  
   - Qué acciones se han tomado  
 
-## NO ES FOCO PERO DEBE ESTAR
+**NO ES FOCO PERO DEBE ESTAR**
 - Incluir **análisis de competidores**
 
 - Incluir **presupuesto CAPEX y OPEX**:
@@ -323,8 +323,8 @@ Para la próxima presentación, estos puntos son de cumplimiento  **obligatorio*
   - Resultados  
   - Reflexión sobre continuidad o mejora  
 
-## FEEDBACK ESPECÍFICO 
-### Estrategia y negocio
+**FEEDBACK ESPECÍFICO** 
+***Estrategia y negocio***
 - Tener en cuenta la **inversión realizada hasta ahora break-even**
 - Aclarar **pivotaje sí o no y justificarlo**
 - Incluir **estimación económica**:
@@ -335,7 +335,7 @@ Para la próxima presentación, estos puntos son de cumplimiento  **obligatorio*
   - Hipótesis  
   - Variables consideradas  
 
-### Demo y entregable
+***Demo y entregable***
 - Añadir **nuevo enlace a la release**
 - Preparar **2 vídeos**:
   - Casos de uso con capítulos en YouTube  
@@ -346,20 +346,76 @@ Para la próxima presentación, estos puntos son de cumplimiento  **obligatorio*
   - Qué feedback se recibió  
   - Qué se ha implementado 
 
-### Contenido y presentación
+***Contenido y presentación***
 - Mantener  el **buen equilibrio entre imágenes y texto**
 - Mantener  las preguntas en la presentación
 - Marcar los **fallos en rojo en la página 63**
 
-### Presupuesto
+***Presupuesto***
 - Incluir **gastos consumidos de CAPEX y OPEX**
 - Revisar slide de **OPEX variables**:
   - Mostrar solo ejemplo o fórmula  
   - O solo variables clave personas uso etc
     
-### Equipo
+***Equipo***
 - Incluir **evidencias de team building**
 - Evaluar necesidad de **recursos ejemplo micrófonos en consejería**
 
-### Otros ajustes
+***Otros ajustes***
 - El **Excel vuelve a EV**
+
+### Semana 8 (9/03) 
+
+***Feedback AURA:*** 
+- Inicio efectivo mal planteado, no hay killer opener real. Buscar hacerlo más corto e impactante. 
+- StoryBoard del anuncio (obligatorio) 
+- Mal seguimiento del hilo argumental de la demo. Historia completa. 
+- Checkear zoom del proyector, ha recortado contenido de la presentación. 
+- Pruebas, gestión de proyecto, tecnología... bien.  
+- Matizar que los failures del CI/CD son en total y no solo en el sprint actual. 
+- Cuadrante con métricas asociadas al rendimiento (obligatorio). 
+- Explicitar los umbrales objetivos. 
+- Que significa un volumen de respuesta alto?, dar datos mas concretos sobre respuestas. 
+- El plan de captacion esta funcionando? 
+- Habéis pensado que el guía llegue a acuerdos con bares, o actividades para obtener descuentos u ofertas por el uso de la aplicación? 
+- Falta de claridad en la información presentada. 
+- No queda claro temporalidad, número de usuarios.  
+- Concretar que el pago sea mensual, no hay claridad. 
+- Hacerse una foto para el team building donde estemos todos.  
+- Satisfacción antes y después del team bulding 
+- Cual es la acción que me va a permitir que se cumpla con el commitment agreement? 
+- Mantener la historia durante toda la presentación. Acabar con la idea del guía Paco  
+
+***Feedback general:*** 
+- No hay reflexión acerca del team building 
+- Los usuarios piloto usan la aplicación realmente? 
+- Nivel de detalle en las transparencias es muy importante 
+- Demo con historia 
+- Cuadrante de rendimiento  
+- Listado servicios externos (git, plataforma de ia...) 
+- Storyboard  
+
+***Foco de la presentación:*** 
+- Idea del proyecto  
+- Killer opener  
+- Demo de los casos de uso con historia (priorizando los core) con hilo conductor realista  
+- Que aparezcan en todo momento datos reales  
+- Visión de muy alto nivel del alm donde se comente parcialmente el sistema de integración y despliegue continuo  
+- Y se especifique el sistema de pruebas de integración y e2e  
+- Análisis de alto nivel de resultados del sprint respecto a lo esperado  
+- Análisis de rendimiento de tareas con algún tipo de grafico visual cuadrante que relacione el rendimiento del grupo con algún tipo de métricas objetivas  
+- Análisis detallado de los problemas encontrados incluyendo estado, planes de contingencia, método para solucionarlo, métricas sobre si esta funcionando, periodo objetivo...  
+- Usuarios piloto, número y tipo  
+- Que acciones de pivotaje según el feedback  
+- Plan para aumentar el numero de pilotos y si esta funcionando  
+- Que acciones vamos a hacer en función del lanzamiento del producto (plan de marketing)  
+
+***No Foco de la presentación:*** 
+- Estructura del equipo  
+- Slide de resumen de alto nivel de competidores  
+- Análisis económico del proyecto  
+- Modelo de precios según los usuarios piloto  
+- Storyboard revisado  
+- Storyboard adicional para un anuncio de inversores (anuncio corto de 2-3 minutos como mucho)  
+- Resumen de alto nivel del cumplimiento del commitment agreement
+- No metodología (mas cosas, analizar con respecto al ultimo dia para eliminar)
