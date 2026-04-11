@@ -390,3 +390,63 @@ Muy bien la forma de presentar al equipo y bien hecho lo de poner el dinero en m
 * Dentro de la documentación deberá de aparecer una sección de demos. En esta sección deben de estar las demos hechas hasta el momento subidas. Se debe de subir también una demo de no más de 10 min, la cual debe de estar también subida a youtube. Dicha demo, debe de mostrar todos los casos de uso core completados y se deben de añadir las marcas de tiempo en los comentarios del video de youtube de cada prueba de caso de uso core (para facilitar llegar a ver os diferentes casos de uso).
 * Dentro del documento de Guidelines, se añadirá una nueva sección donde se explicitará la reacción que hemos tenido al feedback recogido de los usuarios piloto de los otros grupos de clase y del profesor revisor.
 * Importante que las decisiones que se tomen sean desde la decisión y no solo porque nos lo han dicho.
+
+### Semana 6 (09/04)
+**Obligatorio para la siguiente clase (16/04) :**
+- Idea del proyecto
+- killer opener
+- emo de los casos de uso priorizando los casos de uso core con 2 cosas obligatorias -> Hilo conductor realista con historia en la demo y que aparezcan en todo momento datos que parezcan reales y que no sean datos de prueba
+- visión de MUY alto nivel del ALM donde se comente por encima el sistema de integración y despliegue continuo y se explicite el sistema de pruebas de integración y end-to-end
+- análisis de alto nivel del resultado del sprint en curso con respecto a lo que se previó
+- análisis de rendimiento con algún tipo de grafico visual de tipo cuadrante que permita correlacionar el rendimiento con algún conjunto de métricas clave objetivas (commit, pull request, etc…) de forma que se pueda ver de forma explícita como se posicionan las distintas personas con respecto a ese cuadrante con las siglas de cada persona, incluso se pueden hacer varios cuadrantes en caso de ser necesario, en nuestro caso por ejemplo podría ser con puntos de historia/tiempo dedicado. Además, podemos crear nuestra propia métrica en el que asignamos peso a ciertos criterios para medir el rendimiento.
+- Análisis detallado de los problemas incluyendo el estado del problema, medidas tomadas, lecciones aprendidas, planes de contingencia y como se sabe si está funcionando la solución (métrica concreta, umbral objetivo y periodo en el que se cree que se conseguirá el umbral)
+- número y tipos de usuarios pilotos, las acciones de pivotaje que se han hecho para reaccionar al feedback, además de decir cómo va el plan para aumentar el número de usuarios pilotos, así como que acciones vamos a hacer para preparar el lanzamiento del producto y que acciones se van a hacer a nivel de marketing y con respecto a los usuarios pilotos (por ejemplo: No se quiere dar ejemplo para que propongamos algo propio). No se tiene que dar el plan, solo lo que queremos hacer.
+- Estructura del equipo
+-  comparación competidores explicando valor diferencial (1 diapositiva)
+-  análisis económico diferenciando entre capex y opex contextualizando la evolución de usuarios previstos en los que se establece el análisis, costes de los servicios con listado de estos servicios externos (github, etc…) que se va a usar
+-  modelo de precios que vamos a ofrecer a los clientes con respecto a lo que nos han dicho ellos sobre el precio presentando un plan de precios
+-  story board revisado que se tenía de antes con el feedback y otro adicional para anuncio de inversores (anuncio 2/3 minutos, muy corto cada story board)
+-  resumen de alto nivel de cumplimiento commitment agreement donde se muestre la desviación para cada miembro del cumplimiento de este
+-  1 slide del modelo de team building y resultados con métricas objetivas de cómo ha funcionado hasta ahora.
+
+**Con respecto al story board**
+-  Storyboard interesante pero puede llegar a ser demasiado para un anuncio que debería ser de 1/2 minutos como mucho.
+
+**Con respecto al team building**
+- No hay reflexión sobre si está funcionando, como está funcionando, buscar métrica objetiva si tiene efecto o un cuestionario de donde sacar conclusiones (por ejemplo usar los calendarios Niko-Niko).
+
+**Con respecto a los usuarios piloto**
+- Ver si los usuarios pilotos están usando de verdad la aplicación, por ejemplo, no tienen por qué estar usándola en un aula pero que alomejor un padre con su hijo o un profesor. Si dicen que no lo están usando preguntar por qué y sacar feedback. Esto daría pistas para el pivotaje.
+- Aberigual si se usa realmente en colegios. Explicitar en caso de que se esté usando el feedback.
+-  Si no se usa en colegios se puede explicitar que se está usando en alguna casa para probarse tanto por parte del profesor como por parte del alumno
+-  Que aparezca el por qué no se ha podido utilizar en aulas y se señalen las acciones tomadas, como por ejemplo contactar con padres que vayan a poder hacer uso de la app.
+- Inaceptable que no se tomen acciones mitigadoras sobre este feedback.
+
+**Con respecto a la presentación**
+- La demo demasiado rápida, va saltando de una cosa a otra sin que de tiempo a asimilar, en resumen, demasiadas cosas en muy poco tiempo que no se entiende bien
+- O bien poner más tiempo de demo o quitar cosas que no sean tan interesantes, e ir directamente a las cosas que puedan ser más interesantes.
+- Una cosa es el análisis que hagamos sobre por ejemplo lo costes y otra cosa es el nivel de detalle de las transparencias, el cual tiene que estar equilibrado con el tiempo de presentación y que de tiempo a verlo bien, sin pasarnos de meter cosas que no den tiempo a entender.
+- Falta en general capacidad de revisión y coordinación entre los miembros.
+- Hay que definir un proceso en el que la presentación la revisen por ejemplo 3 personas y se realice un ensayo, y así se consiga poder revisar bien tanto si la presentación va bien (de velocidad) como si se aplica bien el feedback.
+- Por ejemplo, 3 días antes tener la presentación que la revisen varias personas y den feedback positivo y negativo, esto puede mejorar la capacidad de mejorar las presentaciones.
+- Kickoff tiene que estar más relacionado con la clave que proponemos luego
+- Relacionar un poco mas el killer con la propia app
+
+**Con respecto a los objetivos de rendimiento**
+- no hemos puesto umbrales objetivo de rendimiento, por lo que se debería poner para saber si cumplimos o no con este umbral de rendimiento.
+
+**Con respecto a la estructura de los equipos**
+- Hay estructuras demasiado genéricas como Equipo 1, equipo 2, etc… Hay que dar razón para la estructura (por ejemplo, equipo backend, equipo frontend, etc…).
+- la actividad marcar imágenes puede ser un infierno como se configura, pero esto no se muestra bien así que no se ha podido ver bien como se hace.
+
+**Con respecto al flujo de trabajo**
+- no se debería de dedicar tiempo a describir algo tan estandar como pull request y tal, sino que especificar más la tecnología, por lo que en la próxima presentación revisar aspectos técnicos para cosas muy estándar no decirlas.
+
+**Con respecto a la aplicación**
+- En la inscripción a cursos proponen que en vez de un código sea una palabra con sentido como "perrito" que no sea complicado para los alumnos
+
+**Notas:**
+- Errores comunes: Demo sin historia, cuadrante, listado de servicios y story board, que son ejemplos. Por alguno de estos errores se puede penalizar muchísimo.
+- Acciones tomadas a partir del feedback de usuarios pilotos no se han señalado, por lo que se deberían señalar en la presentación cuales son estas acciones que se toman. 
+- Una de las cosas que se han quedado sin poner son los servicios externos, lo cual tendría penalización el próximo día.
+- (Hay cosas que no nos piden que ya no son necesarias, como un análisis profundo de las metodologías, por lo que hay que comparar que es lo que se ha quitado para quitarlo)
