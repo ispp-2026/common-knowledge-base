@@ -112,3 +112,18 @@ En esta página se encuentra el feedback recogido por el grupo A - Rooma durante
 *   **Team Building:** Incluir el modelo utilizado y los resultados obtenidos (pendiente de implementar).
 *   **Marketing:** Ir pensando en un **storyboard** para un anuncio orientado a clientes.
 
+### Semana 8 (09/04)
+- Se nota que hemos tenido en cuenta el feedback para mejorar, principalmente las métricas. Como "punto de mejora" quizás hacerlo más breve y no tan en detalle para futuras presentaciones.
+- Buen análisis de mejora continua.
+- La parte de gestión de trabajo es muy estándar, se pueden usar esas diapos para otra cosa.
+- Error en break-even. Poner "a partir de este momento podemos sostener los gastos de operación". No se aprecia bien el incremento de los gastos, ha dicho hacer más zoom.
+- Hay costes de contratación en el opex, poner explícitamente que el coste de mantenimiento incluye costes de contratación.
+- Costes de las plataformas usadas, mirar bn las que por ahora tienen coste 0 y como sería si fuese un caso real empresarial.
+- Afinar nivel de detalle, no he escuchado donde con apuntar otros puntos…
+- En cuanto al kick-off, la imagen de la comparativa temporal en la búsqueda de pisos no es verdad. Sería mejor poner un caso verdadero.
+- Los pricing tienen complementos, hay más de 3 perfiles de usuarios. Hay funcionalidades que un usuario puede contratar. Barajar temas de add-ons.
+- La demo debería seguir una historia clara, no solo enseñar una funcionalidad.
+- Tema de citas a partir de matchs, valorar si el owner puede imponer una hora para reunir a los match, desde mi punto de vista es una preferencia bastante personal y puede que sesgada.
+- Explicar mejor la estructura del equipo. ¿Por qué hay 3 equipos?
+- ¿Como estamos haciendo team building? Añadir fotos.
+
