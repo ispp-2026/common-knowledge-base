@@ -99,3 +99,12 @@ En esta página se recopila el feedback proporcionado por los profesores a los d
 - Enfocar la presentación en una idea clara del proyecto
 - Dar importancia a todo el feedback recibido
 - Se percibe una alta densidad de información debido a la extensión de contenido en las presentaciones. Se recomienda simplificar o reducir ciertos apartados para mejorar la comprensión del mensaje.
+
+## Feedback del día 09/04
+
+- Tratar de no presentar una demo muy rápida que no permita asimilar lo que se muestra.
+- El nivel de detalle de las transparencias tiene que estar equilibrado con el tiempo de presentación. No podemos añadir cosas a la presentación que no de tiempo a explicar.
+- Lo ideal es que haya una serie de personas que se encarguen de hacer la presentación y otro grupo distinto que se encargue de revisarla.
+- Poner apoyo visual en la diapositivas
+- Las diapositivas es el elemento evaluable, debe estar todo claro en ellas
+
