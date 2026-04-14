@@ -34,3 +34,7 @@ En esta página se recopila el feedback proporcionado por los profesores a los d
 - Incluir en el análisis económico la evolución del número de usuarios en el tiempo y un listado mensual concreto de todos los servicios externos utilizados (GitHub, APIs, etc.) con su coste explícito.
 - Evaluar si tiene más sentido un modelo de coste por uso (ej: por número de pisos) en lugar de un coste fijo por unidad organizativa.
 - Especificar los límites de uso impuestos y cómo afectan al modelo de costes.
+
+## Feedback del día 09/04
+- Hay costes de contratación en el opex, poner explícitamente que el coste de mantenimiento incluye costes de contratación.
+- Costes de las plataformas usadas, mirar bien las que por ahora tienen coste 0 y como sería si fuese un caso real empresarial.
