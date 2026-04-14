@@ -79,3 +79,22 @@
 - [ ] **Storyboard de anuncio** (historia para clientes)
 - [ ] **Commitment Agreement** (desviación temporal real por miembro, desde inicio del sprint e inicio del proyecto)
 - [ ] **Team building** (resultados y reflexión sobre continuidad o mejora)
+
+**Fecha:** `16/04/2026`
+### Contenido
+- [ ] **Killer Opener**
+- [ ] **Idea del proyecto**
+- [ ] **Demo de casos de uso core** (hilo conductor realista con historia, datos reales en todo momento, sin datos de prueba)
+- [ ] **Visión ALM y CI/CD** (muy alto nivel: sistema de integración/despliegue continuo, pruebas de integración y end-to-end)
+- [ ] **Análisis de alto nivel del resultado del sprint** (comparación con lo previsto)
+- [ ] **Análisis de rendimiento del equipo** (gráfico cuadrante con siglas de cada miembro correlacionando métricas objetivas como commits/PRs/puntos de historia/tiempo; métrica propia con pesos por criterio)
+- [ ] **Análisis detallado de problemas** (estado, medidas tomadas, lecciones aprendidas, planes de contingencia, métrica concreta + umbral objetivo + período estimado de consecución)
+- [ ] **Usuarios piloto** (número y tipos, acciones de pivotaje por feedback, plan de crecimiento, acciones de lanzamiento y marketing previstas)
+- [ ] **Equipo y estructura**
+- [ ] **Análisis de competidores** (1 diapositiva con valor diferencial explícito)
+- [ ] **Análisis económico CAPEX/OPEX** (evolución de usuarios prevista, listado de servicios externos con costes)
+- [ ] **Modelo de precios** (plan de precios basado en feedback de usuarios piloto)
+- [ ] **Storyboard de anuncio para clientes** (revisado con feedback previo, corto 2-3 min)
+- [ ] **Storyboard de anuncio para inversores** (nuevo, corto 2-3 min)
+- [ ] **Commitment Agreement** (desviación de cada miembro respecto al cumplimiento)
+- [ ] **Team building** (1 slide: modelo utilizado y métricas objetivas de resultados)
