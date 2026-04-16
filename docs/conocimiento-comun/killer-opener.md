@@ -64,3 +64,8 @@ En esta página se recopila el conocimiento común y el feedback proporcionado p
 - Killer Openers que reflejen realidades, no inventar nada en los killer opener o alterar la realidad para que sea conveniente para nuestra presentación.
 - Hacer una transición de killer a presentación más suave, menos brusca.
 
+## Feedback del día 16/04
+
+- Montar Killer Openers que permitan conocer la aplicación (o la idea) incluso si no tuvieras un contexto previo.
+- El Killer Opener debe llamar la atención: no debes esperar a que la clase calle para hablar, debemos callarla los ponentes.
+- No usar el Storyboard como parte del Killer Opener, esto sería información duplicada y puede hacerla pesada.
