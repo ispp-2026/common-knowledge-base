@@ -36,3 +36,10 @@ En esta página se recopila el conocimiento común y el feedback proporcionado p
 - Las demostraciones técnicas no pueden tener datos de prueba, ya deben ser datos reales.
 - Para la próxima evaluación, serán muy rigurosos con las demostraciones técnicas.
 - Tener cuidado con los zooms, las velocidades, la historia que se cuenta, debe tener sentido y ser capaz de mostrar las funcionalidades de la aplicación.
+
+## Feedback del día 16/04
+
+- Establecer una historia con sentido, que pueda reflejar un caso real.
+- Introducir los casos de uso sin que parezca algo forzado, pero que no sea una demostración muy larga.
+- Usar nombres reales e indicar en cada momento quién está interactuando con la aplicación.
+- Mejor hacer vídeos narrados, más que un vídeo que se coloque en la presentación y se narre in situ.
