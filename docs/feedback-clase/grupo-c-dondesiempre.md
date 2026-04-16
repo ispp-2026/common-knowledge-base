@@ -5,18 +5,18 @@ description: Feedback proporcionado al grupo C DondeSiempre.
 
 En esta página se encuentra el feedback recogido por el grupo C - DondeSiempre durante el curso. Este feedback incluye comentarios, sugerencias y recomendaciones proporcionados por el profesor para mejorar el desempeño del grupo en futuras actividades y proyectos.
 
-### Última actualización: 9 de abril
+### Última actualización: 16 de abril
 
 ## 1. Tips para Presentaciones
 
 - **Gestión del tiempo y ritmo**: En la Semana 4 se comentó que hubo "demasiado contenido y demasiado rápido". Es vital hablar más tranquilos y dar tiempo al cliente/profesor para asimilar los conceptos, especialmente en partes densas como el CI/CD.  Se recomienda simplificar o reducir el contenido menos crítico.
 - **Hilo conductor y transiciones**: El flujo narrativo debe tener sentido global. Evitad "saltos extraños" entre temas que rompan el hilo (por ejemplo, pasar del Team Building a los Usuarios Piloto; el Team Building debe presentarse junto a la sección del equipo). Las transiciones de ponente deben ser naturales.
-- **Equilibrio técnico/visual**: Aunque el análisis técnico sea muy bueno, evitar un nivel de detalle excesivo en las diapositivas que abrume a la audiencia.Las presentaciones no deben perder los apoyos visuales en ningún momento. Mantener el equilibrio para no abrumar con texto, pero dejad en pantalla el tiempo suficiente las diapositivas con gráficas o datos complejos para que se puedan procesar.
+- **Equilibrio técnico/visual y Gráficas**: Se ha validado como un aspecto muy positivo el uso de gráficas (especialmente los cuadrantes de rendimiento). Mantener este tipo de apoyos visuales para evitar abrumar con texto, dejándolos en pantalla el tiempo suficiente para que se procesen.
 - **Seguimiento de proyecto**: En las transparencias de seguimiento, las desviaciones deben ser explícitas. No mostrar solo horas; indicar desviaciones en contenidos y funcionalidades (qué se estimó vs. qué se hizo). Además, es clave resaltar el estado anterior y el actual a lo largo del Sprint y del total del proyecto.
 - **Explicación del CI/CD**: Debe explicarse con suficiente detalle técnico (se pidió en la semana 3), pero con el tiempo necesario para que se entienda (en la semana 4 se pasó demasiado rápido).
-- **Demos Reales, Diferenciadoras y con Historia**: Es obligatorio transicionar a demostraciones reales (en vivo o vídeo) asegurando un zoom adecuado para que se vea perfectamente. No mostréis funcionalidades aisladas; usad una historia de usuario como hilo conductor y aseguraos de que la demo destaque claramente los elementos diferenciadores de la plataforma frente a la competencia.
+- **Demos Reales, Diferenciadoras y con Historia**: Es obligatorio transicionar a demostraciones reales. Aunque las demos actuales (16/04) se entienden genial, se debe evaluar si exponerlas de manera exhaustiva es lo más efectivo. Hay que analizar a los usuarios típicos y plantear una reestructuración de la demo para buscar una mayor atracción, no solo la comprensión de la herramienta.
 - **Flujo de la Herramienta**: Al mostrar la aplicación, refinar la explicación trazando un flujo claro de cómo funciona cada interacción con la herramienta.
-- **Síntesis y Feedback**: Mantener el énfasis, la prioridad y la capacidad de síntesis, demostrando que se refleja activamente el feedback proporcionado en las semanas anteriores.
+- **Síntesis y Feedback**: Mantener el énfasis y la prioridad en la síntesis. Se ha valorado muy positivamente la capacidad de resumir y exponer la información. Continuar demostrando que se refleja activamente el feedback de semanas anteriores.
 - **Narrativa con flujo lógico**: Transicionar hacia un modelo de demostración con una historia desde la perspectiva del usuario (ej. un cliente que llega desde Instagram).
 - **Gestión de tiempos visuales**: Mantener durante más tiempo las diapositivas que contengan gráficas o datos complejos para que la audiencia pueda procesarlos.
 
@@ -43,11 +43,10 @@ En esta página se encuentra el feedback recogido por el grupo C - DondeSiempre 
 - **Coherencia**: El opener no debe ser un "show" aislado; tiene que estar totalmente alineado con la narrativa del resto de la presentación.
 - **Variedad**: No quedarse siempre con el mismo killer opener. Hay que ser atrayentes y buscar fórmulas nuevas que generen más enganche.
 - **Fuentes de Datos**: Si se usan datos de impacto en el contexto real (ej. "se cierran 37 tiendas de media diariamente"), es obligatorio citar las fuentes para demostrar su veracidad.
-- **Toma de control inmediata**: No esperéis a que la sala se quede en silencio por sí sola. El objetivo del opener es irrumpir, llamar su atención de golpe y hacer que su foco cambie hacia vosotros en menos de 1 minuto.
+- **Toma de control inmediata**: Aunque el formato actual (16/04) sea bonito y atrayente, carece de efectividad real. No esperar a que la sala se quede en silencio por sí sola; nosotros debemos callar a la audiencia. El objetivo es irrumpir, llamar su atención de golpe y hacer que su foco cambie en menos de 1 minuto.
 - **Contenido seguro y alineado**: El inicio debe estar totalmente alineado con la narrativa de la presentación. Además, evitad estrictamente tocar temas polémicos (como mencionar "residentes ilegales" u otros temas sensibles que puedan desviar la atención negativamente).
 - **Explotar el KI**: sacarle más partido al inicio efectivo para maximizar el impacto.
 - **Conexión**: Si se utiliza un recurso narrativo como una cita, esta no puede quedar aislada. Hay que encontrar la forma de "calzarla" para que conecte de manera directa y evidente con la aplicación y su propuesta de valor.
-- **Mantener el rigor**: Continuar con el formato, claridad y nivel de profundidad actual (09/04) en el análisis de costes, que ya ha sido validado como un punto muy fuerte.
 
 ## 5. Tips para Idea de Negocio
 
@@ -56,6 +55,7 @@ En esta página se encuentra el feedback recogido por el grupo C - DondeSiempre 
 - **Información sensible**: Riesgo alto de que competidores vean precios de otros y se genere "guerra de precios" o venta de información. Analizar y explicar cómo se controla esto.
 - **Viabilidad financiera**: Justificar si es viable estar los primeros 4 meses sin ingresos (pagar sueldos, servidores, etc.).
 - **Claridad en el modelo**: Diferenciar qué es core, qué es extra, y cómo se monetiza cada perfil.
+- **Storyline para Inversores**: Es mejor entrar directamente al volumen de negocio para incentivar a los inversores. Hay que utilizar datos macroeconómicos reales y atractivos (ej. "X comercios en España con X volumen de negocio").
 
 ## 6. Tips para Análisis de Coste y Presupuesto
 
@@ -71,7 +71,7 @@ En esta página se encuentra el feedback recogido por el grupo C - DondeSiempre 
 
 - **Política de Código**: Norma estricta: Todos los miembros deben hacer commits, independientemente de si su rol es marketing o documentación.
 - **Priorización (Secuenciación)**: Planificar las tareas priorizando el desarrollo de las funcionalidades que aportan valor diferenciador frente a la competencia.
-- **Team Building**: Se sugiere buscar dinámicas (opcionales) para fomentar el "buen rollo" ante los desajustes habituales del trabajo. Dadle mayor peso de manera general a las acciones de Team Building para fomentar el buen ambiente ante los desajustes, y aseguraos de presentarlo lógicamente cuando habléis de la organización del equipo.
+- **Team Building**: Dar mayor peso a estas dinámicas ante los desajustes del trabajo. Al exponerlas, es necesario indicar explícitamente el alcance de estas acciones, detallando si han participado todos los miembros o no, y aportando casos concretos.
 - **Comunicación**: Aclarar en la presentación cómo se organiza el equipo (chat, reuniones, frecuencia).
 - **Gestión del Alcance**: Reducir el alcance es una muy buena opción y una excelente práctica de gestión ante imprevistos; no es algo de lo que el equipo deba avergonzarse.
 - **Umbrales de éxito**: Al definir una acción de mejora, marcar siempre un umbral objetivo (ej. "reducir un X% en este periodo").
@@ -80,7 +80,7 @@ En esta página se encuentra el feedback recogido por el grupo C - DondeSiempre 
 - **Rendimiento vs. Horas**: Es un error conceptual grave medir el rendimiento en horas. O se miden horas consumidas, o se mide rendimiento (impacto, peso, resolución), pero no se puede medir el rendimiento en horas.
 - **Concreción en las medidas correctivas**: No usar frases genéricas como "se tomarán medidas" ante imprevistos o sobreesfuerzos. Hay que ser concretos y especificar qué tipo de medida exacta o métrica se va a aplicar. Marcar siempre un umbral de éxito objetivo (ej. "reducir un X%").
 - **Dinámica de trabajo**: Mantened la norma estricta de que todos hagan commits, priorizar tareas de valor diferenciador, aclarar canales de comunicación y recordad que reducir el alcance es una práctica de gestión válida de la que no hay que avergonzarse.
-- **Justificación de estructura**: Es obligatorio explicar y justificar siempre el porqué de la organización. Si el grupo se divide en cuatro subequipos, hay que argumentar claramente la razón de esa división y no dejar que parezca una decisión arbitraria.
+- **Justificación de estructura**: Es obligatorio explicar el porqué de la organización. Se ha valorado muy positivamente la reciente reestructuración por gremios.
 
 ## 8. Tips para Commitment Agreement y Clockify
 
@@ -180,4 +180,15 @@ En esta página se encuentra el feedback recogido por el grupo C - DondeSiempre 
 - Ejemplo de nivel de detalle al que llegar sin saturar con sobreinformación.
 - Problema: estructura del equipo sin razón por la que se han dividido en cuatro equipos. Justificar la división de los equipos.
 - La demo no es una historia. Tiene que ser una historia. Cuidado con los zooms, las velocidades, etc.
+
+### Semana 9 (16/04, evaluación):
+
+- Aspectos positivos: gráficas de los cuadrantes originales y bien usadas, buena reestructuración por gremios del equipo de trabajo.
+- Feedback general positivo por parte de Pablo y Bedilia, se aprecia también la capacidad de síntesis de la información a la hora de exponer la misma.
+- Storyline inversores: mejor entrar al volumen de negocio, buscar incentivar a los inversores. (X comercios en España con X volumen de negocio, datos reales)
+- Pedidos: en lugar de generar un código alfanumérico, ¿y si se generara un código QR?
+- Demos: muy bien, se entienden genial. Sin embargo: ¿es realmente efectivo? Pensar si es lo mejor para presentar de manera exhaustiva: analizar a los usuarios típicos y plantear una reestructuración para ver si se expone de forma diferente, buscando mayor atracción.
+- Killer Opener: bonito y atrayente, pero no efectivo. Nosotros tenemos que ser los que callemos a la audiencia, no esperar a que callen.
+- Team Building: ¿Han participado todos? ¿Sí? ¿No? Indicar casos.
+
 
