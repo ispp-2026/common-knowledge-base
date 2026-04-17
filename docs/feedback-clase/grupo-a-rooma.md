@@ -127,3 +127,11 @@ En esta página se encuentra el feedback recogido por el grupo A - Rooma durante
 - Explicar mejor la estructura del equipo. ¿Por qué hay 3 equipos?
 - ¿Como estamos haciendo team building? Añadir fotos.
 
+### Semana 9 (16/04)
+- No narrar en directo a la hora de hacer la demostración
+- No hay costes de personal(no lo ha visto), el opex esta raro o mal o no se que quiere decir
+- Inicio efectivo regular
+- Mantener Room A la opción A
+- Falta definir un poco más la historia de la demo hilando con incicio efectivo
+- Los stories hay que darle una vuelta, sobre todo para los inversores, para tener datos concretos y dar respuesta de porque tengo que dar pasta
+
