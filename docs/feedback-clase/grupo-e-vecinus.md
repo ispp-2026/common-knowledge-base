@@ -5,7 +5,7 @@ description: Feedback proporcionado al grupo E Vecinus.
 
 En esta página se encuentra el feedback recogido por el grupo E - Vecinus durante el curso. Este feedback incluye comentarios, sugerencias y recomendaciones proporcionados por el profesor para mejorar el desempeño del grupo en futuras actividades y proyectos.
 
-### Última actualización: 9 de abril
+### Última actualización: 17 de abril
 
 ## 📢 Presentación y Narrativa
 **Hilo Conductor:** La presentación no puede ser un listado de puntos; debe tener una narrativa que conecte todo.
@@ -398,3 +398,55 @@ Además, debe aparecer también en las diapositivas lo siguiente:
 - Resumen de alm de cumplimiento de commitment agreement
 - Análisis y desviación de tiempo como siempre, semana, sprint y total por persona
 - Diapositiva con modelo de team building y resultados obtenidos introduciendo métricas objetivas para evaluarlo
+
+### Semana 9 (16/04), Evaluación Sprint 3
+
+**Aspectos positivos**
+
+- Se ha mejorado el hilo argumental y la fluidez de la presentación
+
+**Aspectos a mejorar**
+
+- En la demo no está la historia refinada del todo. Debemos montar una histora realista.
+- Quitar el modo negrita de la demo.
+- En la demo deberíamos poner la vista del móvil si la historia que contamos tiene más sentido hacerla con el móvil que con el ordenador.
+- El killer opener debemos trabajarlo más. No queda muy claro que es sobre una app de vecinos.
+- Las diapositivas que no aportan nada (la de la montaña) hay que quitarlas.
+- El story board hay que asegurarse de que va a ser real, pues luego hay que grabar un anuncio.
+- ¿En el opex solo aparecen los costes de jefe de proyecto? Creo que esto no es así pero el profesor no se dió cuenta que también están los costes de ingenieros, sino es así debemos tenerlos en cuenta.
+- Hay que dejar claro que es opex acumulado, no es una evolución.
+- No es tan importante que se acaben las tareas sino que se acaben correctamente, habría que especificar eso más. No es realista poner 100% completado.
+
+**Aspectos generales comentados para el siguiente día**
+
+- El killer opener hay que mejorarlo.
+- Hay que comentar más si se está usando la app por los pilotos (no solo para dar el feedback), y si no es así plantearnos el por qué.
+- Tener más en cuenta los gastos del opex
+- Evitar demos narradas, suele ser mejor grabar un vídeo y ponerlo en clase.
+- Después de feria vamos a hacer un día de retrospectiva con dos presentaciones:
+
+*PRESENTACIÓN 1 (10 minutos) - Ensayo del WPL:*
+
+- ¿De qué va el proyecto?: Killer opener, idea general, anuncio de máximo 1 min
+- Demo con lo CORE principalmente, y alguna que otra funciolidad. Importante que siga un hilo conducor, una historia.
+- Análisis de la competencia
+- Presentación de alto nivel del equipo
+- Rentabilidad, modelo de negocio, modelo de precios, resumen de alto nivel del objetivo de crecimiento. Opciones de inversión
+- Enlace al sistema funcionando en producción. Ahora mismo podemos usar alguno de un entregable, pero en el WPL no debemos poner este, sino el del sistema final.
+
+Deben haber dos anuncios reales hechos por nosotros, uno para los usuarios y otro para los inversores. Si no presentamos los dos en esta presentación podemos presentar el segundo en la siguiente.
+
+*PRESENTACIÓN 2 (5 minutos) - Lanzamiento del producto*
+
+- Diapositiva de cómo hemos usado la IA en el desarrollo (sólo en esto). Herramientas usadas, modelos o metodologías, agentes de ayuda, etc.
+- Debemos crear 2 "Persona". Son un usuarios ficticio que representa un usuario potencial. Deben ser dos diferentes. Tenemos que presentar un plan de marketing y los tipos de clientes usando a estar "Persona"
+- Utilizar a lo largo de la presentación palabras claves que hagan resaltar nuestra idea.
+- Describir la campaña de lanzamiento que vamos a realizar con un evento/acción previo al WPL
+- Estimaciones de costes, debemos explicar dos escenarios:
+    - Escenario Pesimista: donde todos los riesgos han ocurrido y afectado al proyecto y al equipo
+    - Escenario Optimista
+    A partir de estos escenarios, explicar cúal sería el número mínimo de clientes para superar esos riesgos y obtener beneficios.
+- Acciones de contingencia para las estimaciones
+- Acciones de realizar para crecer en las redes sociales. Se nos recomienda usar influencers.
+- Community management: objetivo y plan de acción
+- Coste del marketing basado en el alcance propuesto en la campaña 
