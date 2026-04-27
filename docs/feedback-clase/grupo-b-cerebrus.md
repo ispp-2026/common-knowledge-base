@@ -509,7 +509,7 @@ Muy bien la forma de presentar al equipo y bien hecho lo de poner el dinero en m
 - Cuidado con exponer cursos personalizados para cada alumno porque profesor tien grupos de alumnos, no un curso por alumno
 
 **Con respecto al anuncio de inversores:**
-- aHa parecido más de usuarios
+- Ha parecido más de usuarios
 - Plantearse por que es una buena idea de negocio
 - Hacer algo mas atrayente
 
