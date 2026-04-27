@@ -333,7 +333,7 @@ Muy bien la forma de presentar al equipo y bien hecho lo de poner el dinero en m
 	- 1 no enseñar las desviaciones en curso de todos los miembro por sprint y el total de la asignatura.
 	- 2 no tener una forma sistemática de mejora. Para cada problema debemos de definir unas acciones concretas (problemas en curso) y más importante una metrica concreta que diga como se está solucionando además de un umbral objetivo (en esta métrica se quiere llegar a tanto) y un objetivo temporal de cuánto queremos tardar en llegar a ese umbral de esa métrica. 
 
-### Semana 6 (26/03) (EVALUACIÓN)
+### Semana 7 (26/03) (EVALUACIÓN)
 * forma presentación problemas muy bien.
 * crecimiento usuarios piloto muy bien.
 * muy bien que haya despliegues separados para producción y para usuarios piloto.
@@ -391,7 +391,7 @@ Muy bien la forma de presentar al equipo y bien hecho lo de poner el dinero en m
 * Dentro del documento de Guidelines, se añadirá una nueva sección donde se explicitará la reacción que hemos tenido al feedback recogido de los usuarios piloto de los otros grupos de clase y del profesor revisor.
 * Importante que las decisiones que se tomen sean desde la decisión y no solo porque nos lo han dicho.
 
-### Semana 6 (09/04)
+### Semana 8 (09/04)
 **Obligatorio para la siguiente clase (16/04) :**
 - Idea del proyecto
 - killer opener
@@ -450,3 +450,92 @@ Muy bien la forma de presentar al equipo y bien hecho lo de poner el dinero en m
 - Acciones tomadas a partir del feedback de usuarios pilotos no se han señalado, por lo que se deberían señalar en la presentación cuales son estas acciones que se toman. 
 - Una de las cosas que se han quedado sin poner son los servicios externos, lo cual tendría penalización el próximo día.
 - (Hay cosas que no nos piden que ya no son necesarias, como un análisis profundo de las metodologías, por lo que hay que comparar que es lo que se ha quitado para quitarlo)
+
+### Semana 9 (16/04) (EVALUACIÓN)
+**Obligatorio para la siguiente clase (30/04) :**
+2 presentaciones.
+
+1ª presentación: (SU ESTRUSTURA ES OBLIGATORIA DE ESTA FORMA)
+- Será un ensayo de 10 mínutos similar a cómo será la última
+- Responder de que va: idea clara bien killer opener y que enlace con anuncio
+- Anuncio de máximo 1 minuto
+- ¿Qué hace exactamente?, lo que se propone
+- Demo de casos uso core, con hilo conductor realista y con datos reales
+- ¿Y esto por qué no se ha hecho antes? 
+- Hablar de competidores y diferenciacion
+- ¿Quién hay detrás de este proyecto?
+- Presentar equipo sin necesidad de toda la estructura en complejidad
+- ¿Esto es rentable?
+- Modelo negocio explícito y modelo de precios propuesto a clientes
+- Resumen plan negocio de alto nivel
+- Plantear que opciones de inversión planteamos
+- ¿Donde veo más info?
+- La Ding + enlace a la la Ding, URL, QR, enlace al sistema que esté funcionando ya en producción 
+- Enlace no a entregable si no al de producción  (para estos días si puede ser al entregable, para el día final no)
+
+2ª Presentación:
+- extra 5 min con datos campaña lanzamiento
+- 1 transpa como usar Ia en desarrollo
+- Qué herramientas concreto hemos usado
+- Explicar que modelo o metodología para Ia hemos usado, agentes de ayuda desarrollo (solo en desarrollo)
+- Plan de marketing 
+- Nuestro modelo de segmentación, como segmentamos clientes IMPORTANTE: usar modelo de persona* (Mínimo debe haber 2 personas)
+- Como abordamos posicionamiento
+- Qué campaña de lanzamiento vamos a hacer debe incluir al menos un evento / acción previa a work proyect launch 
+- Estimaciones costes en base a una gráfica que se vea en la misma escenario pesimista crecimiento (riesgos pasan todos) y otro escenario optimista (donde riesgos no pasan) + explicitar en gráfica mínimo número de clientes alcanzar y retorno inversión
+- Acciones + plan contingencias en caso de que no se sumplan planes de crecimiento 
+- Acciones a desarrollar de creación contenido y crecimiento de redes sociales
+- Análisis de ver si podemos que un influencer nos muestre nuestro sistema
+- Community manager responsable y responsabilidades más su plan de acción
+- Cual es el coste que va a tener basado en q tamaño de alcance de campaña costes de community mánagers
+- Anuncio presentadores 
+- Preparar 2 anunciós uno inversores otro usuario
+
+**Con respecto al open killer:**
+- Inicio efectivo atrayente, cuidado con q no se congele pantalla
+- (comentario general) Killer opener flojo, no debemos esperarnos que se callen
+
+**Con respecto a la Demo:**
+- Esfuerzo por contar HU -> se desconecta con la historia que queremos contar con nombres no reales
+- Falta decir quienes interactúan en ese momento
+- Poner icono del rol para que se sepa quien es rápidamente
+- Demo narrada directo -> no fluye bien grabar video narrado
+- Dar más importancia a la historia que la que se da ahora, más que a demo
+- Se ve un poco mejor que antes, pero cuidado en lo del cambio de escenarios y tal
+- Intentar que sea mucho más fluido todo, los nombres matemática y analítica distraen de lo que se esta presentando
+- No pararse en foco diferenciado y luego en demo decir porque esas cosas son buenas sin necesidad de pararse en foco
+
+**Con respecto a la presentación de usuarios:**
+- Cuidado con exponer cursos personalizados para cada alumno porque profesor tien grupos de alumnos, no un curso por alumno
+
+**Con respecto al anuncio de inversores:**
+- aHa parecido más de usuarios
+- Plantearse por que es una buena idea de negocio
+- Hacer algo mas atrayente
+
+**Con respecto al Team Building:**
+- Se ha presentado aciones futuras, mostrar tamb que hemos hecho ya
+  
+**Con respecto a las métricas:**
+- No decir lo de que los fallos críticos no está hecho, poner fecha fija de cuando lo vamos a medir 
+- Ver qué vamos a hecer para que las medidas lleguen al objetivo -> planes de contigencia
+
+**Con respecto al feedback:**
+- Se ha presentado como lo vamos a hacer no como ya lo estamos haciendo o lo hemos hecho, hablarlo como presente no futuro
+- Decir que seguimiento le estamos dando y no solo a futuro 
+
+**Con respecto al análisis económico:**
+- opex 94 y copex 3 eso es raro
+- Hay que incluir muchas cosas a meter para que sea solo 3 %, rara la forma de presentarlo
+
+**Con respecto a la presentación:**
+- Rechina que se dedique tanto al uso de la ia y primaria. No dedicar tantas transparencias a una cosa muy directas -
+- Mas tiepo a la demostración
+- En diapositiva 7 : ponemos 3 cosas y resaltamos estadísticas: que se resalte estadísticas con un colo por un motivo simplemente estético es un error, ya que parece que se resalta por algo en concreto
+- Si algo se resalta es por que interesa que se vea eso en concreto no solo por algo estético
+
+**Notas:**
+- *Persona: personaje ficticio con bio motivación obv frustración y decir este va a ser un user típico
+- Lo importante es que se use terminología que atraiga la atención
+- Gusta q se use en real en colegio.
+- (comentario general) Enfatizar + en que se usa app sino ver por que no y analizarlo -> poner como problemas que no use
