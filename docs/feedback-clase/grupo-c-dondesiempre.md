@@ -5,7 +5,7 @@ description: Feedback proporcionado al grupo C DondeSiempre.
 
 En esta página se encuentra el feedback recogido por el grupo C - DondeSiempre durante el curso. Este feedback incluye comentarios, sugerencias y recomendaciones proporcionados por el profesor para mejorar el desempeño del grupo en futuras actividades y proyectos.
 
-### Última actualización: 16 de abril
+### Última actualización: 30 de abril
 
 ## 1. Tips para Presentaciones
 
@@ -19,6 +19,10 @@ En esta página se encuentra el feedback recogido por el grupo C - DondeSiempre 
 - **Síntesis y Feedback**: Mantener el énfasis y la prioridad en la síntesis. Se ha valorado muy positivamente la capacidad de resumir y exponer la información. Continuar demostrando que se refleja activamente el feedback de semanas anteriores.
 - **Narrativa con flujo lógico**: Transicionar hacia un modelo de demostración con una historia desde la perspectiva del usuario (ej. un cliente que llega desde Instagram).
 - **Gestión de tiempos visuales**: Mantener durante más tiempo las diapositivas que contengan gráficas o datos complejos para que la audiencia pueda procesarlos.
+- **Renovación obligatoria de Demos**: Aunque los zooms y el enganche de las demostraciones técnicas con el anuncio de clientes están muy bien ejecutados, no se deben reutilizar las demos de semanas anteriores.
+- **Gestión del tiempo y narradores en las Demos**: Las demostraciones siguen resultando demasiado largas. Sería buena idea además poner una voz para cada tipo de usuario que esté usando la aplicación.
+- **Coherencia visual en Segmentación de Usuarios**: Lo que se expone oralmente debe coincidir al 100% con lo que se proyecta. Es necesario estructurar mejor la estética de las diapositivas de segmentación, asegurando que todas las características de los perfiles que se mencionan aparezcan escritas en la presentación. 
+
 
 ## 2. Tips para Análisis de competidores
 
@@ -56,6 +60,7 @@ En esta página se encuentra el feedback recogido por el grupo C - DondeSiempre 
 - **Viabilidad financiera**: Justificar si es viable estar los primeros 4 meses sin ingresos (pagar sueldos, servidores, etc.).
 - **Claridad en el modelo**: Diferenciar qué es core, qué es extra, y cómo se monetiza cada perfil.
 - **Storyline para Inversores**: Es mejor entrar directamente al volumen de negocio para incentivar a los inversores. Hay que utilizar datos macroeconómicos reales y atractivos (ej. "X comercios en España con X volumen de negocio").
+- **Material visual en el anuncio para Inversores**: Para dar contexto al comercio local, hay que apoyar la información estrictamente con contenido real y específico, eliminando por completo el uso de recursos visuales genéricos o de relleno (como usar clips de personas caminando por la calle y sustituirlo por gráficas o información clave). 
 
 ## 6. Tips para Análisis de Coste y Presupuesto
 
@@ -190,5 +195,14 @@ En esta página se encuentra el feedback recogido por el grupo C - DondeSiempre 
 - Demos: muy bien, se entienden genial. Sin embargo: ¿es realmente efectivo? Pensar si es lo mejor para presentar de manera exhaustiva: analizar a los usuarios típicos y plantear una reestructuración para ver si se expone de forma diferente, buscando mayor atracción.
 - Killer Opener: bonito y atrayente, pero no efectivo. Nosotros tenemos que ser los que callemos a la audiencia, no esperar a que callen.
 - Team Building: ¿Han participado todos? ¿Sí? ¿No? Indicar casos.
+
+### Semana 10 (30/04):
+
+- Anuncios trabajados, buena fluidez en la presentación y transmisión correcta de la información. 
+- Bien enganchadas las demostraciones técnicas con el anuncio de clientes, buenos zooms, bien explicado. Sin embargo, no reutilizar las demos de la semana anterior, hacer nuevas.
+- Para el anuncio de los inversores, dar más contexto al comercio local, apoyar alguna información con contenido real, en lugar de las personas caminando por la calle.
+- Las demostraciones, a pesar de estar bien explicadas, son demasiado largas. Sería buena idea diferenciar voces de narradores por los usuarios de la aplicación. 
+- Para la segmentación de usuarios, habría que estructurar mejor la información mostrada por perfil, había algunas características que se mencionaban pero no aparecían en las diapositivas (mejorar la información que se presenta en la estética de las diapositivas de segmentación de usuarios).
+
 
 
