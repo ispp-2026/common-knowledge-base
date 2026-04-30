@@ -5,7 +5,7 @@ description: Feedback proporcionado al grupo E Vecinus.
 
 En esta página se encuentra el feedback recogido por el grupo E - Vecinus durante el curso. Este feedback incluye comentarios, sugerencias y recomendaciones proporcionados por el profesor para mejorar el desempeño del grupo en futuras actividades y proyectos.
 
-### Última actualización: 17 de abril
+### Última actualización: 30 de abril
 
 ## 📢 Presentación y Narrativa
 **Hilo Conductor:** La presentación no puede ser un listado de puntos; debe tener una narrativa que conecte todo.
@@ -450,3 +450,74 @@ Deben haber dos anuncios reales hechos por nosotros, uno para los usuarios y otr
 - Acciones de realizar para crecer en las redes sociales. Se nos recomienda usar influencers.
 - Community management: objetivo y plan de acción
 - Coste del marketing basado en el alcance propuesto en la campaña 
+
+
+### Semana 10 (30/04), PPL
+
+**Primera Presentación**
+
+- Algunas partes poco fluida.
+- Killer opener poco atractivo. Si usamos lo del 80% aprovecharlo para el hilo conductor.
+- El vídeo de clientes está bien.
+- Lo del cuadrante de competidores, quizás es mejor quitar la tabla para el WPL.
+- Le ha gustado la demo pero dice que falta un poco más de realismo (quitar lo de las 15 personas del ascensor).
+- Sobre los límites de uso de la IA según el modelo de negocio, le gusta pero ¿hemos estudiado bien como funcionan los límites?
+- En el plan de inversión tenemos que añadir como los inversores van a recuperar el dinero invertido. Falta poner el ROI, en qué momento los inversores recuperarán su inversión, tendrán acciones o no...
+- Buen análisis de las dos personas. El plan de negocio y el ejemplo con dos tipos de clientes es muy bueno.
+- Falta código QR. Falta enlace a la landing page. Donde se pone el enlace falta poner el QR y la landing también. Esta diapositiva tiene que ir sí o sí al final.
+- Al presentar el equipo, dedicar más información a ver las características que a la estructura de los equipos. Por ejemplo: es mejor decir que somos 15 ingenieros a decir equipo backend, equipo frontend, ...
+- Vídeo de inversores con pocos datos. No es necesario poner la demo, sino dar datos reales de por qué invertir en ese mercado y por qué nuestra app es mejor que otras.
+- Los vídeos no se oyen del todo bien.
+- Hacer la historia más extensa para favorecer el hilo conductor (contextualizar más las acciones de la demo)
+- Explicar nº de comunidades para alcanzar break even (aparte de administradores)
+
+**Segunda Presentación**
+
+- Mejorar el hilo conductor
+- Lo de la IA, se reduce el tiempo empleado un 30% -> ¿Cómo lo medimos?. Incluirlo también en el informe sobre IA, de forma más extensa
+
+**Para el siguiente día**
+
+- Necesidad de cambiar el chip para la ultima presentación (adecuarla a los usuarios e inversores, no a un contexto de clase)
+- Pensar y tener en cuenta que el dia de evaluación del PPL (14/05) es el último día de feedback, hay que tomárselo como ensayo general. Debemos tener un plan de contingencia por si algo falla.
+- La presentación debe ser más fluida y natural, sin que haya necesidad de mirar la presentación. Hay que tener una energía alta sin sobreteatralizar, para conectar con lenguaje no verbal con los asistentes
+- Demasiada información no asimilable en las presentaciones (cuadros enormes con muchas filas/columnas). No poner cuadrantes salvo pequeños y sencillos
+- No hacer un recorrido exhaustivo de las funcionalidades (al hablarlo). 
+- No poner mucho texto
+- Justificar por qué somos una buena opción de mercado en la presentación/vídeo de inversores
+- Definir de forma concreta las opciones de inversión con el tiempo, el retorno y los beneficios extra de la misma
+
+**ORGANIZACIÓN EVENTO WPL**
+
+- Landing donde se vea el evento y se pueda acceder a las landings de los demás proyectos
+- Un banner POR EQUIPO:
+  - 16:9 de ratio mínimo de 1920x1080
+  - QR a la landing de nuestro proyecto
+  - que ponga ISPP 25/26
+  - que ponga la fecha y lugar del WPL (21/05 salón de actos de la ETSII)
+- Salón de actos reservado el 19/05 12:30 a 14:30 y el 21/05 de 9:00 a 17:30
+- Mandar correo electrónico conjunto de los alumnos de mañana y de tarde con la gestión del comité organizador del evento al profesor antes del 7 de mayo
+- Los profesores necesitan 30min al final (igual lo amplían/modifican respondiendo al correo)
+- Cada grupo debe hacer una encuesta de cuanta gente puede asistir a ambos turnos de presentación (12:30-14:30 y 15:30-17:30) y mandarlo en el correo conjunto
+- Si algún grupo no quiere participar en las votaciones que avise (las votaciones no cuentan para la nota)
+- Decirle antes del 7 de mayo en un correo
+- Obligatoria asistencia para el turno correspondiente de cada grupo COMPLETO
+- Hablar todos los ponentes si queremos que se graben las presentaciones antes del 7 de mayo.
+
+**PRESENTACIÓN GLOBAL RETROSPECTIVE:**
+
+- En privado con los profesores, sin público.
+- Presentación de 15 minutos del commitment agreement, su cumplimiento, el grado de implicación y desempeño de los miembros del equipo. Además, comentar problemas que hayan surgido.
+- Se tiene que poder ver estas métricas claras y objetivas por miembro del equipo.
+- Orden y hora lo organizan los profesores.
+- Asistencia obligatoria.
+- Se pueden hacer preguntas.
+- Los profesores también nos pueden hacer preguntas
+
+**PRESENTACIÓN PPL**
+
+Lo mismo que hoy EXCEPTO:
+- Añadir sí o sí anuncio para inversores con análisis objetivo y/o cuantitativo del mercado con las explicitaciones de las opciones de inversión con el tiempo, el retorno y los beneficios extra de la misma (como mucho 3 opciones).
+- Última transparencia de la presentación de 10 minutos debe tener url legible (bit.ly) y QR a la LANDING
+  - La landing debe incluir enlace al despliegue de producción y cuentas de usuario distintas a las entregadas a los profesores para que los asistentes puedan probar la aplicación. 
+- Presentación complementaria exactamente igual a la entregada hoy (nosotros tenemos que añadir posicionamiento SEO y campaña de lanzamiento con eventos)
