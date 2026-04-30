@@ -43,3 +43,11 @@ En esta página se recopila el conocimiento común y el feedback proporcionado p
 - Introducir los casos de uso sin que parezca algo forzado, pero que no sea una demostración muy larga.
 - Usar nombres reales e indicar en cada momento quién está interactuando con la aplicación.
 - Mejor hacer vídeos narrados, más que un vídeo que se coloque en la presentación y se narre in situ.
+
+## Feedback del día 30/04
+
+- No hacer demostraciones demasiado largas, ir al grano y omitir procesos mecánicos, enfocarse en factores diferenciadores.
+- Analizar qué puede quitarse de las demostraciones asegurando que el concepto siga comprendiéndose perfectamente.
+- No pueden reutilizarse demostraciones de semanas anteriores, lo mejor sería ir actualizándolas e ir adaptándolas a los nuevos requisitos.
+- Sería buena idea implementar cambios de voces en narradores, según el tipo de usuario que esté utilizando la aplicación.
+- Importante manejar los volúmenes y zooms de las demostraciones técnicas.
