@@ -69,3 +69,9 @@ En esta página se recopila el conocimiento común y el feedback proporcionado p
 - Montar Killer Openers que permitan conocer la aplicación (o la idea) incluso si no tuvieras un contexto previo.
 - El Killer Opener debe llamar la atención: no debes esperar a que la clase calle para hablar, debemos callarla los ponentes.
 - No usar el Storyboard como parte del Killer Opener, esto sería información duplicada y puede hacerla pesada.
+
+## Feedback del día 30/04
+
+- Adaptar el killer para pensar que se reproducirá en el salón de actos.
+- Que conecte con el público, intentar pillar el focus desde el comienzo.
+- Se permite el formato teatrillo, pero que mantenga un estilo elegante y serio.
