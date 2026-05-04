@@ -4,7 +4,7 @@ description: Feedback proporcionado al grupo B Cerebrus.
 ---
 En esta página se encuentra el feedback recogido por el grupo B - Cerebrus durante el curso. Este feedback incluye comentarios, sugerencias y recomendaciones proporcionados por el profesor para mejorar el desempeño del grupo en futuras actividades y proyectos.
 
-### Última actualización: 24 de abril
+### Última actualización: 04 de mayo
 
 ## 1. Definición de Producto
 
@@ -539,3 +539,99 @@ Muy bien la forma de presentar al equipo y bien hecho lo de poner el dinero en m
 - Lo importante es que se use terminología que atraiga la atención
 - Gusta q se use en real en colegio.
 - (comentario general) Enfatizar + en que se usa app sino ver por que no y analizarlo -> poner como problemas que no use
+
+### Semana 10 (30/04) 
+**Obligatorio para la siguiente clase (07/05) :**
+- sesión retrospective: media hora 40 min donde tendremos una sesión privada con los profesores solo con una presentación de 15 min para discutir el análisis del cumplimiento del commitment agreement de cada uno de los miembros, problemas del equipo (15 min) solo orientados a eso, desempeño de cada miembro del proyecto y commitmetn agreement.
+- Preguntas individuales después. No es necesario ir miembro por miembro, enseñar una gráfica donde se vea el rendimiento de cada uno.
+- El impacto de eso a cada miembro se hablará ese día. Si dura menos la presentación no pasa nada, simplemente como máximo será 15 min
+- los grupos serán en orden, 1,2,3,4.. el lunes que viene dirán el orden
+- la asistencia es obligatoria
+
+**Con respecto a la presentación (exposición)**
+- Presentación 1: (10 minutos)
+- La presentación tiene que fluir: y para ello se necesita mucho ensayo de la misma, que todo sea muy natural
+- El ritmo y la energía debe ser la adecuada, en este último día hemos empeorado
+- Preparar todo (sala, luces, audio) para la siguiente práctica, que será la ultima frente a los profesores para que nos den feedback, para simular de forma realista el lanzamiento
+- Hay mucha info en trasparencias que no se pueden asimilar por parte del espectador. Si no se puede asimilar, no ponerlo, solo poner lo que vamos a mencionar de forma simple y minimalista
+- No hacer recorrido exhaustivo de las funcionalidades, analizar qué podemos quitar que permita al usuario que lo vea entender igualmente cómo funciona la app
+- NO DEBE HABER TRASPARENCIAS CON UNICAMENTE TEXTO. si NO es fundamental que esté no ponerla.
+- intentar dar un mensaje más sofisticado, debemos además de llamar la atención, dar una idea potencial del proyecto
+- estamos en la dirección correcta pero debemos trabajarlo mucho para llegar bien al lanzamiento
+
+**Con respecto a los inversores**
+- Errores típicos, no se justifica nada el mercado, el por que deberían invertir en nuestra aplicación.
+- Poner algún método cuantitativo para que el inversor sea convencido.
+- Definir de forma concreta en qué estarían invirtiendo, si invierto 50000, a donde van, que es lo principal en lo que estarían invirtiendo.
+- Para cada modelo de inversión que porponemos a cambio, beneficios a final de año, condiciones una vez que han invertido, el retorno de inversión previsto, tiempo, etc.
+
+**Con respecto a la agenda de la siguiente clase**
+AGENDA
+- Cuadrar turnos, logística, etc. Los profesores necesitarán 30 minutos al final
+- Que esperan de nosotros: 
+- los profesores a las 12:30 estarán allí y lo que quieren ver es la presentaciones de 10 minutos en el salón de actos.
+- Nos recomiendan que hagamos algún tipo de modelo de promoción y material de eso. como mínimo como clase tenemos que organizarnos para que vaya bien el flujo de presentaciones
+- Penalización de 1 pto si llega ese dia y no hay nada de organización
+- Tenemos qaue tener una mínima "landing" donde se vea la agenda, y un enlace a los diferentes proyectos
+- Por equipo tenemos que tener un banner poster con:
+	- ratio de 16:9 
+	- 1920x1800px
+	- código QR a la landing de nuestro proyecto
+	- especificar que es de ISPP
+	- si quieres saber mas información...
+	- fecha del lanzamiento y lugar
+	- PONDRAN UN EJEMPLO EN VERSION PEQUEÑA DE OTROS PROYECTOS DE OTROS AÑOS EN EV
+- Hablar con los grupos si queremos que se retransmita por streaming el lanzamiento. nos mandaran un form para autorizar eso.
+- Salón de actos: 19 mayo de 12:30 a 17:30 para ensayar (opcional)
+
+**Con respecto a lo que se espera el día previo al proyectlaunch**
+- Lo mismo que hoy (presentacion del 16/04)
+Diferencias:
+- Importante que se exponga un vídeo de inversoras con un análisis objetivo y cuantitativo del mercado potencial, y las oportunidades de inversión, y para cada una de ellas especificar el importe,condiciones,cosas que ofrecemos, el retorno esperado. Todo esto dentro del video. como mucho mucho poner 3 oportunidades de inversiones. ideal 2
+- En la ultima trasparencia debe estar el enlace a la landing cortito, y un código QR, además de un enlace al sistema en producción, el que dejamos disponible para los usuarios que quieran utilizarlo, no tiene por que ser elm mismo que le pasamos a los profesores.
+
+PRESENTACIÓN ANEXA: (la 2)
+- Trasparencia uso de la ia, etc,
+- plan  de marketing
+- modelo de segmentación
+- características de objetivos
+- riesgos, frustración de los clientes
+- posicionamiento CEO
+- que frase sería la que nos definiría como empresa
+- promociones, acciones de impulso, eventos, etc.
+- costes con escenarios de crecimiento, escenario pesimisto.
+- num mínimo de clientes para cubrir los costes.
+- acciones y planes de contingencia en el caso en el que no se cumpla el plan del crecimiento.
+- el commitment management que tenemos, con partnerships,
+- invitaciones de gente importante,
+- quien es el responsable que se hará cargo de todo esto, etc.
+- Los anuncios en la presentación principal que no pongamos pueden estar en la presentación anexa
+
+**Con respecto a la presentación (1)**
+- no está diseñada para un lanzamiento, hay muchas cosas que rechinan, tenemos que entender que la presentación primera tiene que ser autocontenida, va a haber gente que no sepa de qué va la asignatura
+- no debemos asumir demasiadas cosas. Ej: competidores y desarrollo: estamos haciendo referencias que no quedan claras, para los profesores quedan claras ya que nos han visto presentar mas veces, pero en la demo y para una persona que venga de fuera no queda nada claro.
+- si nuestro mensaje es la IA, personalización y estadísticas, DEBE estar en la demo super definido.
+- Lo que dejamos muy claro y está muy bien es la especificación de los diferentes roles que tenemos (alumno en riesgo y profesor).
+- Tenemos que cubrir e ir a la esencia de lo más potente que posee nuestra aplicación.
+- Otro ejemplo: los inversores: en una presentación de lanzamiento NO se dan opciones, proponemos una única opción y punto.
+- Otro ejemplo: equipo: no da tiempo a entender los roles del equipo, es mejor poner una foto de todos y explicar por encima quienes somos, no podemos presentar algo que alguien que ve por primera vez una presentación nuestra pueda asimilar fácilmente. tenemos que cambiar el chip. (en la presentación 2: Está bien proponer diferentes perspectivas y opciones.)
+- la sala debemos prepararla mejor, debemos preocuparnos de la forma en la que se hace el delivery
+- Para la siguiente presentación tiene que haber una gran diferencia entre las 2. 1 presentación: QUE SE NOTE CLARAMENTE QUE ES UNA PRESENTACIÓN DE LANZAMIENTO CON OBJETIVO DE PRESENTARLA FRENTE A MAS DE 200 PERSONAS.
+- En la 1a presentación, le ha faltado que demos datos específicos para convencer a quienes nos ve para comprarla
+
+**Con respecto a la presentación (2)**
+- hablamos mucho en futuro, de cosas que queremos y pensamos hacer, es muy importante que pasemos a hablar en pasado o bien en presente, QUE ES LO QUE ESTAMOS HACIENDO AHORA y QUE hemos hecho ya. es mucho mas importante el pasado.
+- faltan especificaciones sobre cómo se está usando en el aula la aplicación hoy en día. Ej: cuántos colegios están usando hoy en día la aplicación, cuántos docentes, alumnos, etc.
+- enlace a la versión en producción: son conceptos técnicos que profesores que no tengan ni idea no saben digerir ni van a entender, podríamos ponerlo pero con un enlace más comprensible (más corto, con un nombre diferente, o un lenguaje más natural, para que todo el mundo lo entienda). 
+- anuncio de inversores: es profesional, pero era difícil de seguir a veces por la rapidez en la que se hablaba. El mensaje principal debería ser por qué vale la pena invertir en nuestra aplicación
+- cómo estamos consiguiendo que nuestra aplicación a futuro tenga oportunidad de conseguir más clientes
+
+**Con respecto a la demo**
+- le ha dado la sensación de que en la demo, le faltaba un poco más de background. debemos decir antes de poner la demo, qué problema hay, por que lo solucionamos, que estamos haciendo para solucionarlo
+
+**Con respecto a los escenarios mostrados**
+- escenario pesimista y optimista, dar datos concretos también, números, para que el que lo vea se haga una idea. Las gráficas no se veían del todo bien, ajustar la vista para que en el lanzamiento las cosas se vean perfectamente
+  
+**Notas:**
+ - Animan a que el día previo a la del lanzamiento, ponernos en la situación de  que estamos en el salón de actos y de verdad estamos dando lanzamiento a una aplicación como equipo
+ - le ha parecido espectacular nuestra idea de proyecto. ( a uno de los profesores del feedback)
