@@ -135,3 +135,11 @@ En esta página se encuentra el feedback recogido por el grupo A - Rooma durante
 - Falta definir un poco más la historia de la demo hilando con incicio efectivo
 - Los stories hay que darle una vuelta, sobre todo para los inversores, para tener datos concretos y dar respuesta de porque tengo que dar pasta
 
+### Semana 10 (30/04)
+- El valor diferencial de la app debe quedar claro desde el principio, hay que integrarlo en el killer opener o antes de la demo
+- Demo aburrida
+- Demos repetitivas
+- Mal hilo conductor
+- Mucho texto en los slides
+- Ejes X e y no se entienden 
+
