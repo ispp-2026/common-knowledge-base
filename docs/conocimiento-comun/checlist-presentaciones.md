@@ -98,3 +98,21 @@
 - [ ] **Storyboard de anuncio para inversores** (nuevo, corto 2-3 min)
 - [ ] **Commitment Agreement** (desviación de cada miembro respecto al cumplimiento)
 - [ ] **Team building** (1 slide: modelo utilizado y métricas objetivas de resultados)
+
+## PPL
+**Fecha:** `30/04/2026 y 14/05/2026`
+### Presentación 1
+- [ ] **Killer Opener**
+- [ ] **Idea del proyecto**
+- [ ] **Anuncio Usuarios**
+- [ ] **Análisis de competidores**
+- [ ] **Estructura del equipo**
+- [ ] **Análisis Económico** Solo Modelo de negocio + princing, Alcance del ROI, Opciones de inversión
+- [ ] **Anuncio Inversores**
+- [ ] **Mas Información** Enlaces a despliegue cortos y qrs
+
+### Presentación 2
+- [ ] **Uso de la IA** Explicación de como hemos usado la IA en el proyecto
+- [ ] **Marketing** Definición de Persona, Plan de marketing con segmentación por usuarios + costes de impresiones, plan de SEO
+- [ ] **Redes sociales** Explicar quien y como va a llevar las redes sociales
+- [ ] **Riesgos** Análisis de riesgos optimistas, Análisis de riesgos pesimistas
