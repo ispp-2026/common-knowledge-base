@@ -5,7 +5,7 @@ description: Feedback proporcionado al grupo A Rooma.
 
 En esta página se encuentra el feedback recogido por el grupo A - Rooma durante el curso. Este feedback incluye comentarios, sugerencias y recomendaciones proporcionados por el profesor y compañeros para mejorar el desempeño del grupo en futuras actividades y proyectos.
 
-### Última actualización: 29 de marzo de 2026
+### Última actualización: 13 de mayo de 2026
 
 ## 1. Feedback principal (18/02), evaluación
 
@@ -61,6 +61,12 @@ En esta página se encuentra el feedback recogido por el grupo A - Rooma durante
 - En el stack tecnológico, incluir también herramientas de gestión (comunicación con pilotos, incidencias, etc.).
 - Tabla de competidores grande y legible; no juntar competidores en una misma columna (una columna por competidor).
 - Practicar la presentación para clavar tiempos.
+- Evitar redundancias: si ya se ha explicado un competidor, no repetir lo mismo después.
+- Dejar claros procesos (verificación, facturas, extras a pilotos, promoción de pisos).
+- Casos de uso con nombres (no identificadores).
+- Cada presentación cuenta como "desde cero".
+- Añadir tarea de revisión de la presentación.
+- Generar interés destacando puntos fuertes de Rooma.
 
 ### Semana 3 (19/02), evaluación
 - Explicar Rooma antes que los desarrolladores; todas las diapositivas con título.
@@ -75,20 +81,33 @@ En esta página se encuentra el feedback recogido por el grupo A - Rooma durante
 - Hilo conductor de la presentación confuso ya que se van dando saltos todo el rato.
 - Dar más detalle del caso de uso de los pagos.
 - En el análisis de coste distinguir bien entre **CAPEX y OPEX**.
+- En el análisis de coste tener en cuenta los costos del equipo de soporte en el caso de externalizar la resolución de incidencias.
 - Análisis de coste según el volumen de usuarios (usar tabla comparativa).
+- En el análisis del commitment agreement usar en vez de horas de una semana exacta, usar las horas totales y la media por semana por integrante.
 
 ### Semana 5 (05/03)
 - Hilo conductor sigue sin ser coherente del todo, no atrae.
 - No presentarnos como estudiantes, somos ingenieros.
+- No usar palabras técnicas que los clientes puedan no entender.
 - Diferenciar entre riesgos y problemas.
+- Poca profundidad en la tecnología.
 - Justificar cómo estamos intentando solucionar los problemas y si eso está funcionando.
+- No podemos decir que nuestros elementos diferenciadores se delegan en otros.
+- En el análisis económico especificar datos temporales y calcular datos en cuanto a usuarios.
 
 ### Semana 6 (12/03)
-- Mejorar el **killer opener** para captar la atención.
+- Mejorar el **killer opener** para captar más la atención desde el principio.
+- Aplicar la filosofía menos es más y ajustar el foco de la presentación.
 - Reducir el tiempo y el nivel de detalle en el análisis de competidores.
+- Explicar mejor el apartado de las facturas para dejar claro cómo nos desmarcamos de la competencia.
+- Revisar la plataforma Wolo para coger inspiración.
 - Demo directa con datos reales: eliminar inicios de sesión, mostrar solo lo clave.
+- Quitar la explicación genérica de Scrum y contar únicamente lo que hemos adaptado nosotros.
+- Mostrar las desviaciones de tiempo de forma visual e individual (tanto en el sprint como en general).
+- Corregir los títulos de las gráficas de horas para distinguir bien entre la media y el total.
 - Desglosar y detallar mucho más los gastos, incluyendo un análisis de costes con fórmulas.
 - Añadir el coste de GitHub a los gastos.
+- Mantener las buenas transiciones de bloque que ya tenemos.
 
 ### Semana 7 (26/03)
 
@@ -136,10 +155,11 @@ En esta página se encuentra el feedback recogido por el grupo A - Rooma durante
 - Los stories hay que darle una vuelta, sobre todo para los inversores, para tener datos concretos y dar respuesta de porque tengo que dar pasta
 
 ### Semana 10 (30/04)
-- El valor diferencial de la app debe quedar claro desde el principio, hay que integrarlo en el killer opener o antes de la demo
-- Demo aburrida
-- Demos repetitivas
-- Mal hilo conductor
-- Mucho texto en los slides
-- Ejes X e y no se entienden 
+- No queda claro el valor diferencial desde el principio; integrarlo en el killer opener o mostrarlo a través de la demo.
+- Segunda demo demasiado larga; mejor meter una cosa por demo y documentos/datos uno por uno.
+- Mal hilo conductor de la presentación: no está todo bien organizado y la historia no se conecta con claridad.
+- Algunas slides con mucho texto.
+- En prácticas no se muestran bien y es un "show".
+- No se entiende bien cómo se presentan ciertas pantallas en concreto.
+- La explicación es muy superficial, no se profundiza lo suficiente.
 

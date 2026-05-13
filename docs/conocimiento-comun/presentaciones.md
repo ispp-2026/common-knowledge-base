@@ -108,3 +108,44 @@ En esta página se recopila el feedback proporcionado por los profesores a los d
 - Poner apoyo visual en la diapositivas
 - Las diapositivas es el elemento evaluable, debe estar todo claro en ellas
 
+## Feedback del día 30/04
+
+### Directrices generales:
+- Hay que tener coherencia con todas las decisiones que se toman en la presentación.
+- Seguir un guion claro y explicar mejor con apoyo de contenido visual.
+- Hablar más del producto en concreto, no de generalidades.
+- Mencionar funcionalidades que aporten valor real al usuario.
+- Evitar hablar de cosas que no aportan nada a la audiencia.
+- Se pueden mejorar las transiciones entre ideas.
+- Gráficos más sencillos y claros, con contexto suficiente para entenderlos.
+
+### Errores comunes a evitar:
+- Mensaje que no se puede entender: cuidar tanto el contenido como la forma de contarlo.
+- Decir cosas obvias que no aportan (presentación básica).
+- No incluir datos concretos suficientes.
+- Inconsistencia entre las decisiones presentadas.
+- Repetir conceptos ya dichos anteriormente.
+
+### Organización y entregables:
+- Tener una landing page del equipo con acceso a todos los documentos.
+- Portfolio en GitHub con buenas prácticas.
+
+### Estructura sugerida para presentación final (PPL):
+- Duración máxima: 20 minutos.
+- Una persona por cada parte importante (defensores del proyecto, consumidores, etc.).
+- Incluir: descripción del producto, métricas, datos de uso, slide de costes.
+- Incluir métricas de power users (activos diarios), % de conversión y analítica (usuarios, consultas).
+- Última slide con enlaces (web, GitHub).
+- Cerrar con un CTA (Call To Action) claro.
+
+### Diseño de diapositivas:
+- Encabezado uniforme en todas las slides.
+- Usar iconos.
+- Tipografía coherente.
+- Pocas palabras por slide.
+- SEO: usar palabras acertadas y relevantes.
+- Explicar campañas lanzando promociones previas.
+- Usar números siempre que sea posible.
+- Gráficos con contexto suficiente.
+- Medir el engagement del público.
+- Añadir resumen en slide final.
