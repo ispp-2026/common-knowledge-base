@@ -419,3 +419,37 @@ Para la próxima presentación, estos puntos son de cumplimiento  **obligatorio*
 - Storyboard adicional para un anuncio de inversores (anuncio corto de 2-3 minutos como mucho)  
 - Resumen de alto nivel del cumplimiento del commitment agreement
 - No metodología (mas cosas, analizar con respecto al ultimo dia para eliminar)
+
+### Semana 9 (16/04), Evaluación
+### Semana 10 (16/04), Evaluación
+
+***A tener en cuenta en todas las presentaciones***
+- Presentación limpia y autocontenida.
+- Ensayar mejor la presentación, las transiciones tienen que estar perfectas.
+- Presentación con mucho texto.
+- Se eliminan las preguntas textuales de la presentación, decirla mejor hablada.
+- El anuncio de los inversores pasa a ser el anuncio de los clientes.
+- Preparar el escenario: plan de contingencia
+- ⁠No poner tanta información en las diapositivas (ej: tabla de competidores)
+- ⁠No ser tan específico con las funcionalidades 
+- ⁠Justificar por qué querrían invertir en la aplicación
+
+***Para la Semana 7/05 - Retrospectiva Global)***
+- Presentacion privada de cada grupo con los profesores, somos los cuartos. 
+- En la presentación se discutirá el rendimiento individual de cada miembro del grupo, tanto en trabajo realizado como cumplimiento del CA, posibles problemas, etc. - Max 15 minutos, luego los profesores nos harán preguntas.
+
+***Para la Semana 14/05 - Evaluación del PPL***
+- WPL (presentación larga): en la parte de inversores incluir análisis objetivo y/o cuántitativo del mercado y oportunidades de inversión (3 como mucho), condiciones y retorno de inversión. Última slide con enlace a la landin page( de que va el proyecto, inversiones, anuncios) en qr y enlace. Enlace a producción.
+- ⁠presentacion corta: igual
+
+***Incorporaciones nuevas***
+- Tener una landing page donde se vea el evento y que se pueda acceder a los diferentes proyectos .
+- ⁠Cada equipo tiene que tener un banner póster para ponerlo por la etsii: 16:9 y 1920X108. Contenidos mínimos: código qr con la landing del proyecto. Poner “Proyecto de ISPP 25/26”. Poner apartado con “más información”, este producto se lanzará el … En EV hay ejemplos.
+- ⁠Los ponentes tenemos que autorizar que el WPL se retransmita por streaming (antes del 7/5)
+
+***Información del WPL***
+- Salón de actos reservado el 21 de mayo de 9:30 a 17:30( el evento comienza a las 12:30).
+- Para ensayar, el 19 de mayo de 12:30 a 17:30
+- Son 11 presentaciones. La última media hora pa los profesores, harán entrega de premios, encuestas, algo raro.
+- Asistencia: oficialmente solo hay q ir a tu turno normal
+
