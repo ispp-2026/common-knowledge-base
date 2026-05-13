@@ -271,7 +271,7 @@ Para la próxima presentación, estos puntos son de cumplimiento  **obligatorio*
 - Reflexionar si se van a aplicar cambios o no.
 - Explicar el modelo y cómo está funcionando.
 
-### Semana 7 (26/03), Evaluación
+### Semana 7 (26/03), Evaluación S2
 
 **FOCO DE LA PRESENTACIÓN**
 - Definir una **idea clara con killer opener**
@@ -364,7 +364,7 @@ Para la próxima presentación, estos puntos son de cumplimiento  **obligatorio*
 ***Otros ajustes***
 - El **Excel vuelve a EV**
 
-### Semana 8 (9/03) 
+### Semana 8 (9/03), Sprint 3
 
 ***Feedback AURA:*** 
 - Inicio efectivo mal planteado, no hay killer opener real. Buscar hacerlo más corto e impactante. 
@@ -420,8 +420,35 @@ Para la próxima presentación, estos puntos son de cumplimiento  **obligatorio*
 - Resumen de alto nivel del cumplimiento del commitment agreement
 - No metodología (mas cosas, analizar con respecto al ultimo dia para eliminar)
 
-### Semana 9 (16/04), Evaluación
-### Semana 10 (16/04), Evaluación
+### Semana 9 (16/04), Evaluación S3
+
+Dos presentaciones:
+
+1ª presentación: 
+- Duración 10 mínutos similar a cómo será la última
+- Idea clara bien killer opener y que enlace con anuncio de cliente máx 1 min.
+- ¿Qué hace exactamente? --> Demo de casos uso core, con hilo conductor realista y con datos reales
+- ¿Y esto por qué no se ha hecho antes? --> competidores y diferenciacion
+- ¿Quién hay detrás de este proyecto? --> Presentar equipo de forma simple
+- ¿Esto es rentable? --> Modelo negocio explícito y modelo de precios propuesto a clientes, plan negocio de alto nivel y opciones de inversión planteamos
+- ¿Donde veo más info? --> URL, QR, enlace al sistema que esté funcionando ya en producción
+- Enlace no a entregable si no al de producción (para estos días si puede ser al entregable, para el día final no)
+
+2ª Presentación:
+- Esta debe durar 5 min 
+- 1 diapo como usar Ia en desarrollo,  metodología para Ia hemos usado
+- Qué herramientas
+- Plan de marketing
+- Nuestro modelo de segmentación: usar modelo de persona* (Mínimo debe haber 2 personas)
+- Como abordamos posicionamiento
+- Qué campaña de lanzamiento vamos a hacer debe incluir al menos un evento / acción previa a work proyect launch
+- Estimaciones costes en base a una gráfica que se vea en la misma escenario pesimista crecimiento (riesgos pasan todos) y otro escenario optimista (donde riesgos no pasan) 
+- Community manager responsable y responsabilidades más su plan de acción
+- Cual es el coste que va a tener basado en q tamaño de alcance de campaña costes de community mánagers
+- Preparar 2 anunciós uno inversores otro usuario
+
+  
+### Semana 10 (30/04), PPL
 
 ***A tener en cuenta en todas las presentaciones***
 - Presentación limpia y autocontenida.
