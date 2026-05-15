@@ -480,3 +480,14 @@ Dos presentaciones:
 - Son 11 presentaciones. La última media hora pa los profesores, harán entrega de premios, encuestas, algo raro.
 - Asistencia: oficialmente solo hay q ir a tu turno normal
 
+### Semana 11 (14/05), PPL EVALUACIÓN
+
+- Menos anglicismos en plan fremium y premium. 
+- Para los inversores mejorar el plan a inmediato y corto plazo. 
+- ¿No poner títulos? 
+- Análisis competidores más alto nivel, y explicar luego las diferencias que se dice para que sirve Aura 
+- Revisar anuncio de inversores (acrónimos), pero le ha gustado. 
+- Cambiar la voz de la demo, racismo, xenofobia 
+- Revisar las diapositivas de equipo, algo más profesional 
+- Creo que se refiere al primer anuncio cuando dice que no se veían bien algunas pantallas, ¿se podría poner por encima capturas? 
+
