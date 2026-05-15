@@ -487,7 +487,7 @@ Dos presentaciones:
 - ¿No poner títulos? 
 - Análisis competidores más alto nivel, y explicar luego las diferencias que se dice para que sirve Aura 
 - Revisar anuncio de inversores (acrónimos), pero le ha gustado. 
-- Cambiar la voz de la demo, racismo, xenofobia 
+- Cambiar la voz de la demo a una voz neutra
 - Revisar las diapositivas de equipo, algo más profesional 
 - Creo que se refiere al primer anuncio cuando dice que no se veían bien algunas pantallas, ¿se podría poner por encima capturas? 
 
