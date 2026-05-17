@@ -75,3 +75,9 @@ En esta página se recopila el conocimiento común y el feedback proporcionado p
 - Adaptar el killer para pensar que se reproducirá en el salón de actos.
 - Que conecte con el público, intentar pillar el focus desde el comienzo.
 - Se permite el formato teatrillo, pero que mantenga un estilo elegante y serio.
+
+### Feedback del día 14/05
+
+- Intentar mantener un flujo fluido y natural durante el inicio y la transición; evitar ir cortados.
+- Cuidado con bajar la energía a lo largo de la presentación; el fuerte impulso inicial del opener debe sostenerse.
+- Si se introduce una historia o narrativa desde el principio, asegurar de que el ritmo no sea lento y reflejar con claridad en qué punto exacto la app ayuda a solucionar el problema planteado.
