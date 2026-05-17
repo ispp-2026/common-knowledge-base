@@ -51,3 +51,13 @@ En esta página se recopila el conocimiento común y el feedback proporcionado p
 - No pueden reutilizarse demostraciones de semanas anteriores, lo mejor sería ir actualizándolas e ir adaptándolas a los nuevos requisitos.
 - Sería buena idea implementar cambios de voces en narradores, según el tipo de usuario que esté utilizando la aplicación.
 - Importante manejar los volúmenes y zooms de las demostraciones técnicas.
+
+### Feedback del día 14/05
+
+- Tener especial cuidado con la interfaz en las demostraciones técnicas: vigilar el tamaño de los botones y cómo se adaptan a las pantallas.
+- Intentar no ir cortados en la explicación o reproducción de la demo; se debe buscar un flujo fluido.
+- Hay elementos secundarios en las demos que se pueden quitar o limpiar para resaltar de forma limpia ciertas cosas estratégicas.
+- Intentar sacarle todo el partido posible a los elementos diferenciadores del producto durante la demo.
+- Enfocarse prioritariamente en los mensajes clave de la aplicación y no gastar tiempo en demostrar simplemente que "la app funciona".
+- Cuidado extremo con los acentos y la forma de locutar los mensajes en los vídeos de demostración: un acento que resalte demasiado puede desviar por completo la atención del foco técnico.
+- Si la demo se apoya en una historia/caso de uso, reflejar explícitamente dónde ayuda la app a solucionar el problema sin ralentizar el ritmo de la presentación.
