@@ -5,16 +5,21 @@ description: Feedback proporcionado al grupo C DondeSiempre.
 
 En esta página se encuentra el feedback recogido por el grupo C - DondeSiempre durante el curso. Este feedback incluye comentarios, sugerencias y recomendaciones proporcionados por el profesor para mejorar el desempeño del grupo en futuras actividades y proyectos.
 
-### Última actualización: 30 de abril
+### Última actualización: 17 de mayo
 
 ## 1. Tips para Presentaciones
 
-- **Gestión del tiempo y ritmo**: En la Semana 4 se comentó que hubo "demasiado contenido y demasiado rápido". Es vital hablar más tranquilos y dar tiempo al cliente/profesor para asimilar los conceptos, especialmente en partes densas como el CI/CD.  Se recomienda simplificar o reducir el contenido menos crítico.
+- **Gestión del tiempo y ritmo**: En la Semana 4 se comentó que hubo "demasiado contenido y demasiado rápido". Es vital hablar más tranquilos y dar tiempo al cliente/profesor para asimilar los conceptos, especialmente en partes densas como el CI/CD. Se recomienda simplificar o reducir el contenido menos crítico.
+- **Fluidez y Rodaje**: Asegurar un flujo natural y ensayado. Evitar marcar las transiciones de bloques de forma tan abrupta o fragmentada que penalice la fluidez global de la exposición.
 - **Hilo conductor y transiciones**: El flujo narrativo debe tener sentido global. Evitad "saltos extraños" entre temas que rompan el hilo (por ejemplo, pasar del Team Building a los Usuarios Piloto; el Team Building debe presentarse junto a la sección del equipo). Las transiciones de ponente deben ser naturales.
 - **Equilibrio técnico/visual y Gráficas**: Se ha validado como un aspecto muy positivo el uso de gráficas (especialmente los cuadrantes de rendimiento). Mantener este tipo de apoyos visuales para evitar abrumar con texto, dejándolos en pantalla el tiempo suficiente para que se procesen.
-- **Seguimiento de proyecto**: En las transparencias de seguimiento, las desviaciones deben ser explícitas. No mostrar solo horas; indicar desviaciones en contenidos y funcionalidades (qué se estimó vs. qué se hizo). Además, es clave resaltar el estado anterior y el actual a lo largo del Sprint y del total del proyecto.
+- **Seguimiento de proyecto**: En las transparencias de seguimiento, las desviaciones deben ser explícitamente cuantitativas y cualitativas. No mostrar solo horas; indicar desviaciones en contenidos y funcionalidades (qué se estimó vs. qué se hizo). Además, es clave resaltar el estado anterior y el actual a lo largo del Sprint y del total del proyecto.
 - **Explicación del CI/CD**: Debe explicarse con suficiente detalle técnico (se pidió en la semana 3), pero con el tiempo necesario para que se entienda (en la semana 4 se pasó demasiado rápido).
-- **Demos Reales, Diferenciadoras y con Historia**: Es obligatorio transicionar a demostraciones reales. Aunque las demos actuales (16/04) se entienden genial, se debe evaluar si exponerlas de manera exhaustiva es lo más efectivo. Hay que analizar a los usuarios típicos y plantear una reestructuración de la demo para buscar una mayor atracción, no solo la comprensión de la herramienta.
+- **Demos Reales, Dinámicas y con Foco**: 
+    * Es obligatorio transicionar a demostraciones reales. 
+    * **Evitar la inercia de querer mostrarlo todo**: El objetivo no es una guía exhaustiva paso a paso, sino que la audiencia vea de manera dinámica que la app funciona y le apetezca usarla. 
+    * Se deben saltar pasos rutinarios o de menor interés para centrarse e ir directamente a los **aspectos clave y de valor diferenciador**.
+    * Al mostrar el funcionamiento (ej. la visualización del *outfit*), el propósito final de la acción debe quedar clarísimo (ej. conectar visualmente cómo la interacción digital impulsa que la gente acuda físicamente a la tienda).
 - **Flujo de la Herramienta**: Al mostrar la aplicación, refinar la explicación trazando un flujo claro de cómo funciona cada interacción con la herramienta.
 - **Síntesis y Feedback**: Mantener el énfasis y la prioridad en la síntesis. Se ha valorado muy positivamente la capacidad de resumir y exponer la información. Continuar demostrando que se refleja activamente el feedback de semanas anteriores.
 - **Narrativa con flujo lógico**: Transicionar hacia un modelo de demostración con una historia desde la perspectiva del usuario (ej. un cliente que llega desde Instagram).
@@ -22,7 +27,7 @@ En esta página se encuentra el feedback recogido por el grupo C - DondeSiempre 
 - **Renovación obligatoria de Demos**: Aunque los zooms y el enganche de las demostraciones técnicas con el anuncio de clientes están muy bien ejecutados, no se deben reutilizar las demos de semanas anteriores.
 - **Gestión del tiempo y narradores en las Demos**: Las demostraciones siguen resultando demasiado largas. Sería buena idea además poner una voz para cada tipo de usuario que esté usando la aplicación.
 - **Coherencia visual en Segmentación de Usuarios**: Lo que se expone oralmente debe coincidir al 100% con lo que se proyecta. Es necesario estructurar mejor la estética de las diapositivas de segmentación, asegurando que todas las características de los perfiles que se mencionan aparezcan escritas en la presentación. 
-
+- **Uso de Contenido Audiovisual (Vídeos/Anuncios)**: Se valora positivamente la actualización de los vídeos (especialmente la sección de marketing y visualización en Instagram). No obstante, se debe cuidar rigurosamente la identidad de marca, asegurando que elementos esenciales como el **logo** de la aplicación estén siempre visibles.
 
 ## 2. Tips para Análisis de competidores
 
@@ -52,8 +57,13 @@ En esta página se encuentra el feedback recogido por el grupo C - DondeSiempre 
 - **Explotar el KI**: sacarle más partido al inicio efectivo para maximizar el impacto.
 - **Conexión**: Si se utiliza un recurso narrativo como una cita, esta no puede quedar aislada. Hay que encontrar la forma de "calzarla" para que conecte de manera directa y evidente con la aplicación y su propuesta de valor.
 
-## 5. Tips para Idea de Negocio
+## 5. Tips para Idea de Negocio y Viabilidad Financiera
 
+- **Diferenciación Conceptual Crítica**: Cuidado al exponer las proyecciones financieras. **No es lo mismo rentabilidad que viabilidad**. Explicar con precisión y propiedad los términos para no transmitir ideas erróneas al cliente o inversor (puesto que dar la sensación de viabilidad cuando se explica rentabilidad confunde el mensaje).
+- **Optimización de Métricas Financieras**: 
+    * Centrar el discurso financiero principalmente en el **ROI (Retorno de la Inversión)**.
+    * Si la información del ROI ya se incluye de forma contundente en el anuncio de inversores, **evitar reiterar las mismas ideas** antes o después durante la presentación para no saturar.
+    * Tener especial cuidado al definir y presentar el **Break Even (Punto de Equilibrio)**. Evitar duplicar o fragmentar esta explicación en distintas secciones de la presentación y acotar bien su definición.
 - **Responder clarísimamente**: "¿Qué valor real aporta la plataforma a una pequeña tienda local?".
 - **Funcionalidad RRSS**: La propuesta de valor diferencial es la automatización de RRSS (crear catálogo -> genera post automático en Instagram). Considerar si esta función debería ser gratuita (o una versión limitada gratis) para captar usuarios, en lugar de ser de pago desde el inicio.
 - **Información sensible**: Riesgo alto de que competidores vean precios de otros y se genere "guerra de precios" o venta de información. Analizar y explicar cómo se controla esto.
@@ -67,7 +77,7 @@ En esta página se encuentra el feedback recogido por el grupo C - DondeSiempre 
 - **Precisión**: Cuidado con la palabra "salario". Especificar siempre si es Salario Bruto, Líquido o Coste de Empresa/Contrato para evitar errores de interpretación.
 - **Análisis de Planes**: Afinar el coste de los planes de suscripción basándose en el feedback de los pilotos, no en suposiciones.
 - **Nivel de Detalle**: No ir al céntimo con los costes; es mucho mejor dar los números grandes para facilitar la lectura y comprensión.
-- **CapEX vs. OpEX**: Aclarar la diferencia conceptual en los costes de contratación. El coste de construir el software debe añadirse al CapEX (que tiene mayor peso inicial). El OpEX debe reservarse para los gastos una vez construido el software (mantenimiento, soporte, etc.). Importante: no se debe separar el OpEx del mantenimiento, ya que forma este forma parte del primero.
+- **CapEX vs. OpEX**: Aclarar la diferencia conceptual en los costes de contratación. El coste de construir el software debe añadirse al CapEX (que tiene mayor peso inicial). El OpEX debe reservarse para los gastos una vez construido el software (mantenimiento, soporte, etc.). Importante: no se debe separar el OpEx del mantenimiento, ya que este forma parte del primero. Mucho cuidado al calcular y presentar el Break Even en relación con el CapEx para que no haya incongruencias financieras.
 - **Formas de pago**: Proporcionar formas claras de establecer costes (coste por hora, por trabajador, etc.) y evitar diapositivas con cifras que aturullen.
 - **Revisión de beneficios**: Validar la coherencia de las estimaciones de ingresos (ej. los 500.000€ previstos) para que sean realistas.
 - **Punto de Equilibrio (Break Even)**: Mucho cuidado al calcular y presentar el Break Even en relación con el CapEx. Revisar bien los números para que no haya incongruencias financieras.
@@ -204,5 +214,11 @@ En esta página se encuentra el feedback recogido por el grupo C - DondeSiempre 
 - Las demostraciones, a pesar de estar bien explicadas, son demasiado largas. Sería buena idea diferenciar voces de narradores por los usuarios de la aplicación. 
 - Para la segmentación de usuarios, habría que estructurar mejor la información mostrada por perfil, había algunas características que se mencionaban pero no aparecían en las diapositivas (mejorar la información que se presenta en la estética de las diapositivas de segmentación de usuarios).
 
-
-
+### Semana 11 (14/05, evaluación - Feedback incorporado)
+    * Le ha gustado la actualización del formato y edición de los vídeos.
+    * Cuidado en el fragmento de marketing y visualización en Instagram: falta incluir el logotipo de la marca o elementos corporativos indispensables.
+    * Se ha apreciado una falta de fluidez que en otras ocasiones no se notaba, originada posiblemente por haber segmentado o marcado de forma demasiado rígida las transiciones entre bloques.
+    * Cuidado riguroso con los términos económicos: se ha transmitido la sensación de explicar viabilidad cuando técnicamente se argumentaba sobre la rentabilidad del modelo. No son equivalentes.
+    * En la demo del outfit no se apreciaba con suficiente claridad la meta final (explicar que lo que se hace sirve directamente para incentivar que los usuarios vayan de forma presencial a la tienda).
+    * Sensación de falta de rodaje y fluidez. Se mantiene la inercia del pasado de querer enseñar absolutamente todo el flujo en la demo. El propósito de la demo es que la audiencia perciba de forma rápida y dinámica que la aplicación funciona correctamente y le den ganas de utilizarla. Hay que simplificarla: saltarse pasos intermedios irrelevantes y centrarse exclusivamente en momentos clave de alto valor.
+    * Cuidado con duplicar o reiterar las mismas ideas sobre el ROI y las métricas de inversores a lo largo de la presentación. Si ya se expone con fuerza en el anuncio de inversores, no es necesario mencionarlo ni antes ni después. Centralizar la estrategia en el ROI y cuidar la definición explícita del Break Even.
