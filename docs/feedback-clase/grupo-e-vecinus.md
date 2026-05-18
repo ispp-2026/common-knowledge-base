@@ -521,3 +521,17 @@ Lo mismo que hoy EXCEPTO:
 - Última transparencia de la presentación de 10 minutos debe tener url legible (bit.ly) y QR a la LANDING
   - La landing debe incluir enlace al despliegue de producción y cuentas de usuario distintas a las entregadas a los profesores para que los asistentes puedan probar la aplicación. 
 - Presentación complementaria exactamente igual a la entregada hoy (nosotros tenemos que añadir posicionamiento SEO y campaña de lanzamiento con eventos)
+
+
+### Semana 11, día 14/05. Evaluación PPL
+
+- Le gusta el cambio del opener
+- Le gusta el vídeo de clientes
+- En la demo no le gusta, es un poco repetitiva a lo de los clientes y está muy cortado (tiempos muertos y vacíos sonoros). Hay que recortarlo. Tampoco se resalta quien es el participante que está realizando la acción. 
+- Competidores: No se le terminan de sacar partido a los casos CORE en la demo
+- Video inversiones, falta apoyo visual. Cero datos, gráficas, … Meter apoyo para el dinero
+- Los valores de inversión, mejor meterlo por rangos en lugar de valores fijos.
+- El video segundo hay que mejorarlo muchísimo. CAMBIARLO POR COMPLETO. Intentar centrarnos en lo CORE, no es necesario meter todo. Ver que podemos quitar para resaltar más lo anterior.
+- Lo de la inversión, a lo mejor podemos elevar el nivel de abstracción, menos detalle, para poder hablar más en ese punto. Yo veo poner rangos en lugar de costes fijos
+- En vez de decir predicción usar estimacion
+
