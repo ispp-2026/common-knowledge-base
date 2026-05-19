@@ -635,3 +635,21 @@ PRESENTACIÓN ANEXA: (la 2)
 **Notas:**
  - Animan a que el día previo a la del lanzamiento, ponernos en la situación de  que estamos en el salón de actos y de verdad estamos dando lanzamiento a una aplicación como equipo
  - le ha parecido espectacular nuestra idea de proyecto. ( a uno de los profesores del feedback)
+
+### Semana 11 (14/04) (EVALUACIÓN)
+
+**Obligatorio para la siguiente semana**
+- lo mismo que en la anterior
+
+**Con respecto a los vídeos**
+- (anuncio público) vídeo publico muy lento - no se destaca tanto las funcionalidades de la asignatura
+- (anuncio público) enfocarse mas en cerebrus y recortarlo mucho
+- (demo) ver mejor la parte de estadísticas, sobretodo lo del semáforo, ver si se puede quitar algopara derles más importancia
+- (anuncio inversores) quitar edunova y decir directamente cerebrus
+- (anuncio inversores) los efectos de sonido hace que se pierda un poco el hilo
+- (anuncio inversores) buen mensaje y contenido - pero deliveri no es el adecudado para un inversor aparentemente se pariodaba a un cryptobro
+- (anuncio inversores) no decir cifras económicas al euro, mejor expresarlo en miles
+
+**Con respecto a la presentación**
+- inicio efectivo, muy bueno, pero aunque se empieza con dinamismo grande, cuando se pasa a presentar se baja la energía, energía y énfasis se debería de mantener todo el tiempo
+  
