@@ -163,3 +163,9 @@ En esta página se encuentra el feedback recogido por el grupo A - Rooma durante
 - No se entiende bien cómo se presentan ciertas pantallas en concreto.
 - La explicación es muy superficial, no se profundiza lo suficiente.
 
+### Semana 11 (14/05)
+- Cambiar tablas de análisis de competidores
+- Cambiar monigotes del video para que sean acordes a los que usamos en la presentación
+- Cambiar el contenido del plan de negocio
+- Tener cuidado con las palabras que se usan en el video de inversores
+- Suprimir Breakeven
